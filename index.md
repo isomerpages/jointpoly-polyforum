@@ -12,15 +12,16 @@ sections:
       button: Forum Details
       url: /About Us
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Programme
+          description: What's Happening
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: SPEAKERS
+          description: Keynote Speakers
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Resources
+          description: Download resources here
           url: /privacy/
+      background: /images/PF 2022 Logo_FinalFA-01.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle

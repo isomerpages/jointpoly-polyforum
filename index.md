@@ -21,6 +21,7 @@ sections:
         - title: Resources
           description: Download resources here
           url: /privacy/
+      background: /images/herobanner-black.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle

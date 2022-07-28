@@ -21,7 +21,6 @@ sections:
         - title: Resources
           description: Download resources here
           url: /privacy/
-      background: /images/PF 2022 Logo_FinalFA-01.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle

@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Programme
           description: What's Happening
-          url: https://google.com
+          url: /example-page
         - title: SPEAKERS
           description: Keynote Speakers
           url: https://gmail.com

@@ -23,9 +23,8 @@ sections:
           url: /privacy/
       background: /images/herobanner-black.png
   - infobar:
-      title: Infobar title
+      title: Polytechnic Forum 2022
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      description: 13 - 16 September 2022
       url: /faq/
 ---

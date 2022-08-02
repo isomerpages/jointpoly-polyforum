@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: "Polytechnic Forum 2022 "
+description: "Polytechnic Forum 2022 "
+image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
 notification: ""
 sections:
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+

@@ -3,13 +3,22 @@ title: PF 2022 Subthemes
 permalink: /subthemes
 description: ""
 ---
+In PF2022, delegates will be exposed to both safe facilitation skills and mediation skills. These sessions will equip delegates with various collaboration skills such as; identifying and managing conflicts; handling difficult conversations; steps to accurate ground sensing; mediation techniques; agreeing to disagree; dealing with prejudice; and fostering collaborations, integration and inclusion, all within a safe space. <br>
 
-
-
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+****
+# Gender Equality
+ On 28th March 2022, the Singapore Government released the White Paper on Singapore Women’s Development following the Conversations on Singapore Women’s Development sessions which completed in 2021. The review looked at what can be done to protect women from family violence, promote equality of opportunities for women, protect them from sexual harassment, assault and workplace discrimination as well as recognising the integral roles played by women at home as wives, mothers, caregivers and homemakers. The students in this subtheme will explore these topics and what has been done since the White Paper and how they can decrease inequality.
+ ****
+ # Physical and Mental Challenges
+ 
+Recent years a lot has been done to support those who are disabled like supporting our Paralympic athletes and building of accessibility features like ramps within the housing estates. However, there is still much more to be done to helping to change mindsets about mental and physical disabilities. This subtheme wants students to get a good grasp on what has been done and what role they can play to make Singapore a more welcoming space.
+****
+ # Race Divide
+Being a multicultural society, any disharmony among races can be disastrous. The peace and unified identity that Singapore has can be lost and with that any economic gains we have made along the way. The students will deepen their knowledge from what they have learnt previously in school and to get a holistic understanding of the situation in Singapore.
+****
+ # Socioeconomic Divide
+This subtheme wants to help students better understand the issues of income equality and the social divide that comes from it. It wishes students to know the steps taken by the government and others to help address this challenge and the role they play to help make Singapore a more cohesive society.
+****
+<br>
+<br>
+Participants will examine these issues from our local perspective as a city state, whilst being able to contrast the differences amidst our connections with ASEAN and global nations. The topics will be explored through the lens of the delegates with keynote speaker sessions, learning journeys, experiential activities, constructive discussions, and self- reflection.

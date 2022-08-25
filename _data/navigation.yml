@@ -2,7 +2,15 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: https://rp-polyforum2022-prod.netlify.app
-  - title: About Us
+  - title: pf2022
     url: /about-us
-  - title: LOcation
-    url: /locations
+  - title: FORUM DETAILS
+    url: /programme
+    sublinks:
+      - title: Sub-Themes
+        url: /subthemes
+      - title: Location
+        url: /locations
+  - title: PF2022
+    url: /about-us
+    sublinks: []

@@ -21,6 +21,8 @@ TAFEP
 <br>
 Youth Corps Singapore and National Youth Council 
 
+![](/images/sponsorsbar3.png)
+
 
 
 ## Partners

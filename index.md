@@ -23,8 +23,9 @@ sections:
           url: /privacy/
       background: /images/herobanner-black.png
   - infobar:
-      title: Polytechnic Forum 2022
-      subtitle: Subtitle
-      description: 13 - 16 September 2022
+      title: POLYTECHNIC FORUM
+      subtitle: one people, one nation
+      description: "9, 13 - 16 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE & REPUBLIC
+        POLYTECHNIC "
       url: /faq/
 ---

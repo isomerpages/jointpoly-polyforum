@@ -33,7 +33,7 @@ Jenaris Home
 <br>
 Ministry of Culture, Community and Youth
 <br>
-Ministry of Manpower ACE
+Ministry of Manpower's Assurance, Care and Engagement (ACE)
 <br>
 Northlight School
 <br>
@@ -46,7 +46,8 @@ Singapore Partnerships Office (SGPO)
 ## Organising Committee
 
 ### Nanyang Polytechnic 
+
 ### Ngee Ann Polytechnic 
 ### Republic Polytechnic 
 ### Singapore Polytechnic 
-### Temasek Polytechnic 
+### Temasek Polytechnic

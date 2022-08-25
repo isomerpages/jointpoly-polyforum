@@ -37,7 +37,7 @@ sections:
       url: /locations
       title: "We Can't Wait To See You! "
   - infopic:
-      title: Sponsors
+      title: Sponsors and Organisers
       subtitle: thank you!
       button: Find OUT MORE!
       url: /sponsors

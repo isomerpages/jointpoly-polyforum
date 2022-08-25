@@ -10,7 +10,7 @@ sections:
       title: Polytechnic Forum 2022
       subtitle: One People, One Nation
       button: Forum Details
-      url: /about-us
+      url: /example-page
       key_highlights:
         - title: Programme
           description: What's Happening

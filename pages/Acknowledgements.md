@@ -3,7 +3,7 @@ title: Acknowledgements
 permalink: /sponsors
 description: ""
 ---
-# Acknowledgments 
+# Thank You! 
 
 Polytechnic Forum 2022 is not possible without the support and generosity of our partners and sponsors. 
 
@@ -111,8 +111,17 @@ Farhan Bin Kamis
 
 | Facilitator's Name | Polytechnic | Role |
 | -------- | -------- | -------- |
-| Mandy Low    | Republic Polytechnic     | Lead Facilitator     |
-| Leong Yihui | Republic Polytechnic | Assistant Lead Facilitator |
-| Loh Hui Lee | Nanyang Polytechnic | Assistant Group Facilitator |
-| Leslie Neo | Singapore Polytechnic     | Group Facilitator     |
-| Pang Seng Hui | Temasek Polytechnic     | Group Facilitator |
+| Stella Gan    | Republic Polytechnic     | Lead Facilitator     |
+| Fazilah A Latiffi | Republic Polytechnic | Assistant Lead Facilitator |
+| Mariam M Sali | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Cyrine Anthony Joosa | Singapore Polytechnic     | Group Facilitator     |
+| Chao Jang Yuan | Temasek Polytechnic     | Group Facilitator |
+
+### Socioeconomic Divide
+
+| Facilitator's Name | Polytechnic | Role |
+| -------- | -------- | -------- |
+| Leong Wee Keat    | Republic Polytechnic     | Lead Facilitator     |
+| Roy Wong | Republic Polytechnic | Assistant Lead Facilitator |
+| Eddie Hon | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Joseph Lee | Nanyang Polytechnic     | Group Facilitator     |

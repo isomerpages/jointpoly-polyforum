@@ -1,2 +1,6 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: Home
+    url: https://rp-polyforum2022-prod.netlify.app
+  - title: About Us
+    url: /about-us

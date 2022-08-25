@@ -7,10 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Polytechnic Forum 2022
-      subtitle: One People, One Nation
-      button: Forum Details
-      url: /about-us
       key_highlights:
         - title: Programme
           description: What's Happening
@@ -21,7 +17,7 @@ sections:
         - title: ACKNOWLEDGEMENTS
           description: Sponsors and Organisers
           url: /sponsors
-      background: /images/herobanner-black.png
+      background: /images/Banner.jpg
   - infopic:
       subtitle: "Day 0 "
       description: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE

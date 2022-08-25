@@ -67,33 +67,52 @@ Wong Liwern<br>
 Yeo Meng Yee<br>
 
 
-
 ### Nanyang Polytechnic 
-**Khoo Kiah Hong<br>
-Darren Siah Zheng Kang<br>**
-James Chan<br>
-Loh Hui Lee<br>
-Lee Hong Weng Joseph 
+Darren Siah Zheng Kang<br>
+Khoo Kiah Hong
 
 ### Ngee Ann Polytechnic 
-**Jenny Tan<br>
-Magalachmi Sellaperumal<br>**
-Chong Ching Liang<br>
-Mariam M Sali <br>
-Hon Eddie 
+Jenny Tan<br>
+Magalachmi Sellaperumal<br>
 
 ### Singapore Polytechnic 
-**Ong Si Ying Jelena<br>
 Ho Thiam Aik<br>
-Lee Hooi Meng Hope<br>**
-Neo Meng Kian Leslie<br>
-Cyrine Anthoy Joosa<br>
-Ong Chai Lin
+Lee Hooi Meng Hope<br>
+Ong Si Ying Jelena
 
 ### Temasek Polytechnic
-**Choon Khee<br>
+Choon Khee<br>
 Chew Teck Tiong<br>
-Farhan Bin Kamis<br>**
-Jang Yuan<br>
-Tsu-Min Charmaine Monique<br>
-Seng Hui
+Farhan Bin Kamis
+
+# Facilitation Team
+
+### Gender Equality 
+
+| Facilitator's Name | Polytechnic | Role |
+| -------- | -------- | -------- |
+| Josefina Seow     | Republic Polytechnic     | Lead Facilitator     |
+| Emily Tan | Republic Polytechnic | Assistant Lead Facilitator |
+|  James Chan    | Nanyang Polytechnic     | Group Facilitator     |
+| Chong Ching Liang | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Charmaine Oei  | Temasek Polytechnic     | Group Facilitator     |
+
+### Physical and Mental Health Challenges
+
+| Facilitator's Name | Polytechnic | Role |
+| -------- | -------- | -------- |
+| Mandy Low    | Republic Polytechnic     | Lead Facilitator     |
+| Leong Yihui | Republic Polytechnic | Assistant Lead Facilitator |
+| Loh Hui Lee | Nanyang Polytechnic | Assistant Group Facilitator |
+| Leslie Neo | Singapore Polytechnic     | Group Facilitator     |
+| Pang Seng Hui | Temasek Polytechnic     | Group Facilitator |
+
+### Race Divide
+
+| Facilitator's Name | Polytechnic | Role |
+| -------- | -------- | -------- |
+| Mandy Low    | Republic Polytechnic     | Lead Facilitator     |
+| Leong Yihui | Republic Polytechnic | Assistant Lead Facilitator |
+| Loh Hui Lee | Nanyang Polytechnic | Assistant Group Facilitator |
+| Leslie Neo | Singapore Polytechnic     | Group Facilitator     |
+| Pang Seng Hui | Temasek Polytechnic     | Group Facilitator |

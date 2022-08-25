@@ -22,10 +22,14 @@ sections:
           description: Download resources here
           url: /privacy/
       background: /images/herobanner-black.png
-  - infobar:
-      title: POLYTECHNIC FORUM
-      subtitle: one people, one nation
-      description: "9, 13 - 16 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE & REPUBLIC
-        POLYTECHNIC "
-      url: /faq/
+  - infopic:
+      subtitle: "Day 0 "
+      description: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE
+      image: /images/ISOMER.png
+      alt: sdc
+  - infopic:
+      subtitle: DAY 1 - 4
+      description: 13 - 16 SEPTEMBER 2022 | REPUBLIC POLYTECHNIC
+      image: /images/ISOMER (1).png
+      alt: Image alt text
 ---

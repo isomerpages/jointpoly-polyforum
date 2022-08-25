@@ -17,7 +17,7 @@ sections:
         - title: ACKNOWLEDGEMENTS
           description: Sponsors and Organisers
           url: /sponsors
-      background: /images/Banner.jpg
+      background: /images/Banner1.jpg
   - infopic:
       subtitle: "Day 0 "
       description: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE

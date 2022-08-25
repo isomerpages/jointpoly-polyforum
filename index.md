@@ -22,9 +22,7 @@ sections:
           url: /resources
       background: /images/Banner1.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: CHAIRMAN'S ADDRESS
-      description: One People, One Nation?
+      description: CHAIRMAN'S ADDRESS
       button: Read More
       url: /address
       alt: Image alt text

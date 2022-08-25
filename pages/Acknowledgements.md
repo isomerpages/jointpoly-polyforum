@@ -69,31 +69,31 @@ Yeo Meng Yee<br>
 
 
 ### Nanyang Polytechnic 
-Khoo Kiah Hong<br>
-Darren Siah Zheng Kang<br>
+**Khoo Kiah Hong<br>
+Darren Siah Zheng Kang<br>**
 James Chan<br>
 Loh Hui Lee<br>
 Lee Hong Weng Joseph 
 
 ### Ngee Ann Polytechnic 
-Jenny Tan<br>
-Magalachmi Sellaperumal<br>
+**Jenny Tan<br>
+Magalachmi Sellaperumal<br>**
 Chong Ching Liang<br>
 Mariam M Sali <br>
 Hon Eddie 
 
 ### Singapore Polytechnic 
-Ong Si Ying Jelena<br>
+**Ong Si Ying Jelena<br>
 Ho Thiam Aik<br>
-Lee Hooi Meng Hope<br>
+Lee Hooi Meng Hope<br>**
 Neo Meng Kian Leslie<br>
 Cyrine Anthoy Joosa<br>
 Ong Chai Lin
 
 ### Temasek Polytechnic
-Choon Khee<br>
+**Choon Khee<br>
 Chew Teck Tiong<br>
-Farhan Bin Kamis<br>
+Farhan Bin Kamis<br>**
 Jang Yuan<br>
 Tsu-Min Charmaine Monique<br>
 Seng Hui

@@ -22,15 +22,18 @@ sections:
           url: /resources
       background: /images/Banner1.jpg
   - infopic:
-      description: CHAIRMAN'S ADDRESS
+      description: The heart behind Polytechnic Forum 2022
       button: Read More
       url: /address
       alt: Image alt text
+      image: /images/Ganesh.png
+      title: CHAIRMAN'S ADDRESS
   - infopic:
       subtitle: WELCOME TO PF 2022
-      description: "DAY 0: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE"
+      description: "Day 0: 9 September2022 @ Singapore Discovery Centre"
       image: /images/ISOMER.png
       alt: sdc
       button: HOW TO GET THERE?
       url: /locations
+      title: "We Can't Wait To See You! "
 ---

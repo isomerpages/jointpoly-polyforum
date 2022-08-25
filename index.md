@@ -15,12 +15,12 @@ sections:
         - title: Programme
           description: What's Happening
           url: /programme
-        - title: SPEAKERS
-          description: Keynote Speakers
-          url: https://gmail.com
-        - title: Resources
-          description: Download resources here
-          url: /privacy/
+        - title: Sub-themes
+          description: Themes of PF 2022
+          url: /subthemes
+        - title: ACKNOWLEDGEMENTS
+          description: Sponsors and Organisers
+          url: /sponsors
       background: /images/herobanner-black.png
   - infopic:
       subtitle: "Day 0 "

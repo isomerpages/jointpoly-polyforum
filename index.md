@@ -17,15 +17,15 @@ sections:
         - title: ACKNOWLEDGEMENTS
           description: Sponsors and Organisers
           url: /sponsors
+        - title: LOCATION
+          description: Where Are We?
+          url: /locations
       background: /images/Banner1.jpg
   - infopic:
-      subtitle: "Day 0 "
-      description: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE
+      subtitle: WELCOME TO PF 2022
+      description: "DAY 0: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE"
       image: /images/ISOMER.png
       alt: sdc
-  - infopic:
-      subtitle: DAY 1 - 4
-      description: 13 - 16 SEPTEMBER 2022 | REPUBLIC POLYTECHNIC
-      image: /images/ISOMER (1).png
-      alt: Image alt text
+      button: HOW TO GET THERE?
+      url: /locations
 ---

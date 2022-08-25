@@ -22,6 +22,13 @@ sections:
           url: /resources
       background: /images/Banner1.jpg
   - infopic:
+      title: Infopic Title
+      subtitle: CHAIRMAN'S ADDRESS
+      description: One People, One Nation?
+      button: Read More
+      url: /address
+      alt: Image alt text
+  - infopic:
       subtitle: WELCOME TO PF 2022
       description: "DAY 0: 9 SEPTEMBER 2022 | SINGAPORE DISCOVERY CENTRE"
       image: /images/ISOMER.png

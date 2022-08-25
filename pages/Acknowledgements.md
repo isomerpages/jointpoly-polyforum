@@ -45,9 +45,54 @@ Singapore Partnerships Office (SGPO)
 
 ## Organising Committee
 
+###### Polytechnic Forum 2022 is hosted by Republic Polytechnic. 
+
+### Republic Polytechnic 
+Ganesh Kalyanam<br>
+Ben Tan<br>
+Chitra Rajaram <br>
+Alexander Sarsito Sia<br>
+Keenan Tan <br>
+Andrew Wong<br>
+Wan Mei Qi<br>
+Benjamin Leow<br>
+Ananthi <br>
+Eddie Lim<br>
+Gary Su <br>
+Adila Mohamed<br>
+Shadiq Al-Hussain<br>
+Kelda Chua<br>
+Wong Liwern<br>
+Yeo Meng Yee<br>
+Nurhidayah Saleh
+
+
 ### Nanyang Polytechnic 
+Khoo Kiah Hong<br>
+Darren Siah Zheng Kang<br>
+James Chan<br>
+Loh Hui Lee<br>
+Lee Hong Weng Joseph 
 
 ### Ngee Ann Polytechnic 
-### Republic Polytechnic 
+Jenny Tan<br>
+Magalachmi Sellaperumal<br>
+Chong Ching Liang<br>
+Mariam M Sali <br>
+Hon Eddie 
+
 ### Singapore Polytechnic 
+Ong Si Ying Jelena<br>
+Ho Thiam Aik<br>
+Lee Hooi Meng Hope<br>
+Neo Meng Kian Leslie<br>
+Cyrine Anthoy Joosa<br>
+Ong Chai Lin
+
 ### Temasek Polytechnic
+Choon Khee<br>
+Chew Teck Tiong<br>
+Farhan Bin Kamis<br>
+Jang Yuan<br>
+Tsu-Min Charmaine Monique<br>
+Seng Hui

@@ -36,4 +36,11 @@ sections:
       button: HOW TO GET THERE?
       url: /locations
       title: "We Can't Wait To See You! "
+  - infopic:
+      title: Sponsors
+      subtitle: thank you!
+      button: Find OUT MORE!
+      url: /sponsors
+      image: /images/sponsors.png
+      alt: Image alt text
 ---

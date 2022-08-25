@@ -17,9 +17,9 @@ sections:
         - title: ACKNOWLEDGEMENTS
           description: Sponsors and Organisers
           url: /sponsors
-        - title: LOCATION
-          description: Where Are We?
-          url: /locations
+        - title: Resources
+          description: Programme Booklet
+          url: /resources
       background: /images/Banner1.jpg
   - infopic:
       subtitle: WELCOME TO PF 2022

@@ -48,11 +48,16 @@ Singapore Partnerships Office (SGPO)
 ###### Polytechnic Forum 2022 is hosted by Republic Polytechnic. 
 
 ### Republic Polytechnic 
+###### Chairman <br>
 Ganesh Kalyanam<br>
+###### Co-Chairman <br>
 Ben Tan<br>
+###### Chief Facilitator <br>
 Chitra Rajaram <br>
+###### Co-Chief Facilitator <br>
 Alexander Sarsito Sia<br>
 Keenan Tan <br>
+###### Working Committee <br>
 Andrew Wong<br>
 Wan Mei Qi<br>
 Benjamin Leow<br>

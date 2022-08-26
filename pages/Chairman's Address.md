@@ -25,5 +25,7 @@ Build your networks and make friends across polytechnics. Invest in your own soc
 Above all I urge you to have fun!
 
 Warmest Regards, <br>
-Ganesh Kalyanam (Papa Bear)<br>
-Chairman, Polytechnic Forum 2022
+Mr Ganesh Kalyanam (Papa Bear)<br>
+Chairman, Polytechnic Forum 2022 <br>
+Director, Office of Student and Graduate Affairs,
+Republic Polytechnic

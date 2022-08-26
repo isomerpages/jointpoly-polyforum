@@ -4,7 +4,7 @@ title: "Polytechnic Forum 2022 "
 description: "Polytechnic Forum 2022 "
 image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
-notification: ""
+notification: See you at Singapore Discovery Centre on 9 September 2022!
 sections:
   - hero:
       key_highlights:

@@ -11,18 +11,19 @@ COVID-19 has thrown up many fault lines within the Singapore society. Taking a l
 
 In PF2022, we will explore the following social divides that may prevent us from our ideal being One People, One Nation:
 
-* Socioeconomic Divide
-* Physical and Mental Health Challenges
 * Gender Equality
+* Physical and Mental Health Challenges
 * Race Divide
+* Socioeconomic Divide
 
 You will also be exposed to both safe facilitation skills and mediation skills. These sessions will equip you with various collaboration skills such as identifying and managing conflicts; handling difficult conversations; steps to accurate ground sensing; mediation techniques; agreeing to disagree; dealing with prejudice; and fostering collaborations, integration and inclusion, all within a safe space. I hope these skills will be useful to you not only during your discussions on the sub-topics but also in your engagement with fellow students at your respective institutions after PF 2022.
 
 I am not expecting a silver bullet to solve all these issues, but I do hope that at the end of PF 2022, you will have greater awareness of the issues at hand, what is already being done and what else needs to be addressed and acted upon. What we, as a society can do the address the gaps identified? What can you as an individual do to address the gaps identified.
 
-Build your networks and make friends across polytechnics.  Invest in your own social “networth”, uncover your own personal biases, perspectives, and strengths. Appreciate the multitude of ideas, viewpoints, and initiatives. I have faith that with you as the future leaders of Singapore, the nation is in good hands.
+Build your networks and make friends across polytechnics. Invest in your own social “networth”, uncover your own personal biases, perspectives, and strengths. Appreciate the multitude of ideas, viewpoints, and initiatives. I have faith that with you as the future leaders of Singapore, the nation is in good hands.
 
 Above all I urge you to have fun!
 
 Warmest Regards, <br>
-Ganesh Kalyanam (Papa Bear)
+Ganesh Kalyanam (Papa Bear)<br>
+Chairman, Polytechnic Forum 2022

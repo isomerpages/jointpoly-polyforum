@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-permalink: /sponsors
+permalink: /sponsors/
 description: ""
 ---
 # Thank You! 
@@ -43,9 +43,14 @@ One People SG
 <br>
 Silver Ribbon Home
 <br>
+Singapore Discovery Centre
+<br> 
 Singapore Partnerships Office (SGPO) 
 
 ## Organising Committee
+
+
+![](/images/schools.png)
 
 ###### Polytechnic Forum 2022 is hosted by Republic Polytechnic. 
 **Chairman:** Ganesh Kalyanam<br>
@@ -127,3 +132,5 @@ Farhan Bin Kamis
 | Roy Wong | Republic Polytechnic | Assistant Lead Facilitator |
 | Eddie Hon | Ngee Ann Polytechnic | Assistant Group Facilitator |
 | Joseph Lee | Nanyang Polytechnic     | Group Facilitator     |
+
+<br>

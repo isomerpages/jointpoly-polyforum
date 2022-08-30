@@ -1,6 +1,6 @@
 ---
 title: PF 2022 Subthemes
-permalink: /subthemes
+permalink: /subthemes/
 description: ""
 ---
 In PF2022, delegates will be exposed to both safe facilitation skills and mediation skills. These sessions will equip delegates with various collaboration skills such as; identifying and managing conflicts; handling difficult conversations; steps to accurate ground sensing; mediation techniques; agreeing to disagree; dealing with prejudice; and fostering collaborations, integration and inclusion, all within a safe space. <br>
@@ -15,13 +15,13 @@ In PF2022, delegates will be exposed to both safe facilitation skills and mediat
 Recent years a lot has been done to support those who are disabled like supporting our Paralympic athletes and building of accessibility features like ramps within the housing estates. However, there is still much more to be done to helping to change mindsets about mental and physical disabilities. This subtheme wants students to get a good grasp on what has been done and what role they can play to make Singapore a more welcoming space.
 
 ****
- # Race Divide
+ # Race Divide 
  ![](/images/race%20divide.png) <br>
 Being a multicultural society, any disharmony among races can be disastrous. The peace and unified identity that Singapore has can be lost and with that any economic gains we have made along the way. The students will deepen their knowledge from what they have learnt previously in school and to get a holistic understanding of the situation in Singapore.
 
 ****
 
- # Socioeconomic Divide
+ # Socioeconomic Divide 
  ![](/images/socio.png) <br>
  
 This subtheme wants to help students better understand the issues of income equality and the social divide that comes from it. It wishes students to know the steps taken by the government and others to help address this challenge and the role they play to help make Singapore a more cohesive society.

@@ -9,15 +9,14 @@ Polytechnic Forum 2022 is not possible without the support and generosity of our
 
 ## Sponsors
 
-Nestlé Singapore
+Nestlé Singapore (Pte) Ltd
 <br>
 REACH 
 <br>
-Ribena 
-<br>
+Ribena Singapore  <br>
 Subway
 <br>
-TAFEP
+Tripartite Alliance for Fair and Progressive Employment Practices
 <br>
 Youth Corps Singapore and National Youth Council 
 

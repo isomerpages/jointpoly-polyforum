@@ -119,7 +119,7 @@ Farhan Bin Kamis
 | Facilitator's Name | Polytechnic | Role |
 | -------- | -------- | -------- |
 | Stella Gan    | Republic Polytechnic     | Lead Facilitator     |
-| Fazilah A Latiffi | Republic Polytechnic | Assistant Lead Facilitator |
+| Fazilah A Latiff | Republic Polytechnic | Assistant Lead Facilitator |
 | Mariam M Sali | Ngee Ann Polytechnic | Assistant Group Facilitator |
 | Cyrine Anthony Joosa | Singapore Polytechnic     | Group Facilitator     |
 | Chao Jang Yuan | Temasek Polytechnic     | Group Facilitator |

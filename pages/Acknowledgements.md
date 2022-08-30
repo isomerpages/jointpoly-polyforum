@@ -20,9 +20,6 @@ Tripartite Alliance for Fair and Progressive Employment Practices
 <br>
 Youth Corps Singapore and National Youth Council 
 
-![](/images/sponsorsbar3.png)
-
-
 
 ## Partners
 
@@ -47,9 +44,6 @@ Singapore Discovery Centre
 Singapore Partnerships Office (SGPO) 
 
 ## Organising Committee
-
-
-![](/images/schools.png)
 
 ###### Polytechnic Forum 2022 is hosted by Republic Polytechnic. 
 **Chairman:** Ganesh Kalyanam<br>

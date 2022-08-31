@@ -26,6 +26,7 @@ Being a multicultural society, any disharmony among races can be disastrous. The
  
 This subtheme wants to help students better understand the issues of income equality and the social divide that comes from it. It wishes students to know the steps taken by the government and others to help address this challenge and the role they play to help make Singapore a more cohesive society. <br>
 
+****
 
 <br>
 Participants will examine these issues from our local perspective as a city state, whilst being able to contrast the differences amidst our connections with ASEAN and global nations. The topics will be explored through the lens of the delegates with keynote speaker sessions, learning journeys, experiential activities, constructive discussions, and self- reflection.

@@ -1,32 +1,46 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: "Polytechnic Forum 2022 "
+description: "Polytechnic Forum 2022 "
+image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: See you at Singapore Discovery Centre on 9 September 2022!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Programme
+          description: What's Happening
+          url: /programme
+        - title: Sub-themes
+          description: Themes of PF 2022
+          url: /subthemes
+        - title: ACKNOWLEDGEMENTS
+          description: Sponsors and Organisers
+          url: /sponsors
+        - title: Resources
+          description: Programme Booklet
+          url: /resources
+      background: /images/Banner1.jpg
+  - infopic:
+      description: The heart behind Polytechnic Forum 2022
+      button: Read More
+      url: /address
+      alt: Image alt text
+      image: /images/Ganesh.png
+      title: CHAIRMAN'S ADDRESS
+  - infopic:
+      subtitle: WELCOME TO PF 2022
+      description: "Day 0: 9 September2022 @ Singapore Discovery Centre"
+      image: /images/ISOMER.png
+      alt: sdc
+      button: HOW TO GET THERE?
+      url: /locations
+      title: "We Can't Wait To See You! "
+  - infopic:
+      title: Sponsors and Organisers
+      subtitle: thank you!
+      button: Find OUT MORE!
+      url: /sponsors
+      image: /images/sponsors.png
+      alt: Image alt text
 ---
-

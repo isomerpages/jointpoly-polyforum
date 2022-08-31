@@ -1,13 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PF 2022 Logo_FinalFA-01.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Home
+    url: https://rp-polyforum2022-prod.netlify.app
+  - title: FORUM DETAILS
+    url: /programme
+    sublinks:
+      - title: Sub-Themes
+        url: /subthemes
+      - title: Location
+        url: /locations
+  - title: PF2022
+    url: /about-us
+    sublinks:
+      - title: Chairman's Address
+        url: /address
+      - title: "Acknowledgements "
+        url: /sponsors

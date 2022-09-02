@@ -1,5 +1,5 @@
 title: "Polytechnic Forum 2022 "
-url: ""
+url: https://www.polyforum.edu.sg
 favicon: /images/PF 2022 Logo_FinalFA-01.png
 colors:
   primary-color: "#d0021b"
@@ -52,7 +52,7 @@ plugins:
 staging: https://rp-polyforum2022-staging.netlify.app
 prod: https://rp-polyforum2022-prod.netlify.app
 shareicon: /images/PF 2022 Logo_FinalFA-01.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""

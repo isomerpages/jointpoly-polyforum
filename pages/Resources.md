@@ -1,9 +1,9 @@
 ---
 title: Resources
-permalink: /resources
+permalink: /resources/
 description: ""
 ---
 # Forum Booklet
-< insert booklet pdf > 
+The programme booklet will be uploaded by 9th September 2022.
 
 ****

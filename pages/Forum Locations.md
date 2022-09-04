@@ -14,3 +14,6 @@ Date: 9 September 2022 <br>
 Address: 9 Woodlands Avenue 9, Singapore 738964<br>
 Date: 13 - 16 September 2022<br>
 [Directions](https://www.rp.edu.sg/service-excellence/contact-us) to Republic Polytechnic.
+
+Republic Polytechnic Campus Map: <br>
+![](/images/RPCampusMap.png)

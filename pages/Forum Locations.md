@@ -8,7 +8,7 @@ description: ""
 Address: 510 Upper Jurong Rd, Singapore 638365 <br>
 Date: 9 September 2022 <br>
 [Directions](https://www.sdc.com.sg/centre-info#getting-here) to Singapore Discovery Centre. <br>
-[Map]() of Singapore Discovery Centre. 
+[Map](https://www.sdc.com.sg/wp-content/uploads/2022/05/SDC-MAP_Internal-1024x869-1.jpg.webp) of Singapore Discovery Centre. 
 
 ![](/images/ISOMER%20(1).png)
 # Republic Polytechnic 

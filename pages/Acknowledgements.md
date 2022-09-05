@@ -123,7 +123,7 @@ Farhan Bin Kamis
 | -------- | -------- | -------- |
 | Leong Wee Keat    | Republic Polytechnic     | Lead Facilitator     |
 | Roy Wong | Republic Polytechnic | Assistant Lead Facilitator |
-| Eddie Hon | Ngee Ann Polytechnic |  Group Facilitator |
+| Eddie Ong | Ngee Ann Polytechnic |  Group Facilitator |
 | Joseph Lee | Nanyang Polytechnic     | Group Facilitator     |
 | Ong Chai Lin | Singapore Polytechnic     | Group Facilitator     |
 

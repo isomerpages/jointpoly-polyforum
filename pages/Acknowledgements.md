@@ -103,7 +103,7 @@ Farhan Bin Kamis
 | -------- | -------- | -------- |
 | Mandy Low    | Republic Polytechnic     | Lead Facilitator     |
 | Leong Yihui | Republic Polytechnic | Assistant Lead Facilitator |
-| Loh Hui Lee | Nanyang Polytechnic | Assistant Group Facilitator |
+| Loh Hui Lee | Nanyang Polytechnic |  Group Facilitator |
 | Leslie Neo | Singapore Polytechnic     | Group Facilitator     |
 | Pang Seng Hui | Temasek Polytechnic     | Group Facilitator |
 
@@ -113,7 +113,7 @@ Farhan Bin Kamis
 | -------- | -------- | -------- |
 | Stella Gan    | Republic Polytechnic     | Lead Facilitator     |
 | Fazilah A Latiff | Republic Polytechnic | Assistant Lead Facilitator |
-| Mariam M Sali | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Mariam M Sali | Ngee Ann Polytechnic |  Group Facilitator |
 | Cyrine Anthony Joosa | Singapore Polytechnic     | Group Facilitator     |
 | Chao Jang Yuan | Temasek Polytechnic     | Group Facilitator |
 
@@ -123,7 +123,8 @@ Farhan Bin Kamis
 | -------- | -------- | -------- |
 | Leong Wee Keat    | Republic Polytechnic     | Lead Facilitator     |
 | Roy Wong | Republic Polytechnic | Assistant Lead Facilitator |
-| Eddie Hon | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Eddie Ong | Ngee Ann Polytechnic |  Group Facilitator |
 | Joseph Lee | Nanyang Polytechnic     | Group Facilitator     |
+| Ong Chai Lin | Singapore Polytechnic     | Group Facilitator     |
 
 <br>

@@ -81,8 +81,8 @@ Lee Hooi Meng Hope<br>
 Ong Si Ying Jelena
 
 ### Temasek Polytechnic
-Choon Khee<br>
-Chew Teck Tiong<br>
+Desmond Lim Choon Khee<br>
+Simon Chew Teck Tiong<br>
 Farhan Bin Kamis
 
 # Facilitation Team

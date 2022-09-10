@@ -29,13 +29,13 @@ sections:
       image: /images/Ganesh.png
       title: CHAIRMAN'S ADDRESS
   - infopic:
-      subtitle: WELCOME TO PF 2022
-      description: "Day 1: 13 September2022 @ Republic Polytechnic "
-      image: /images/ISOMER (1).png
-      alt: sdc
-      button: HOW TO GET THERE?
-      url: /locations
-      title: See you @ RP!
+      title: Photo Gallery
+      subtitle: "#Polyforum22"
+      description: "Post and #PolyForum22"
+      button: Photo highlights
+      url: /highlights
+      image: /images/photo_2022-09-10 22.03.21.jpeg
+      alt: highlights
   - infopic:
       title: Sponsors and Organisers
       subtitle: thank you!
@@ -43,4 +43,12 @@ sections:
       url: /sponsors
       image: /images/sponsors.png
       alt: Image alt text
+  - infopic:
+      subtitle: WELCOME TO PF 2022
+      description: "Day 1: 13 September2022 @ Republic Polytechnic "
+      image: /images/ISOMER (1).png
+      alt: sdc
+      button: HOW TO GET THERE?
+      url: /locations
+      title: See you @ RP!
 ---

@@ -4,7 +4,7 @@ title: "Polytechnic Forum 2022 "
 description: "Polytechnic Forum 2022 "
 image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
-notification: See you at Singapore Discovery Centre on 9 September 2022!
+notification: "See you at Republic Polytechnic on 13 September 2022! "
 sections:
   - hero:
       key_highlights:
@@ -30,12 +30,12 @@ sections:
       title: CHAIRMAN'S ADDRESS
   - infopic:
       subtitle: WELCOME TO PF 2022
-      description: "Day 0: 9 September2022 @ Singapore Discovery Centre"
-      image: /images/ISOMER.png
+      description: "Day 1: 13 September2022 @ Republic Polytechnic "
+      image: /images/ISOMER (1).png
       alt: sdc
       button: HOW TO GET THERE?
       url: /locations
-      title: "We Can't Wait To See You! "
+      title: See you @ RP!
   - infopic:
       title: Sponsors and Organisers
       subtitle: thank you!

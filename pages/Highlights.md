@@ -3,7 +3,7 @@ title: Highlights
 permalink: /highlights/
 description: ""
 ---
-Posting a photo? Remember to #PolyForum22! 
+Posting a photo? Remember to #PolyForum22! <br> 
 For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 # Day 0: 9 September 
 

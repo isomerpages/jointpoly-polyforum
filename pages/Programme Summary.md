@@ -1,9 +1,9 @@
 ---
 title: Programme Summary
-permalink: /programme
+permalink: /programme/
 description: ""
 ---
-Polytechnic Forum 2022 will be happening on 9, 13 - 16 September 2022. <br> For detailed programme, please download the programme booklet. 
+Polytechnic Forum 2022 will be happening on 9, 13 - 16 September 2022. <br> For detailed programme, please download the [programme booklet](https://for.edu.sg/pf2022-programme). 
 # 9 September 2022 
 <br>
 Venue: Singapore Discovery Centre 

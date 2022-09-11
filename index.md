@@ -34,7 +34,7 @@ sections:
       description: "Post and #PolyForum22"
       button: Photo highlights
       url: /highlights
-      image: /images/photo_2022-09-10 22.03.21.jpeg
+      image: /images/highlight.png
       alt: highlights
   - infopic:
       title: Sponsors and Organisers

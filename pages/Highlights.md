@@ -4,6 +4,7 @@ permalink: /highlights/
 description: ""
 ---
 Uploading a photo? Remember to #PolyForum22! 
+For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 # Day 0: 9 September 
 
 ![](/images/photo_2022-09-10%2022.03.17.jpeg)

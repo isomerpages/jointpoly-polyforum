@@ -5,22 +5,12 @@ description: ""
 ---
 Posting a photo? Remember to #PolyForum22! <br> 
 For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
-# Day 0: 9 September 
+# Day 0: 9 Sept
 
-![](/images/photo_2022-09-10%2022.03.17.jpeg)
+![](/images/Day0-1.png)
 <br>
-![](/images/photo_2022-09-10%2022.03.14.jpeg)
+![](/images/Day0-2.png)
+# Day 1: 12 Sept
+![](/images/Day1-3.png)
 <br>
-![](/images/photo_2022-09-10%2022.03.18.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.21.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.13.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.11.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.20.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.23.jpeg)
-<br>
-![](/images/photo_2022-09-10%2022.03.22.jpeg)
+![](/images/Day1-2.png)

@@ -10,7 +10,9 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 ![](/images/Day0-1.png)
 <br>
 ![](/images/Day0-2.png)
-# Day 1: 12 Sept
+# Day 1: 13 Sept
 ![](/images/Day1-3.png)
 <br>
 ![](/images/Day1-2.png)
+
+# Day 2: 14 Sept

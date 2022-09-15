@@ -16,3 +16,6 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 ![](/images/Day1-2.png)
 
 # Day 2: 14 Sept
+![](/images/Highlightsday2.png)
+<br>
+![](/images/highlights-day2-1.png)

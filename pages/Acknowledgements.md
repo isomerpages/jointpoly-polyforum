@@ -94,7 +94,7 @@ Farhan Bin Kamis
 | Josefina Seow     | Republic Polytechnic     | Lead Facilitator     |
 | Emily Tan | Republic Polytechnic | Assistant Lead Facilitator |
 |  James Chan    | Nanyang Polytechnic     | Group Facilitator     |
-| Chong Ching Liang | Ngee Ann Polytechnic | Assistant Group Facilitator |
+| Chong Ching Liang | Ngee Ann Polytechnic | Group Facilitator |
 | Charmaine Oei  | Temasek Polytechnic     | Group Facilitator     |
 
 ### Physical and Mental Health Challenges

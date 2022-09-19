@@ -4,7 +4,7 @@ title: "Polytechnic Forum 2022 "
 description: "Polytechnic Forum 2022 "
 image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
-notification: "See you at Republic Polytechnic on 13 September 2022! "
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -22,6 +22,13 @@ sections:
           url: /resources
       background: /images/Banner1.jpg
   - infopic:
+      subtitle: POLYTECHNIC FORUM 2022
+      image: /images/ISOMER.jpg
+      alt: sdc
+      button: watch now!
+      url: https://youtu.be/V72Qh09gUnI
+      title: HIGHLIGHTS VIDEO
+  - infopic:
       description: The heart behind Polytechnic Forum 2022
       button: Read More
       url: /address
@@ -29,26 +36,18 @@ sections:
       image: /images/Ganesh.png
       title: CHAIRMAN'S ADDRESS
   - infopic:
-      title: Photo Gallery
+      title: PHOTO GALLERY
       subtitle: "#Polyforum22"
       description: "Post and #PolyForum22"
-      button: Photo highlights
+      button: DOWNLOAD PHOTOS
       url: /highlights
       image: /images/highlight.png
       alt: highlights
   - infopic:
-      title: Sponsors and Organisers
+      title: SPONSORS & ORGANISERS
       subtitle: thank you!
       button: Find OUT MORE!
       url: /sponsors
       image: /images/sponsors.png
       alt: Image alt text
-  - infopic:
-      subtitle: WELCOME TO PF 2022
-      description: "Day 1: 13 September2022 @ Republic Polytechnic "
-      image: /images/ISOMER (1).png
-      alt: sdc
-      button: HOW TO GET THERE?
-      url: /locations
-      title: See you @ RP!
 ---

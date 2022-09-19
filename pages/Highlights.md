@@ -8,7 +8,7 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 
 # Video Highlights
 <div>
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/V72Qh09gUnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V72Qh09gUnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 	</div>
 
 # Day 0: 9 Sept
@@ -30,3 +30,4 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 ![](/images/day3highlights-7.png)
 <br>
 ![](/images/day3highlights-8.png)
+

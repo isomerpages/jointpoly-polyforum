@@ -5,6 +5,11 @@ description: ""
 ---
 Posting a photo? Remember to #PolyForum22! <br> 
 For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
+
+# Video Highlights
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V72Qh09gUnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br> 
+
 # Day 0: 9 Sept
 
 ![](/images/Day0-1.png)
@@ -19,3 +24,5 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 ![](/images/Highlightsday2.png)
 <br>
 ![](/images/highlights-day2-1.png)
+
+# Day 3: 15 Sept

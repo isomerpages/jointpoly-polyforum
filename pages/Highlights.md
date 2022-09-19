@@ -30,4 +30,3 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 ![](/images/day3highlights-7.png)
 <br>
 ![](/images/day3highlights-8.png)
-

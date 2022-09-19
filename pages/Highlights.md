@@ -31,3 +31,11 @@ For more photos, head over and [download](https://for.edu.sg/pf2022-photos) now!
 <br>
 ![](/images/day3highlights-8.png)
 
+# Day 4: 16 Sept
+![](/images/Closingceremonyhighlight-9.png)
+<br>
+![](/images/Closingceremonyhighlight-10.png)
+<br>
+![](/images/Closingceremonyhighlight-11.png)
+<br>
+![](/images/Closingceremonyhighlight-12.png)

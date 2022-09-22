@@ -8,18 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Programme
-          description: What's Happening
-          url: /programme
-        - title: Sub-themes
-          description: Themes of PF 2022
-          url: /subthemes
+        - title: HIGHLIGHTS
+          description: Watch Now!
+          url: /highlights
         - title: ACKNOWLEDGEMENTS
           description: Sponsors and Organisers
           url: /sponsors
-        - title: Resources
-          description: Programme Booklet
-          url: /resources
+        - title: Photos
+          description: Download Now!
+          url: https://for.edu.sg/pf2022-photos
       background: /images/Banner1.jpg
   - infopic:
       subtitle: POLYTECHNIC FORUM 2022

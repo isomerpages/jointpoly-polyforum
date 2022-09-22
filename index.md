@@ -24,6 +24,7 @@ sections:
       button: watch now!
       url: https://www.polyforum.edu.sg/highlights/
       title: HIGHLIGHTS VIDEOS
+      alt: videos
   - infopic:
       description: The heart behind Polytechnic Forum 2022
       button: Read More

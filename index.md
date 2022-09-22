@@ -24,10 +24,9 @@ sections:
   - infopic:
       subtitle: POLYTECHNIC FORUM 2022
       image: /images/ISOMER.jpg
-      alt: sdc
       button: watch now!
-      url: https://youtu.be/V72Qh09gUnI
-      title: HIGHLIGHTS VIDEO
+      url: https://www.polyforum.edu.sg/highlights/
+      title: HIGHLIGHTS VIDEOS
   - infopic:
       description: The heart behind Polytechnic Forum 2022
       button: Read More

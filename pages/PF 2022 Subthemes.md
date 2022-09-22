@@ -11,7 +11,7 @@ In PF2022, delegates will be exposed to both safe facilitation skills and mediat
 
 On 28th March 2022, the Singapore Government released the White Paper on Singapore Women’s Development following the Conversations on Singapore Women’s Development sessions which completed in 2021. The review looked at what can be done to protect women from family violence, promote equality of opportunities for women, protect them from sexual harassment, assault and workplace discrimination as well as recognising the integral roles played by women at home as wives, mothers, caregivers and homemakers. The students in this subtheme will explore these topics and what has been done since the White Paper and how they can close the gap. <br> 
 
-# Physical and Mental Challenges <br>
+# Physical and Mental Health Challenges <br>
 ![](/images/mental.png) <br>
 In recent years a lot has been done to support those who are disabled like supporting our Paralympic athletes and building of accessibility features like ramps within the housing estates. However, there is still much more to be done to help change mindsets about mental and physical disabilities. This subtheme wants students to get a good grasp on what has been done and what role they can play to make Singapore a more welcoming space. <br>
 

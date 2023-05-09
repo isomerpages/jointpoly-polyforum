@@ -1,6 +1,6 @@
 ---
 title: Polytechnic Forum
-permalink: /about-us
+permalink: /about-us/
 description: ""
 ---
 The Polytechnic Forum, an initiative which started in 1996, aims to provide a platform for polytechnic students to gain a deeper understanding of national issues through discussions and engagement with government and industry leaders. It is hoped that the participants will embrace their role as young Singaporeans as they glean meaningful insights from the discussions and propose ideas on how youths can help shape the Singapore of the future.

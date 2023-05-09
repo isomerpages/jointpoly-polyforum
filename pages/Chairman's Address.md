@@ -1,6 +1,6 @@
 ---
 title: Chairman's Address
-permalink: /address
+permalink: /address/
 description: ""
 ---
 Welcome to Polytechnic Forum 2022.

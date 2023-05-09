@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://rp-polyforum2022-staging.netlify.app
-prod: https://rp-polyforum2022-prod.netlify.app
+staging: https://staging.d1i7qegjhanjq0.amplifyapp.com/
+prod: https://master.d1i7qegjhanjq0.amplifyapp.com/
 shareicon: /images/PF 2022 Logo_FinalFA-01.png
 is_government: true
 facebook-pixel: ""

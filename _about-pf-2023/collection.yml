@@ -1,6 +1,4 @@
 collections:
   about-pf-2023:
     output: true
-    order:
-      - Chairman's Address/Chairman's Address.md
-      - Chairman's Address/.keep
+    order: []

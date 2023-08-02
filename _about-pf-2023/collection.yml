@@ -1,7 +1,0 @@
-collections:
-  about-pf-2023:
-    output: true
-    order:
-      - Sub Folder/Overview.md
-      - Sub Folder/.keep
-      - Chairman's Address.md

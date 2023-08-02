@@ -2,4 +2,5 @@ collections:
   forum-details:
     output: true
     order:
+      - Programme/Forum Details.md
       - Programme/.keep

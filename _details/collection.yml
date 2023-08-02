@@ -1,4 +1,5 @@
 collections:
   details:
     output: true
-    order: []
+    order:
+      - Programme.md

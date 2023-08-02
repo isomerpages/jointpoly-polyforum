@@ -22,4 +22,6 @@ links:
     url: https://for.edu.sg/pf2022-programme
   - title: About PF 2023
     url: /aboutPF2023
-    sublinks: []
+    sublinks:
+      - title: Chairman's Address
+        url: /chairmansaddress

@@ -17,7 +17,7 @@ sections:
         - title: Photos
           description: Download Now!
           url: https://for.edu.sg/pf2022-photos
-      background: /images/banner 2023.jpg
+      background: /images/Banner1.jpg
   - infopic:
       subtitle: POLYTECHNIC FORUM 2022
       image: /images/ISOMER.jpg

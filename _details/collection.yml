@@ -1,6 +1,0 @@
-collections:
-  details:
-    output: true
-    order:
-      - Programme/Day 0 (15 Sep).md
-      - Programme/.keep

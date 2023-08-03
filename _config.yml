@@ -1,4 +1,4 @@
-title: "Polytechnic Forum 2022 "
+title: Polytechnic Forum 2022
 url: https://www.polyforum.edu.sg
 favicon: /images/PF 2022 Logo_FinalFA-01.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "Polytechnic Forum 2022 "
+description: Polytechnic Forum 2022
 permalink: none
 baseurl: ""
 exclude:
@@ -56,3 +56,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

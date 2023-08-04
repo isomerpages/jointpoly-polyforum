@@ -28,8 +28,8 @@ sections:
       url: https://www.polyforum.edu.sg/highlights/
       title: ABOUT POLYTECHNIC FORUM 2023
       description: PF provides an annual platform for polytechnic students to gain a
-        deeper understanding of national issues through an eclectic array of
-        activities.
+        deeper understanding of important national issues through an eclectic
+        array of activities.
       alt: Image alt text
   - infopic:
       description: An impassioned call for you to make the most of your involvement in

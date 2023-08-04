@@ -12,3 +12,28 @@ description: ""
 2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
 
 3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+
+<br>
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+                    The Temasek Polytechnic Band performs a wide repertoire of concert music from classical and pop arrangements to movie soundtracks. With the rich blend of woodwind, brass and percussion instruments, they will surely leave audiences at the edge of their seats. 
+					<br>
+					<br>
+                    Under the baton of conductors Mr Tan Beng Wee and Mr Ignatius Wang, they have been contributing actively to the vibrant arts scene on and off campus since the establishment of the polytechnic in 1990.
+					<br>
+					<br>
+                    TP Band is a platform for all budding, talented young musicians to develop their musicianship and performance capabilities.
+                    <br>
+                    <br>
+				</p>
+			</td>
+			<td style="width:40%">
+				<img alt="Band" style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds">
+			</td>
+		</tr>
+	</tbody>
+</table>

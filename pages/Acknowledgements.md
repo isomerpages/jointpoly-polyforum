@@ -130,4 +130,7 @@ Farhan Bin Kamis
 <br>
 
 
-![](/images/PF%202023/Forum%20Details/Learning%20Journeys/desaru%20fruit%20farm%202.jpg)
+
+| ![](/images/PF%202023/About%20PF%202023/green%20economy.jpg) | ![](/images/PF%202023/About%20PF%202023/green%20resources.jpg) | 
+
+

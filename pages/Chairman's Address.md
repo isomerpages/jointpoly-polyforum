@@ -41,22 +41,27 @@ table, th, td {
 </style>
 
 
-
 <table style="width:100%">
   <tbody><tr>
     <th>Time</th>
-    <th>Programme
-		</th>
+    <th>Programme</th>
   </tr>
   <tr>
     <td>9.00am to 9.30am</td>
-    <td>Arrival &amp; Registration of Participants</td>
- 
+    <td>- Arrival &amp; Registration of Participants<br>- Issuance of PF 2023 Kit</td>
+  </tr>
+  <tr>
+    <td>9.30am to 12.00pm</td>
+    <td>- Welcome Address by Chairman, PF 2023<br>- Introduction by Chief Facilitator, PF 2023<br>- Ice-Breaker &amp; Team Bonding Activities</td>
+		  </tr>
+  <tr>
+    <td>9.30am to 12.00pm</td>
+    <td>- Welcome Address by Chairman, PF 2023<br>- Introduction by Chief Facilitator, PF 2023<br>- Ice-Breaker &amp; Team Bonding Activities</td>
+  </tr>
+</tbody></table>
+
+<p>To understand the example better, we have added borders to the table.</p>
 
 
 
 
-
-
-
-</tr></tbody></table>

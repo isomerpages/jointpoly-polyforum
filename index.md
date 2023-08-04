@@ -1,7 +1,13 @@
 ---
 layout: homepage
-title: Polytechnic Forum 2022
-description: Polytechnic Forum 2022
+title: Polytechnic Forum 2023
+description: The Polytechnic Forum (PF), an initiative which started in 1996,
+  aims to provide a platform for polytechnic students to gain a deeper
+  understanding of pertinent national issues through peer discussions, learning
+  journeys, talks, and engagement with government and industry leaders.
+  Organised annually, PF is a time where students gather to discuss, ideate,
+  glean meaningful insights, and design action plans on important national
+  issues, to help shape a better future for Singapore.
 image: /images/PF 2022 Logo_FinalFA-01.png
 permalink: /
 notification: ""

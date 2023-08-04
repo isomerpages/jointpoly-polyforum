@@ -31,4 +31,4 @@ Director, Office of Student and Graduate Affairs,
 Republic Polytechnic
 
 
-**<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="![](/images/PF%202023/About%20PF%202023/green%20economy.jpg)">****<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="![](/images/PF%202023/About%20PF%202023/green%20resources.jpg)">****<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="![](/images/PF%202023/About%20PF%202023/overview.jpg)">****<p style="clear: both;">**</p>
+<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://drive.google.com/drive/my-drive?ths=true"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://drive.google.com/drive/my-drive?ths=true"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://drive.google.com/drive/my-drive?ths=true">

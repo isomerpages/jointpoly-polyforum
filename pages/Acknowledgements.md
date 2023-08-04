@@ -128,9 +128,3 @@ Farhan Bin Kamis
 | Ong Chai Lin | Singapore Polytechnic     | Group Facilitator     |
 
 <br>
-
-
-
-| ![](/images/PF%202023/About%20PF%202023/green%20economy.jpg) | ![](/images/PF%202023/About%20PF%202023/green%20resources.jpg) | 
-
-

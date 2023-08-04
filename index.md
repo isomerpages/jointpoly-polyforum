@@ -8,15 +8,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: HIGHLIGHTS
-          description: Watch Now!
+        - title: About Polytechnic Forum 2023
+          description: Overview & What's In Store!
           url: /highlights
-        - title: ACKNOWLEDGEMENTS
-          description: Sponsors and Organisers
+        - title: Forum Details
+          description: Exciting Lineup of Activities!
           url: /sponsors
-        - title: Photos
-          description: Download Now!
+        - title: Resources
+          description: Download the e-Handbook Now!
           url: https://for.edu.sg/pf2022-photos
+        - title: Acknowledgements
+          description: Our Sponsors & Partners!
+          url: ""
       background: /images/Banner1.jpg
   - infopic:
       subtitle: POLYTECHNIC FORUM 2022

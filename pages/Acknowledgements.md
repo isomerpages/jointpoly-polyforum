@@ -128,3 +128,6 @@ Farhan Bin Kamis
 | Ong Chai Lin | Singapore Polytechnic     | Group Facilitator     |
 
 <br>
+
+
+![](/images/PF%202023/Forum%20Details/Learning%20Journeys/desaru%20fruit%20farm%202.jpg)

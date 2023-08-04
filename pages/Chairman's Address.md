@@ -29,3 +29,6 @@ Mr Ganesh Kalyanam (Papa Bear)<br>
 Chairman, Polytechnic Forum 2022 <br>
 Director, Office of Student and Graduate Affairs,
 Republic Polytechnic
+
+
+<a href="www.facebook.com"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Resilient_Future.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="www.facebook.com"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Green_Economy.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="www.facebook.com"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Green_Resources.jpg?width=320&amp;height=320&amp;fit=bounds"></a>

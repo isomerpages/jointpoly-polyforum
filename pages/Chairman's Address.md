@@ -32,34 +32,6 @@ Republic Polytechnic
 
 
 
-    
-    
-    
-    
-    <title>HTML</title>
-    <style>	
-    	.column {
-    	  float: left;
-    	  width: 30%;
-    	  padding: 5px;
-    	}
-    	img {
-    	  width: 100%;
-    	}	
-    </style>
-      
-    
-        <h2> Place image side by side</h2>
-    	<div class="container">
-    	   <div class="column">
-    	     <img alt="image1" src="![](/images/PF%202023/About%20PF%202023/green%20economy.jpg)">
-    	   </div>
-    	   <div class="column">
-    	     <img alt="image1" src="![](/images/PF%202023/About%20PF%202023/green%20resources.jpg)">
-    	   </div>
-    	   <div class="column">
-    	     <img alt="image1" src="![](/images/PF%202023/About%20PF%202023/overview.jpg)">
-    	   </div>
-    	</div>
-    
-    
+| ![](/images/PF%202023/Acknowledgements/byd%20x%20sdm%20logo%20(red)red.png) | ![](/images/PF%202023/Acknowledgements/cdl%20logo%201.jpg) | 
+| -------- | -------- | 
+

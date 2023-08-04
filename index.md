@@ -8,7 +8,7 @@ description: The Polytechnic Forum (PF), an initiative which started in 1996,
   Organised annually, PF is a time where students gather to discuss, ideate,
   glean meaningful insights, and design action plans on important national
   issues, to help shape a better future for Singapore.
-image: /images/PF 2022 Logo_FinalFA-01.png
+image: /images/PF 2023/About PF 2023/pf-colour (transparent background).png
 permalink: /
 notification: ""
 sections:

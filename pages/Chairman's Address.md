@@ -31,15 +31,19 @@ Director, Office of Student and Graduate Affairs,
 Republic Polytechnic
 
 
-<style>    
+<style>   
   img {    
     width: 350px;   
     float: left;   
     margin-right: 10px;   
   }   
+  div {   
+    float: left;   
+    width: calc(100% \- 350px \- 10px);   
+  }   
 </style>   
    
-<img src="https://hosting.photobucket.com/images/i/tracyng81/Forum_Locations.png?width=320&amp;height=320&amp;fit=bounds">   
+<img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds">   
 <div>   
-  Temasek Poly is the place to be!
+Test
 </div>

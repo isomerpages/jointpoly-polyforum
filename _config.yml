@@ -3,7 +3,7 @@ url: https://www.polyforum.edu.sg
 favicon: /images/PF 2023/About PF 2023/pf-colour (transparent background).png
 colors:
   primary-color: "#4b791a"
-  secondary-color: "#49759a"
+  secondary-color: "#417505"
   media-colors:
     - title: media-color-one
       color: "#49759a"

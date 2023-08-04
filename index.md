@@ -31,7 +31,7 @@ sections:
       subtitle: ANNUAL PROGRAMME
       image: /images/PF 2023/Homepage/about pf 2023.jpg
       button: Find Out More!
-      url: https://www.polyforum.edu.sg/highlights/
+      url: /highlights/
       title: ABOUT POLYTECHNIC FORUM 2023
       description: PF provides an annual platform for polytechnic students to gain a
         deeper understanding of important national issues through an eclectic

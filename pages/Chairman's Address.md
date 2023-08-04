@@ -31,10 +31,7 @@ Director, Office of Student and Graduate Affairs,
 Republic Polytechnic
 
 
-<style>   
-  body {    
-    background-color: deepskyblue;    
-  }   
+<style>    
   img {    
     width: 350px;   
     float: left;   

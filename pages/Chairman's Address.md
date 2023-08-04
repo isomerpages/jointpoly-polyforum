@@ -33,7 +33,7 @@ Republic Polytechnic
 <br>
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:30%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td>
             <p>
               <b>Mr Ivan Ng</b><br>  

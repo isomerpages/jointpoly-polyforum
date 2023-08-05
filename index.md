@@ -43,7 +43,7 @@ sections:
       button: Read More Here
       url: /address
       alt: Image alt text
-      image: /images/Ganesh.png
+      image: /images/PF 2023/Homepage/chairman - mock image.jpg
       title: CHAIRMAN'S ADDRESS
       subtitle: BE INSIPIRED
   - infopic:

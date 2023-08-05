@@ -1,10 +1,10 @@
 ---
 layout: homepage
 title: Polytechnic Forum 2023
-description: "The Polytechnic Forum (PF), an initiative which started in 1996,
+description: The Polytechnic Forum (PF), an initiative which started in 1996,
   aims to provide a platform for polytechnic students to gain a deeper
   understanding of pertinent national issues through peer discussions, learning
-  journeys, talks, and engagement with government and industry leaders. "
+  journeys, talks, and engagement with government and industry leaders.
 image: /images/PF 2023/Homepage/pf-colour (transparent background).png
 permalink: /
 notification: ""
@@ -38,7 +38,7 @@ sections:
       description: An impassioned call for you to make the most of your involvement in
         PF 2023. Have fun participating and enjoy the exciting journey!
       button: Read More Here
-      url: /address
+      url: /about-pf-2023/chairmansaddress/
       alt: Image alt text
       image: /images/PF 2023/Homepage/chairman - mock image.jpg
       title: CHAIRMAN'S ADDRESS

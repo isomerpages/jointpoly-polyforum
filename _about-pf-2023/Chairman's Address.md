@@ -3,7 +3,7 @@ title: Chairman's Address
 permalink: /about-pf-2023/chairmansaddress/
 description: A very warm welcome to the Polytechnic Forum (PF) 2023!
 ---
-<img height="80" width="150" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img height="50" width="100" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds">
 
 A very warm welcome to the **Polytechnic Forum (PF) 2023**!
 

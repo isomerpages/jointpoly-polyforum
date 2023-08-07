@@ -8,8 +8,9 @@ The Polytechnic Forum (PF), an initiative which started in 1996, aims to provide
 ## **Polytechnic Forum 2023: Our Green SG**
 
 <figure>
-	
+
 ![](/images/PF%202023/About%20PF%202023/overview.jpg)
+
 <figcaption>(Image by tawatchai07 on Freepik)</figcaption>
 </figure>
 	

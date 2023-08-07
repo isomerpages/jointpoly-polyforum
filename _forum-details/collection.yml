@@ -2,5 +2,6 @@ collections:
   forum-details:
     output: true
     order:
+      - Programme/Day 1 (18 Sep).md
       - Programme/Day 0 (15 Sep).md
       - Programme/.keep

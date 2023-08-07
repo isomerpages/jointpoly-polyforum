@@ -3,10 +3,7 @@ title: Green Economy
 permalink: /about-pf-2023/greeneconomy/
 description: ""
 ---
-<figure>
-<img alt="BigSur wallpaper" src="https://hosting.photobucket.com/images/i/tracyng81/Green_Economy_bCJWw1aisTpWJ4un9iBQcW.jpg?width=320&amp;height=320&amp;fit=bounds">
-<figcaption>(Image by victor217 on Freepik)</figcaption>
-</figure>
+![](/images/PF%202023/About%20PF%202023/green%20economy.jpg)
 
 What exactly is Green Economy? In short, it is an economic system aiming at reducing environmental risks and ecological scarcities. It also prioritises use of renewable resources. Transitioning to a green economy is a no-brainer. It helps to protect the environment, mitigates impacts of climate change, and promotes using resources more efficiently.
 

@@ -2,8 +2,6 @@ collections:
   forum-details:
     output: true
     order:
-      - Learning Journeys (Local)/Example Title.md
-      - Learning Journeys (Local)/.keep
       - Programme/.keep
       - Programme/Day 0 (15 Sep).md
       - Programme/Day 1 (18 Sep).md
@@ -12,3 +10,5 @@ collections:
       - Programme/Day 4 (21 Sep).md
       - Programme/Day 5 (22 Sep).md
       - Locations.md
+      - Learning Journeys (Local)/.keep
+      - Learning Journeys (Local)/Example Title.md

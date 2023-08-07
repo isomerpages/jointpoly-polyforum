@@ -2,9 +2,9 @@ collections:
   about-pf-2023:
     output: true
     order:
-      - Sustainable Living.md
-      - Resilient Future.md
-      - Green Resources.md
       - Chairman's Address.md
       - Overview.md
       - Green Economy.md
+      - Green Resources.md
+      - Sustainable Living.md
+      - Resilient Future.md

@@ -129,4 +129,4 @@ Farhan Bin Kamis
 
 <br>
 
-<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313_somerset.png?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/HDB_(Eco_Punggol).png?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 35%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider_Electric.png?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 31%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai.png?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313.png?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313.png?width=320&amp;height=320&amp;fit=bounds">

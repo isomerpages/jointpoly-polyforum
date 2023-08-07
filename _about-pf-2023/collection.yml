@@ -2,6 +2,6 @@ collections:
   about-pf-2023:
     output: true
     order:
-      - Green Economy.md
       - Chairman's Address.md
       - Overview.md
+      - Green Economy.md

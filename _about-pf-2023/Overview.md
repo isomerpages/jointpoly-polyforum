@@ -7,11 +7,14 @@ The Polytechnic Forum (PF), an initiative which started in 1996, aims to provide
 
 # **Polytechnic Forum 2023: Our Green SG**
 
-
-
+<figure>
+<img alt="BigSur wallpaper" src="https://hosting.photobucket.com/images/i/tracyng81/Overview_6bzubyvzrnbs2KfqUvMA1A.jpg?width=590&amp;height=590&amp;fit=bounds">
+<figcaption>*(Image by tawatchai07 on Freepik)*</figcaption>
+</figure>
+		
 Sustainability is a vital part of our future! Singapore is facing several sustainability challenges today and these issues will continue to be a concern for young Singaporeans in the coming years. Companies and individuals are realising that the sustainability agenda cannot be mutually exclusive. In fact, they should work together to create a more sustainable world for all of us. It is therefore important for us to tackle problems together with stakeholders such as businesses, government agencies and community groups.
 
->"We will strive to become a zero waste nation, consuming less materials and giving them a second lease of life. We will build a green economy, nudging our businesses into doing good while also doing well… It is our duty and responsibility to make Singapore even greener and more liveable, and to work with others to build better cities and a healthier planet, for ourselves and future generations."
+&gt;"We will strive to become a zero waste nation, consuming less materials and giving them a second lease of life. We will build a green economy, nudging our businesses into doing good while also doing well… It is our duty and responsibility to make Singapore even greener and more liveable, and to work with others to build better cities and a healthier planet, for ourselves and future generations."
 
 ***(Prime Minister Lee Hsien Loong, Sustainable Singapore Blueprint)***
 

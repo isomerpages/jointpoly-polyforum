@@ -19,4 +19,4 @@ The theme keeps in line with Minister Ong Ye Kung’s recent speech at Singapore
 
 
 
-<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://photobucket.com/u/tracyng81/a/7a7e6982-1c5c-4e9a-b73e-50bd9e3fc5d7/p/e92ff381-f8ea-4ce6-b384-92531d1ce977">
+<img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Forum_Locations.png?width=320&amp;height=320&amp;fit=bounds">

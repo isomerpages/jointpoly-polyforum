@@ -20,7 +20,7 @@ The theme keeps in line with Minister Ong Ye Kung’s recent speech at Singapore
 <br>
 <table>
     <tbody><tr>
-        <td style="width:40%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:30%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td>
             <p>
                 Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>

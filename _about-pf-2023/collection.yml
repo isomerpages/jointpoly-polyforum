@@ -2,9 +2,9 @@ collections:
   about-pf-2023:
     output: true
     order:
-      - Sub Themes.md
       - Chairman's Address.md
       - Overview.md
+      - Sub Themes.md
       - Green Economy.md
       - Green Resources.md
       - Sustainable Living.md

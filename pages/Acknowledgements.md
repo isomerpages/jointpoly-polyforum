@@ -128,5 +128,3 @@ Farhan Bin Kamis
 | Ong Chai Lin | Singapore Polytechnic     | Group Facilitator     |
 
 <br>
-
-<a href="https://www.silosobeachresort.com/"><img style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Picture8.png?width=320&amp;height=320&amp;fit=bounds"></a><img style="float: left; width: 52%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Picture9.png?width=320&amp;height=320&amp;fit=bounds">

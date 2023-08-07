@@ -16,7 +16,3 @@ Considering the ever-evolving COVID-19 situation, PF 2022 would be organized as 
 COVID-19 has thrown up many fault lines within the Singapore society. Taking a leaf from our pledge, “We the citizens of Singapore pledge ourselves as one united people regardless of race language or religion…. Based on justice and equality…. Achieve happiness prosperity and progress for our nation”, the forum will examine what the pledge means to Singaporeans and whether we have stayed true it.
 
 The theme keeps in line with Minister Ong Ye Kung’s recent speech at Singapore Perspectives 2022 where he shared, “This makes nation building a long term, subconscious process. A nations’ people will need to have common experiences, and go through trials and tribulations together. Over time, this togetherness will forge common ideals that transcend primordial tribal instincts, and overcome forces that deepen social fault lines.” He went on to say, “That the consistent strengths of the institutions of state will always strive to ensure justice and fairness to all, uphold meritocracy, bring out the best of people, bridge our divides and put us on the right path for the long term.”
-
-
-
-<img style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Forum_Locations.png?width=320&amp;height=320&amp;fit=bounds">

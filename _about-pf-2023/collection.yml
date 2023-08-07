@@ -2,6 +2,7 @@ collections:
   about-pf-2023:
     output: true
     order:
+      - Subthemes/Green Resources.md
       - Subthemes/Green Economy.md
       - Subthemes/.keep
       - Chairman's Address.md

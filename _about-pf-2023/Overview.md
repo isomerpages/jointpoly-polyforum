@@ -8,7 +8,7 @@ The Polytechnic Forum (PF), an initiative which started in 1996, aims to provide
 ## **Polytechnic Forum 2023: Our Green SG**
 
 <figure>
-<img alt="BigSur wallpaper" src="https://hosting.photobucket.com/images/i/tracyng81/Overview_6bzubyvzrnbs2KfqUvMA1A.jpg?width=590&amp;height=590&amp;fit=bounds">
+<img alt="BigSur wallpaper" src="https://hosting.photobucket.com/images/i/tracyng81/Overview_6bzubyvzrnbs2KfqUvMA1A.jpg?width=320&amp;height=320&amp;fit=bounds">
 <figcaption>(Image by tawatchai07 on Freepik)</figcaption>
 </figure>
 		

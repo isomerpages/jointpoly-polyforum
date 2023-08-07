@@ -18,6 +18,7 @@ Sustainability is a vital part of our future! Singapore is facing several sustai
 <strong>“We will strive to become a zero waste nation, consuming less materials and giving them a second lease of life. We will build a green economy, nudging our businesses into doing good while also doing well… It is our duty and responsibility to make Singapore even greener and more liveable, and to work with others to build better cities and a healthier planet, for ourselves and future generations.”
 
 <br>
+<br>
 (Prime Minister Lee Hsien Loong, Sustainable Singapore Blueprint)
 	</strong></blockquote><strong>
 </strong></figure>

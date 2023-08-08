@@ -3,12 +3,7 @@ links:
   - title: About PF
     collection: about-pf
   - title: FORUM DETAILS
-    url: /programme
-    sublinks:
-      - title: Sub-Themes
-        url: /subthemes
-      - title: Location
-        url: /locations
+    collection: forum-details
   - title: PF2022
     url: /about-us
     sublinks:
@@ -21,4 +16,9 @@ links:
   - title: PROGRAMME BOOKLET
     url: https://for.edu.sg/pf2022-programme
   - title: FORUM DETAILS
-    collection: forum-details
+    url: /programme
+    sublinks:
+      - title: Sub-Themes
+        url: /subthemes
+      - title: Location
+        url: /locations

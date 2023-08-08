@@ -40,7 +40,7 @@ table, th, td {
   </tr>
 		<tr>
 			<td>3.30pm to 4.15pm</td>
-    <td>**PF 2023: Opening Ceremony**<br><br>***Guest of Honour: Ms Grace Fu***<br>***Minister for Sustainability and the Environment***<br>- Opening Address by GOH<br>- Moderated Discussion with GOH</td>
+    <td>PF 2023: Opening Ceremony<br><br>**Guest of Honour: Ms Grace Fu**<br>**Minister for Sustainability and the Environment**<br><br>- Opening Address by GOH<br>- Moderated Discussion with GOH</td>
   </tr>
 		<tr>
 </tr></tbody></table>

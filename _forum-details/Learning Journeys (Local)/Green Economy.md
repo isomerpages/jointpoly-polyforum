@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-local/green-economy/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-### In these Learning Journeys, you will get to:
+### In these Learning Journeys, you will get to:<br>
 
 1. Learn about the sustainability efforts undertaken by corporations across various industries to build Singapore’s move towards a Green Economy.
 

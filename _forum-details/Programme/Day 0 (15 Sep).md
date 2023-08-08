@@ -39,4 +39,8 @@ table, th, td {
     <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br><font size="-1">(*All to be seated by <u>3.15pm</u> for Opening Ceremony)</font></td>
   </tr>
 		<tr>
+			<td>3.30pm to 4.15pm</td>
+    <td>**PF 2023: Opening Ceremony**<br><br>***Guest of Honour: Ms Grace Fu***<br>***Minister for Sustainability and the Environment***<br>- Opening Address by GOH<br>- Moderated Discussion with GOH</td>
+  </tr>
+		<tr>
 </tr></tbody></table>

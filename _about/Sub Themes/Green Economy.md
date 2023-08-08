@@ -4,8 +4,6 @@ permalink: /about/sub-themes/greeneconomy/
 description: ""
 third_nav_title: Sub Themes
 ---
-#### Green Economy
-
 ![](/images/PF%202023/About%20PF%202023/green%20economy.jpg)
 <font size="-1">(Image by victor217 on Freepik)</font>
 

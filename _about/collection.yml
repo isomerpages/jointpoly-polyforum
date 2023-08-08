@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Sub Themes/Sustainable Living.md
       - Sub Themes/Green Resources.md
       - Sub Themes/Green Economy.md
       - Sub Themes/What's In Store.md

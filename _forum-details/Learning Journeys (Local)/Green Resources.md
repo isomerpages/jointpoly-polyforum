@@ -6,7 +6,6 @@ third_nav_title: Learning Journeys (Local)
 ---
 ### In these Learning Journeys, you will get to:
 <br>
-<br>
 1. Delve into the multi-faceted implementation of Green Resources, encompassing alternative energy solutions, eco-friendly materials and more, across an array of diverse industries.
 
 1. Gain insights into the constraints and opportunities faced by Singapore in embracing the adoption of Green Resources across different sectors and industries.

@@ -1,4 +1,5 @@
 collections:
   about-pf:
     output: true
-    order: []
+    order:
+      - Chairman's Address.md

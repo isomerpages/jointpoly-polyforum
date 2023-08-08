@@ -11,6 +11,12 @@ Polytechnic Forum (PF) 2023 will be happening on **15 &amp; 18-22 September 2023
 **Venue(s): Temasek Polytechnic**
 
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
 <table style="width:100%">
   <tbody><tr>
     <th>Time</th>
@@ -24,5 +30,13 @@ Polytechnic Forum (PF) 2023 will be happening on **15 &amp; 18-22 September 2023
     <td>9.30am to 12.00pm</td>
     <td>- Welcome Address by Chairman, PF 2023<br>- Introduction by Chief Facilitator, PF 2023<br>- Ice-Breaker &amp; Team Bonding Activities</td>
   </tr>
-</tbody></table>
-
+		<tr>
+    <td>12.00pm to 2.30pm</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+		<td>2.30pm to 3.30pm</td>
+    <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br>*(All to be seated by 3.15pm for Closing Ceremony)*</td>
+  </tr>
+		<tr>
+</tr></tbody></table>

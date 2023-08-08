@@ -36,7 +36,7 @@ table, th, td {
   </tr>
   <tr>
 		<td>2.30pm to 3.30pm</td>
-    <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br><font size="-1">(*All to be seated by 3.15pm for Closing Ceremony)</font></td>
+    <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br><font size="-1">(*All to be seated by <u>3.15pm</u> for Opening Ceremony)</font></td>
   </tr>
 		<tr>
 </tr></tbody></table>

@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-local/greenresources/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-**In these Learning Journeys, you will get to:**
+### In these Learning Journeys, you will get to:
 
 1. Delve into the multi-faceted implementation of Green Resources, encompassing alternative energy solutions, eco-friendly materials and more, across an array of diverse industries.
 

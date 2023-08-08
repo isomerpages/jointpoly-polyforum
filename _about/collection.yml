@@ -4,8 +4,8 @@ collections:
     order:
       - Chairman's Address.md
       - Overview.md
-      - Sub Themes/Resilient Future.md
-      - Sub Themes/Sustainable Living.md
       - Sub Themes/.keep
-      - Sub Themes/Green Resources.md
       - Sub Themes/Green Economy.md
+      - Sub Themes/Green Resources.md
+      - Sub Themes/Sustainable Living.md
+      - Sub Themes/Resilient Future.md

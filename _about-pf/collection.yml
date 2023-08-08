@@ -2,10 +2,10 @@ collections:
   about-pf:
     output: true
     order:
-      - Sub Themes/Resilient Future.md
-      - Sub Themes/Sustainable Living.md
-      - Sub Themes/Green Resources.md
-      - Sub Themes/Green Economy.md
       - Sub Themes/.keep
+      - Sub Themes/Green Economy.md
+      - Sub Themes/Green Resources.md
+      - Sub Themes/Sustainable Living.md
+      - Sub Themes/Resilient Future.md
       - Overview.md
       - Chairman's Address.md

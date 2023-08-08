@@ -16,6 +16,6 @@ The **Polytechnic Forum (PF)**, an initiative which started in 1996, aims to pro
 <br>(Prime Minister Lee Hsien Loong, Sustainable Singapore Blueprint)
 </b></blockquote>
 
-The theme of the Polytechnic Forum (PF) 2023 is “Our Green SG”. The programme has been specially created for you to explore possibilities towards a more sustainable future. With the knowledge and rich discussions that PF 2023 will provide, we hope it raises your consciousness to take daily steps towards sustainability and make a difference in the world around Singapore and you.
+The theme of the Polytechnic Forum (PF) 2023 is **“Our Green SG”**. The programme has been specially created for you to explore possibilities towards a more sustainable future. With the knowledge and rich discussions that PF 2023 will provide, we hope it raises your consciousness to take daily steps towards sustainability and make a difference in the world around Singapore and you.
 
 PF 2023 takes inspiration from the [Singapore Green Plan 2030](https://www.greenplan.gov.sg/) and [Sustainable Singapore Blueprint](https://www.nccs.gov.sg/media/publications/sustainable-singapore-blueprint).

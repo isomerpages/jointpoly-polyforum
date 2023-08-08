@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Sub Themes/.keep
       - What's In Store.md
       - Resilient Future.md
       - Sustainable Living.md

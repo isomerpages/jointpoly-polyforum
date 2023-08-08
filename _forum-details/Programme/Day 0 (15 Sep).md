@@ -43,4 +43,8 @@ table, th, td {
     <td>PF 2023: Opening Ceremony<br><br>**Guest of Honour: Ms Grace Fu**<br>**Minister for Sustainability and the Environment**<br><br>- Opening Address by GOH<br>- Moderated Discussion with GOH</td>
   </tr>
 		<tr>
+			<td>4.15pm to 5.00pm</td>
+    <td>Tea Reception, Interaction &amp; Photo-taking</td>
+  </tr>
+  <tr>
 </tr></tbody></table>

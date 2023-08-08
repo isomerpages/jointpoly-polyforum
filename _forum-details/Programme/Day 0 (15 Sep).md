@@ -4,7 +4,7 @@ permalink: /forum-details/programme/day0/
 description: ""
 third_nav_title: Programme
 ---
-Polytechnic Forum (PF) 2023 will be happening on **15 &amp; 18-22 September 2023**. For the detailed programme, please download the&nbsp;PF 2023 e-Handbook **here**.
+The Polytechnic Forum (PF) 2023 will be happening on **15 &amp; 18-22 September 2023**. For the detailed programme, please download the&nbsp;PF 2023 e-Handbook **here**.
 <hr>
 
 **Day 0 / Non-Residential: 15 Sep 2023 (Friday)**<br>
@@ -36,7 +36,7 @@ table, th, td {
   </tr>
   <tr>
 		<td>2.30pm to 3.30pm</td>
-    <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br>*(All to be seated by 3.15pm for Closing Ceremony)*</td>
+    <td>- Admin Brief for Residential Programme<br>- Brief for Social Night<br>- Arrival of P/CEO, Management Staff &amp; Invited Guests for *Opening Ceremony<br><br><font size="-1">(*All to be seated by 3.15pm for Closing Ceremony)</font></td>
   </tr>
 		<tr>
 </tr></tbody></table>

@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Green Resources.md
       - Green Economy.md
       - Chairman's Address.md
       - Overview.md

@@ -25,20 +25,28 @@ Date: 18 Sep 2023 (Monday)**
 					<br>Schneider Electric</b><br>
                 <br>Mr Jackson Seng has more than 20 years of regional experience in multiple leadership roles (strategy, business development, sales, marketing, services, engineering, project management, commercial operations). He is currently the Vice President of Strategy and Business Development for the East Asia region at Schneider Electric.<br>
                 <br>In his role, Mr Seng leads a team to drive long-term business strategy development and deployment. He develops strong collaboration with the senior management team and external partners to ensure the successful implementation of strategic initiatives. Sustainability is an integral part of the long-term strategy of Schneider Electric, and partnering with customers to achieve their environmental sustainability commitment with renewable energy PPA, RECs and microgrid solutions, remains a high priority.<br>              
-               <br>          
-            </p>
-</td></tr></tbody></table>
-<br><table>
+
+<table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-        <td><p><b>Ms Tan Mei Ping
-                <br>Vice President, Group Corporate Sustainability Office
-					<br>United Overseas Bank</b><br>
-                <br>Ms Tan Mei Ping has more than 10 years of working experience in a financial institution, public sector and global technology companies. She is an experienced sustainability professional in the areas of sustainable finance, corporate sustainability, policies and regulations, as well as sustainable technologies.<br>
-                <br>In her current role at the United Overseas Bank’s Group Corporate Sustainability Office, Ms Tan works with various business functions to identify and manage ESG risks and opportunities, including supporting the bank in delivering a net zero future. Prior to this, she closely engaged Small and Medium Enterprises (SMEs) to integrate sustainability in their business operations and develop sustainable solutions through programmes and initiatives.<br>    
-					<br>Ms Tan holds a MPhil’s Degree in Engineering for Sustainable Development from the University of Cambridge, and a Bachelor’s Degree in Electrical Engineering from the Korea University.<br>          
-               <br>          
+        <td style="width:30%"><img src="/images/Sports/FIELD HOCKEY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td>
+            <p>
+                Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
+                <br>
+                <b>Achievements:</b><br>
+                POL-ITE Games 2022: Gold (Men’s Team) &amp; 4th Position (Women's Team)<br>
+                <br>
+                <b>Training Days:</b><br>
+                </p><ul>
+                    <li>Monday &amp; Wednesday, 7pm (Women’s)</li>
+                    <li>Tuesday &amp; Thursday, 7pm (Men’s)</li>
+                </ul>
+            <p></p>
+            <p>
+                <b>CCA Staff Advisor:</b> <a href="Tan_Thian_Seng@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/tphockey_rays">Instagram</a>
             </p>
         </td>
     </tr>
-</tbody></table>
+</tbody></table></p></td></tr></tbody></table>

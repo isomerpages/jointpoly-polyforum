@@ -15,6 +15,41 @@ Let your creativity and passion for a greener future shine at PF 2023! Together,
 
 _(For more information on this activity, including examples of the recyclable materials that you can bring as well as guidelines on how to create your souvenirs, please refer to the **PF 2023 e-Handbook**.)._<br>
 
-### **Souvenir Ideas**
-<br>
+### **Souvenir Ideas**<br>
+
 The possibilities for crafting unique items and souvenirs are endless. Here are some ideas to get you started, but do feel free to explore others!
+<br>
+<br>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Final Product</th>
+    <th>Possible Raw Materials</th>
+  </tr>
+  <tr>
+    <td>Keychain</td>
+    <td>Metal rings, buttons, paper clips, markers, small wires, cable ties, etc.</td>
+  </tr>
+  <tr>
+    <td>Bookmark</td>
+    <td>Paper products, cloth, markers, thread, yarn, etc.</td>
+  </tr>
+		<tr>
+    <td>Windchime</td>
+    <td>Smaller tins, containers, strings, twine, buttons, glue, etc.</td>
+  </tr>
+  <tr>
+		<td>Tote bag / Apron</td>
+    <td>Old banners/shirts, glue, markers, tape, etc.</td>
+  </tr>
+		<tr>
+			<td>Stationery holder / Pencil box / Bag</td>
+			<td>Metal/plastic containers, glue, tape, old shirts, etc.</td>
+  </tr>
+		<tr>
+</tr></tbody></table>

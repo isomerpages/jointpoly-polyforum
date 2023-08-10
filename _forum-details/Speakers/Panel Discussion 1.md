@@ -7,7 +7,7 @@ third_nav_title: Speakers
 # Panel Discussion 1: Towards a Net Zero Economy<br>
 
 **Sub-Themes: Green Economy &amp; Green Resources<br>
-Date: 18 Sep 2023 (Monday)**<br>
+Date: 18 Sep 2023 (Monday)**
 
 ### This panel will discuss the following topics:
 

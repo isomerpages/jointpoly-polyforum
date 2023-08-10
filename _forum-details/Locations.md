@@ -15,8 +15,6 @@ With the exception of the Learning Journeys (which will mostly be conducted offs
 
 For detailed directions to TP, please visit this [link](https://www.tp.edu.sg/about-tp/getting-to-tp.html).
 
-<hr>
-
 ### <b>Campus Map</b><br>
 For details of the facilities/amenities available in TP, please visit this [link](https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html).
 

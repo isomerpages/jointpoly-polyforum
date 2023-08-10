@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: About Polytechnic Forum 2023
           description: Overview & What's In Store!
-          url: /highlights
+          url: about/overview/
         - title: Forum Details
           description: Exciting Lineup of Activities!
-          url: /sponsors
+          url: /forum-details/programme/day0/
         - title: Resources
           description: Download the e-Handbook Now!
           url: https://for.edu.sg/pf2022-photos
@@ -28,7 +28,7 @@ sections:
       subtitle: ANNUAL PROGRAMME
       image: /images/PF 2023/Homepage/about pf 2023.jpg
       button: Find Out More!
-      url: /highlights/
+      url: /about/overview/
       title: ABOUT POLYTECHNIC FORUM 2023
       description: PF provides an annual platform for polytechnic students to gain a
         deeper understanding of important national issues through an eclectic
@@ -38,7 +38,7 @@ sections:
       description: An impassioned call for you to make the most of your involvement in
         PF 2023. Have fun participating and enjoy the exciting journey!
       button: Read More Here
-      url: /about-pf-2023/chairmansaddress/
+      url: /about/chairmansaddress/
       alt: Image alt text
       image: /images/PF 2023/Homepage/chairman - mock image.jpg
       title: CHAIRMAN'S ADDRESS
@@ -50,7 +50,7 @@ sections:
         and lots of constructive sharing, look forward to an enriching
         experience at PF 2023!
       button: Discover The Action
-      url: /highlights
+      url: /forum-details/programme/day0/
       image: /images/PF 2023/Homepage/forum programme.jpg
       alt: highlights
   - infopic:

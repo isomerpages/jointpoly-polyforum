@@ -15,7 +15,7 @@ Date: 19 Sep 2023 (Tuesday)**
 * Suggesting how their practices could impact Singapore and its social compact; and
 * Providing possible solutions that Singapore and individuals could take to engender positive sustainability outcomes.
 <hr>
-### Speakers<br>
+### **Speakers**<br>
 
 <table>
     <tbody><tr>

@@ -23,7 +23,7 @@ sections:
         - title: Acknowledgements
           description: Our Sponsors & Partners!
           url: /acknowledgements/sponsors/
-      background: /images/PF 2023/Homepage/web-homepage-banner.jpg
+      background: /images/PF 2023/Homepage/pf-web-homepage_edit-01.jpg
   - infopic:
       subtitle: ANNUAL PROGRAMME
       image: /images/PF 2023/Homepage/about pf 2023.jpg

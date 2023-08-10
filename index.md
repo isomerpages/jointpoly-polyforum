@@ -22,7 +22,7 @@ sections:
           url: /resources/e-handbook/
         - title: Acknowledgements
           description: Our Sponsors & Partners!
-          url: ""
+          url: /acknowledgements/sponsors/
       background: /images/PF 2023/Homepage/web-homepage-banner.jpg
   - infopic:
       subtitle: ANNUAL PROGRAMME

@@ -2,6 +2,7 @@ collections:
   acknowledgements:
     output: true
     order:
+      - Partners.md
       - Sponsors.md
       - Facilitation Team.md
       - Organising Committee.md

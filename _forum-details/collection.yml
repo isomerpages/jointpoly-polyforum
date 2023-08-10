@@ -2,8 +2,6 @@ collections:
   forum-details:
     output: true
     order:
-      - Speakers/Panel Discussion 1.md
-      - Speakers/.keep
       - Programme/.keep
       - Programme/Day 0  (15 Sep 2023).md
       - Programme/Day 1  (18 Sep 2023).md
@@ -20,3 +18,5 @@ collections:
       - Learning Journeys (Overseas)/.keep
       - Learning Journeys (Overseas)/Mangrove Tour, Desaru.md
       - Learning Journeys (Overseas)/Desaru Fruit Farm.md
+      - Speakers/.keep
+      - Speakers/Panel Discussion 1.md

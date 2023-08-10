@@ -56,7 +56,7 @@ table, th, td {
 
 ### **Reference Ideas**
 
-Here are some ideas to get your creative juices flowing and kickstart your souvenir crafting journey!
+Here are some ideas to get your creative juices flowing in preparation for your souvenir crafting journey!
 
 * [https://www.pinterest.com/tandjmom/recycled-crafts/](https://www.pinterest.com/tandjmom/recycled-crafts/)
 * [https://www.diycraftsy.com/recycling-ideas/](https://www.diycraftsy.com/recycling-ideas/)

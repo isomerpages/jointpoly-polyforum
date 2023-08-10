@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-overseas/mangrovetour/
 description: ""
 third_nav_title: Learning Journeys (Overseas)
 ---
-### In this Learning Journey, you will get to:<br>
+### **In this Learning Journey, you will get to:**<br>
 
 1. Understand the pivotal role of mangroves in safeguarding our shorelines and the ecosystem.&nbsp;
 

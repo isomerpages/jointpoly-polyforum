@@ -4,7 +4,7 @@ permalink: /forum-details/speakers/paneldiscussion1/
 description: ""
 third_nav_title: Speakers
 ---
-# Panel Discussion 1: Towards a Net Zero Economy<br>
+# Panel Discussion 1: Towards A Net Zero Economy<br>
 
 **Sub-Themes: Green Economy &amp; Green Resources<br>
 Date: 18 Sep 2023 (Monday)**

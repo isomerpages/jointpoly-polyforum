@@ -2,4 +2,5 @@ collections:
   acknowledgements:
     output: true
     order:
+      - Facilitation Team.md
       - Organising Committee.md

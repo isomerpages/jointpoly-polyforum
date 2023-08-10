@@ -66,4 +66,4 @@ Here are some ideas to get your creative juices flowing in preparation for your 
 
 Nonetheless, you are strongly encouraged to explore the Internet and YouTube for more inspiration and DIY tutorials on creating these delightful souvenirs. Get inspired and discover new crafting techniques to make your creations even more unique and sustainable. 
 
-Enjoy the experience and happy crafting!
+Happy crafting!

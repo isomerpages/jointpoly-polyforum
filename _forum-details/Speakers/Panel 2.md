@@ -11,15 +11,15 @@ Date: 19 Sep 2023 (Tuesday)**
 
 **This panel will discuss the following topics:**
 
-* Creating job opportunities in sustainability and related areas;
-* Having a decent living wage/income, while contributing directly towards achieving sustainable development goals; and
-* Promoting sustainable economic growth for Singapore and achieving full and productive employment for all.
+* Evaluating the effectiveness of sustainability living practices in the speakers’ respective fields;
+* Suggesting how their practices could impact Singapore and its social compact; and
+* Providing possible solutions that Singapore and individuals could take to engender positive sustainability outcomes.
 <hr>
 ### Speakers<br>
 
 <table>
     <tbody><tr>
-        <td style="width:30%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Mr Jackson Seng
                 <br>Vice President of Strategy &amp; Business Development
 					<br>Schneider Electric</b><br>
@@ -33,7 +33,7 @@ Date: 19 Sep 2023 (Tuesday)**
 <br>
 <table>
     <tbody><tr>
-        <td style="width:30%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Ms Tan Mei Ping
                 <br>Vice President, Group Corporate Sustainability Office
 					<br>United Overseas Bank</b><br>

@@ -2,6 +2,7 @@ collections:
   forum-details:
     output: true
     order:
+      - Learning Journeys (Overseas)/Mangrove Tour, Desaru.md
       - Learning Journeys (Overseas)/.keep
       - Programme/.keep
       - Programme/Day 0  (15 Sep 2023).md

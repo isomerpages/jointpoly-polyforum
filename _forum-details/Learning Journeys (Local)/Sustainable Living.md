@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-local/sustainableliving/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-### In these Learning Journeys, you will get to:<br>
+### **In these Learning Journeys, you will get to:**<br>
 
 1. Deepen your understanding of sustainable living principles, including in the domains of circular economy, upcycling, recycling, and other eco-conscious practices.
 

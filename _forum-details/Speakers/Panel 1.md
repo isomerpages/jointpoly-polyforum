@@ -24,8 +24,7 @@ Date: 18 Sep 2023 (Monday)**
                 <br>Vice President of Strategy &amp; Business Development
 					<br>Schneider Electric</b><br>
                 <br>Mr Jackson Seng has more than 20 years of regional experience in multiple leadership roles (strategy, business development, sales, marketing, services, engineering, project management, commercial operations). He is currently Schneider Electric’s Vice President of Strategy and Business Development for the East Asia region.<br>
-                <br>In his role, Mr Seng leads a team to drive long-term business strategy development and deployment. He develops strong collaboration with the senior management team and external partners to ensure the successful implementation of strategic initiatives. Sustainability is an integral part of the long-term strategy of Schneider Electric, and partnering with customers to achieve their environmental sustainability commitment with renewable energy PPA, RECs and microgrid solutions, remains high priority.
-                <br>          
+                <br>In his role, Mr Seng leads a team to drive long-term business strategy development and deployment. He develops strong collaboration with the senior management team and external partners to ensure the successful implementation of strategic initiatives. Sustainability is an integral part of the long-term strategy of Schneider Electric, and partnering with customers to achieve their environmental sustainability commitment with renewable energy PPA, RECs and microgrid solutions, remains high priority.<br>              
             </p>
         </td>
     </tr>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Panel Discussions
 ---
 ## **Moderator**
-<br>
+
 <table>
     <tbody><tr>
         <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Chosen.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>

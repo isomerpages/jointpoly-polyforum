@@ -9,7 +9,7 @@ third_nav_title: Speakers
 **Sub-Themes: Green Economy &amp; Green Resources<br>
 Date: 18 Sep 2023 (Monday)**
 
-### This panel will discuss the following topics:
+**This panel will discuss the following topics:**
 
 * Creating job opportunities in sustainability and related areas;
 * Having a decent living wage/income, while contributing directly towards achieving sustainable development goals; and

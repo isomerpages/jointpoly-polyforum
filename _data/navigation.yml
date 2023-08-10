@@ -4,6 +4,8 @@ links:
     collection: about
   - title: FORUM DETAILS
     collection: forum-details
+  - title: Resources
+    collection: resources
   - title: PF2022
     url: /about-us
     sublinks:
@@ -20,5 +22,3 @@ links:
         url: /subthemes
       - title: Location
         url: /locations
-  - title: Resources
-    collection: resources

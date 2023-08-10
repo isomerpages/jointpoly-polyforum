@@ -18,10 +18,3 @@ third_nav_title: Learning Journeys (Overseas)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>

@@ -15,8 +15,7 @@ Date: 19 Sep 2023 (Tuesday)**
 * Suggesting how their practices could impact Singapore and its social compact; and
 * Providing possible solutions that Singapore and individuals could take to engender positive sustainability outcomes.
 <hr>
-## **Speakers**
-<br>
+## **Speakers**<br>
 <table>
     <tbody><tr>
         <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>

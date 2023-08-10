@@ -68,7 +68,7 @@ sections:
       description: We express our heartfelt gratitude to the generous sponsors and
         partners of PF 2023, as well as the spirited team behind this event.
       button: THANK YOU!
-      url: /acknowledgements
+      url: /acknowledgements/sponsors/
       image: /images/PF 2023/Homepage/acknowledgements.jpg
       alt: Image alt text
 ---

@@ -57,7 +57,7 @@ sections:
       title: HIGHLIGHTS
       subtitle: "#POLYFORUM2023"
       button: VIEW MORE HERE
-      url: /photohighlights
+      url: /highlights/photogallery/
       image: /images/PF 2023/Homepage/highlights.jpg
       alt: Image alt text
       description: Document the thrills and spills of the forum, as well as your

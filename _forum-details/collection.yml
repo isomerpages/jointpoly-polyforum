@@ -2,6 +2,7 @@ collections:
   forum-details:
     output: true
     order:
+      - Learning Journeys (Overseas)/Desaru Fruit Farm.md
       - Learning Journeys (Overseas)/Mangrove Tour, Desaru.md
       - Learning Journeys (Overseas)/.keep
       - Programme/.keep

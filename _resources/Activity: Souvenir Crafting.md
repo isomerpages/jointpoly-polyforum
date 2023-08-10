@@ -13,7 +13,7 @@ As part of this immersive experience, you are required to bring along recyclable
 
 Let your creativity and passion for a greener future shine at PF 2023! Together, we can inspire change, leave a lasting impact, and create a better and more sustainable world for generations to come. Let's take action and be the change-makers we want to see.
 
-_(For more information on this activity, including examples of the recyclable materials that you can bring as well as guidelines on how to create your souvenirs, please refer to the **PF 2023 e-Handbook**.)._<br>
+_(For more information on this activity, including examples of the recyclable materials that you can bring as well as guidelines on how to create your souvenirs, please refer to the **PF 2023 e-Handbook**)._<br>
 
 ### **Souvenir Ideas**
 

@@ -20,26 +20,12 @@ Date: 19 Sep 2023 (Tuesday)**
 
 <table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-        <td><p><b>Mr Jackson Seng
-                <br>Vice President of Strategy &amp; Business Development
-					<br>Schneider Electric</b><br>
-                <br>Mr Jackson Seng has more than 20 years of regional experience in multiple leadership roles (strategy, business development, sales, marketing, services, engineering, project management, commercial operations). He is currently Schneider Electric’s Vice President of Strategy and Business Development for the East Asia region.<br>
-                <br>In his role, Mr Seng leads a team to drive long-term business strategy development and deployment. He develops strong collaboration with the senior management team and external partners to ensure the successful implementation of strategic initiatives. Sustainability is an integral part of the long-term strategy of Schneider Electric, and partnering with customers to achieve their environmental sustainability commitment with renewable energy PPA, RECs and microgrid solutions, remains high priority.
-                <br>          
-            </p>
-        </td>
-    </tr>
-</tbody></table>
-
-<table>
-    <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-        <td><p><b>Ms Tan Mei Ping
-                <br>Vice President, Group Corporate Sustainability Office
-					<br>United Overseas Bank</b><br>
-                <br>Ms Tan Mei Ping has more than 10 years of working experience in a financial institution, public sector and global technology companies. She is an experienced sustainability professional in the areas of sustainable finance, corporate sustainability, policies and regulations, as well as sustainable technologies..<br>
-                <br>In her current role at the United Overseas Bank’s Group Corporate Sustainability Office, Ms Tan works with various business functions to identify and manage ESG risks and opportunities, including supporting the bank in delivering a net zero future. Prior to this, she closely engaged Small and Medium Enterprises (SMEs) to integrate sustainability in their business operations and develop sustainable solutions through programmes and initiatives. She holds a MPhil’s degree in Engineering for Sustainable Development from the University of Cambridge, and a Bachelor’s degree in Electrical Engineering from the Korea University.
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Mr Jacy Yau
+                <br>Head of Commercial &amp; Special Projects
+					<br>Edible Garden City</b><br>
+                <br>With extensive experience working across both the private and public sectors, Mr Jacky Yau has experience in advising executive leadership and implementing change in his previous career as a management consultant in Australia, and as a leader within the Edible Garden City (EGC). He is motivated by the importance and inspired by the potential impact of contributing to food resilience in Singapore through individual action.<br>
+                <br>Mr Yau currently leads the team&nbsp;that works closely with schools (ranging from Primary level to University) to bring students closer to their food source and&nbsp;learn about EGC’s approaches to managing challenges in the local agriculture industry, as well as the variety of challenges Singapore looks to overcome (e.g. local and historic food resilience, economic competitiveness, and sustainability).
                 <br>          
             </p>
         </td>

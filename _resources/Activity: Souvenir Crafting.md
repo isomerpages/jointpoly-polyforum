@@ -55,3 +55,15 @@ table, th, td {
 </tr></tbody></table>
 
 ### **Reference Ideas**
+
+Here are some ideas to get your creative juices flowing and kickstart your souvenir crafting journey!
+
+* [https://www.pinterest.com/tandjmom/recycled-crafts/](https://www.pinterest.com/tandjmom/recycled-crafts/)
+* [https://www.diycraftsy.com/recycling-ideas/](https://www.diycraftsy.com/recycling-ideas/)
+* [https://beautyharmonylife.com/25-diy-ideas-to-recycle-your-potential-garbage/](https://beautyharmonylife.com/25-diy-ideas-to-recycle-your-potential-garbage/)
+* [https://www.the-bella-vita.com/clever-recycled-projects/](https://www.the-bella-vita.com/clever-recycled-projects/)
+* [https://cleanriver.com/recycling-projects-kids-schools/](https://cleanriver.com/recycling-projects-kids-schools/)
+
+Nonetheless, you are strongly encouraged to explore the Internet and YouTube for more inspiration and DIY tutorials on creating these delightful souvenirs. Get inspired and discover new crafting techniques to make your creations even more unique and sustainable. 
+
+Enjoy the experience and happy crafting!

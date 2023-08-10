@@ -35,8 +35,9 @@ Date: 18 Sep 2023 (Monday)**
         <td><p><b>Ms Tan Mei Ping
                 <br>Vice President, Group Corporate Sustainability Office
 					<br>United Overseas Bank</b><br>
-                <br>Ms Tan Mei Ping has more than 10 years of working experience in a financial institution, public sector and global technology companies. She is an experienced sustainability professional in the areas of sustainable finance, corporate sustainability, policies and regulations, as well as sustainable technologies..<br>
-                <br>In her current role at the United Overseas Bank’s Group Corporate Sustainability Office, Ms Tan works with various business functions to identify and manage ESG risks and opportunities, including supporting the bank in delivering a net zero future. Prior to this, she closely engaged Small and Medium Enterprises (SMEs) to integrate sustainability in their business operations and develop sustainable solutions through programmes and initiatives. She holds a MPhil’s degree in Engineering for Sustainable Development from the University of Cambridge, and a Bachelor’s degree in Electrical Engineering from the Korea University.
+                <br>Ms Tan Mei Ping has more than 10 years of working experience in a financial institution, public sector and global technology companies. She is an experienced sustainability professional in the areas of sustainable finance, corporate sustainability, policies and regulations, as well as sustainable technologies.<br>
+                <br>In her current role at the United Overseas Bank’s Group Corporate Sustainability Office, Ms Tan works with various business functions to identify and manage ESG risks and opportunities, including supporting the bank in delivering a net zero future. Prior to this, she closely engaged Small and Medium Enterprises (SMEs) to integrate sustainability in their business operations and develop sustainable solutions through programmes and initiatives.<br>
+					<br>Ms Tan holds a MPhil’s degree in Engineering for Sustainable Development from the University of Cambridge, and a Bachelor’s degree in Electrical Engineering from the Korea University.
                 <br>          
             </p>
         </td>

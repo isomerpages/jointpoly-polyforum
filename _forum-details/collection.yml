@@ -2,6 +2,7 @@ collections:
   forum-details:
     output: true
     order:
+      - Speakers/Panel Discussion 1.md
       - Speakers/.keep
       - Programme/.keep
       - Programme/Day 0  (15 Sep 2023).md

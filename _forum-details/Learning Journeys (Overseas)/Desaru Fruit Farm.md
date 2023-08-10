@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-overseas/desarufruitfarm/
 description: ""
 third_nav_title: Learning Journeys (Overseas)
 ---
-### In this Learning Journey, you will get to:<br>
+### **In this Learning Journey, you will get to:**<br>
 
 1. Learn about the inherent circular economy established within the Desaru Fruit Farm.&nbsp;
 

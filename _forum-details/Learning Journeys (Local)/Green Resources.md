@@ -20,10 +20,3 @@ third_nav_title: Learning Journeys (Local)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>

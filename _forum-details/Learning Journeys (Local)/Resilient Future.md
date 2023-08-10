@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-local/resilientfuture/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-### In these Learning Journeys, you will get to:<br>
+### **In these Learning Journeys, you will get to:**<br>
 
 1. Learn how to ensure Singapore’s survival and resilience in the face of future challenges, by recognising the potential threats posed by climate change and the necessity for food security.&nbsp;
 

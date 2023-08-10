@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - "Activity: Souvenir Crafting.md"
       - PF 2023 eHandbook.md
+      - "Activity: Souvenir Crafting.md"

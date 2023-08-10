@@ -4,7 +4,7 @@ permalink: /forum-details/speakers/paneldiscussion2/
 description: ""
 third_nav_title: Panel Discussions
 ---
-# Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City<br>
+## **Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City**<br>
 
 **Sub-Themes: Sustainable Living &amp; Resilient Future<br>
 Date: 19 Sep 2023 (Tuesday)**

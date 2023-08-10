@@ -15,7 +15,7 @@ Let your creativity and passion for a greener future shine at PF 2023! Together,
 
 _(For more information on this activity, including examples of the recyclable materials that you can bring as well as guidelines on how to create your souvenirs, please refer to the **PF 2023 e-Handbook**.)._<br>
 
-### **Souvenir Ideas**<br>
+### **Souvenir Ideas**
 
 The possibilities for crafting unique items and souvenirs are endless. Here are some ideas to get you started, but do feel free to explore others!
 <br>

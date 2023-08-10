@@ -6,19 +6,5 @@ links:
     collection: forum-details
   - title: RESOURCES
     collection: resources
-  - title: PF2022
-    url: /about-us
-    sublinks:
-      - title: Chairman's Address
-        url: /address
-      - title: Acknowledgements
-        url: /sponsors
-      - title: Highlights
-        url: /highlights
-  - title: FORUM DETAILS
-    url: /programme
-    sublinks:
-      - title: Sub-Themes
-        url: /subthemes
-      - title: Location
-        url: /locations
+  - title: HIGHLIGHTS
+    collection: highlights

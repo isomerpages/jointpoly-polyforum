@@ -1,0 +1,4 @@
+collections:
+  acknowledgements:
+    output: true
+    order: []

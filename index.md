@@ -19,7 +19,7 @@ sections:
           url: /forum-details/programme/day0/
         - title: Resources
           description: Download the e-Handbook Now!
-          url: https://for.edu.sg/pf2022-photos
+          url: /resources/e-handbook/
         - title: Acknowledgements
           description: Our Sponsors & Partners!
           url: ""

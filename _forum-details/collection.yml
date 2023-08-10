@@ -2,9 +2,9 @@ collections:
   forum-details:
     output: true
     order:
-      - Learning Journeys (Overseas)/Desaru Fruit Farm.md
-      - Learning Journeys (Overseas)/Mangrove Tour, Desaru.md
       - Learning Journeys (Overseas)/.keep
+      - Learning Journeys (Overseas)/Mangrove Tour, Desaru.md
+      - Learning Journeys (Overseas)/Desaru Fruit Farm.md
       - Programme/.keep
       - Programme/Day 0  (15 Sep 2023).md
       - Programme/Day 1  (18 Sep 2023).md

@@ -1,4 +1,5 @@
 collections:
   acknowledgements:
     output: true
-    order: []
+    order:
+      - Organising Committee.md

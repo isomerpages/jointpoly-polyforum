@@ -13,8 +13,6 @@ links:
         url: /sponsors
       - title: Highlights
         url: /highlights
-  - title: PROGRAMME BOOKLET
-    url: https://for.edu.sg/pf2022-programme
   - title: FORUM DETAILS
     url: /programme
     sublinks:
@@ -22,3 +20,5 @@ links:
         url: /subthemes
       - title: Location
         url: /locations
+  - title: Resources
+    collection: resources

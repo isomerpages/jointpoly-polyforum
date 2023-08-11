@@ -9,9 +9,8 @@ description: ""
 <br>
 <br>
 <br>
+##### **PF 2023 will not be possible without the support and generosity of our sponsors.**<br>
 <br>
-##### **PF 2023 will not be possible without the support and generosity of our sponsors.**
-
 <style>
 table, th, td {
   border:1px solid black;

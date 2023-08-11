@@ -1,6 +1,0 @@
-collections:
-  highlights:
-    output: true
-    order:
-      - Photo Gallery.md
-      - Video Gallery.md

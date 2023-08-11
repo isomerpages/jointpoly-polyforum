@@ -3,7 +3,7 @@ title: Facilitation Team
 permalink: /acknowledgements/facilitation-team/
 description: ""
 ---
-**We would like to express our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
+#### **We would like to express our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
 <br>
 <style>
 table, th, td {
@@ -28,7 +28,7 @@ table, th, td {
 		<td>Communications Manager</td>
 </tr></tbody></table>
 
-**Green Economy**
+**Sub-Theme: Green Economy**
 <br>
 <style>
 table, th, td {
@@ -73,7 +73,7 @@ table, th, td {
 		<td>Facilitator</td>
 </tr></tbody></table>
 
-**Green Resources**
+**Sub-Theme: Green Resources**
 <br>
 <style>
 table, th, td {
@@ -118,7 +118,7 @@ table, th, td {
 		<td>Facilitator</td>
 </tr></tbody></table>
 
-**Sustainable Living**
+**Sub-Theme: Sustainable Living**
 <br>
 <style>
 table, th, td {
@@ -163,7 +163,7 @@ table, th, td {
 		<td>Facilitator</td>
 </tr></tbody></table>
 
-**Resilient Future**
+**Sub-Theme: Resilient Future**
 <br>
 <style>
 table, th, td {

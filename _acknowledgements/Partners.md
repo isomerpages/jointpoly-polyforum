@@ -21,3 +21,6 @@ description: ""
 <br>
 <br>
 <br>
+<a href="https://www.se.com/sg/en/"><img style="float: left; width: 23%; margin-right: 13%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider_Electric_Logo-01.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.silosobeachresort.com/"><img style="float: left; width: 32%; margin-right: 8%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SBR160908_Primary_Logo_hires.png?width=320&amp;height=320&amp;fit=bounds">
+</a>
+<a href="https://tindle.com/"><img style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Tindle_u1AxANM79tS55NhTuGS3q5.png?width=320&amp;height=320&amp;fit=bounds"></a>

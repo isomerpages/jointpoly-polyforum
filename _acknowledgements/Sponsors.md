@@ -22,12 +22,12 @@ table, th, td {
   <tbody><tr>
   </tr>
   <tr>
-    <td><a href="https://www.nyc.gov.sg/"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NYC_powered_by_vertical_full_colour.png?width=320&amp;height=320&amp;fit=bounds"><br><br></a><a href="https://www.youthcorps.gov.sg/"><img style="float: left; width: 75%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+  <td><a href="https://www.nyc.gov.sg/"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NYC_powered_by_vertical_full_colour.png?width=320&amp;height=320&amp;fit=bounds"><br><br></a><a href="https://www.youthcorps.gov.sg/"><img style="float: left; width: 75%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 		<td>The <b>National Youth Council (NYC)</b>, together with the Outward Bound Singapore and <b>Youth Corps Singapore</b>, is the national agency for youth development and engagement. NYC collaborates with partners to ensure young Singaporeans have opportunities to develop self-awareness and resilience, deepen community spirit, and be future-ready.</td>
   </tr>
   <tr>
-    <td>9.30am to 12.00pm</td>
-    <td>- Welcome Address by Chairman, PF 2023<br>- Introduction by Chief Facilitator, PF 2023<br>- Ice-Breaker &amp; Team Bonding Activities</td>
+    <td><a href="https://www.banyantree.com/"><img style="float: left; width: 80%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds"><br><br></a></td>
+		<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, to support the global sustainability agenda and strengthen the resilience of communities.</td>
   </tr>
 		<tr>
     <td>12.00pm to 2.30pm</td>

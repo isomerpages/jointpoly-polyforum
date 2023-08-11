@@ -47,12 +47,14 @@ table, th, td {
 			<td>Republic Polytechnic</td>
   </tr>
 		<tr>
-			<td>4.15pm to 5.00pm</td>
-    <td>Tea Reception, Interaction &amp; Photo-taking</td>
+			<td>Tan Kee Chin</td>
+    <td>Republic Polytechnic</td>
   </tr>
   <tr>
-		<td>5.00pm to 6.00pm</td>
-    <td>- Debrief for Day 0 Programme<br>- Dismissal</td>
+		<td>Hope Lee</td>
+    <td>Singapore Polytechnic</td>
   </tr>
   <tr>
+			<td>Jelena Ong</td>
+    <td>Singapore Polytechnic</td>
 </tr></tbody></table>

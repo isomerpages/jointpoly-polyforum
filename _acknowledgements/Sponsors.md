@@ -27,7 +27,7 @@ table, th, td {
   </tr>
   <tr>
     <td><a href="https://www.banyantree.com/"><img style="float: left; width: 95%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds"></a></td>
-		<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, to support the global sustainability agenda and strengthen the resilience of communities.</td>
+		<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, supporting the global sustainability agenda and strengthen the resilience of communities.</td>
   </tr>
 		<tr>
     <td><a href="https://www.simedarbymotors.com/about-us/overview"><img style="float: left; width: 118%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
@@ -47,11 +47,11 @@ table, th, td {
   </tr>
   <tr>
 		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 84%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
-    <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
+    <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
   </tr>
   <tr>
 		<td><a href="https://www.razer.com/sg-en"><img style="float: left; width: 265%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Razer.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
-		<td><b>Razer</b> is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement to drive towards a sustainable future.</td>
+		<td><b>Razer</b> is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement as part of its drive towards a more sustainable future.</td>
 		  </tr>
   <tr>
 		<td><a href="https://www.robe.cz/"><img style="float: left; width: 160%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LOGO_ROBE.png?width=320&amp;height=320&amp;fit=bounds"></a></td>

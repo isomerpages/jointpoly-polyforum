@@ -22,8 +22,8 @@ table, th, td {
   <tbody><tr>
   </tr>
   <tr>
-    <td>9.00am to 9.30am</td>
-    <td>- Arrival &amp; Registration of Participants<br>- Issuance of PF 2023 Kit</td>
+    <td><a href="https://www.nyc.gov.sg/"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NYC_powered_by_vertical_full_colour.png?width=320&amp;height=320&amp;fit=bounds"><br><br></a><a href="https://www.youthcorps.gov.sg/"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+    <td>The **National Youth Council (NYC)**, together with the Outward Bound Singapore and **Youth Corps Singapore**, is the national agency for youth development and engagement. NYC collaborates with partners to ensure young Singaporeans have opportunities to develop self-awareness and resilience, deepen community spirit, and be future-ready.</td>
   </tr>
   <tr>
     <td>9.30am to 12.00pm</td>

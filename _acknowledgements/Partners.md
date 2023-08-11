@@ -28,6 +28,6 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://www.uobgroup.com/uobgroup/index.page"><img style="float: left; width: 20%; margin-right: 22%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://cloop.sg/"><img style="float: left; width: 20%; margin-right: 16%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds">
+<a href="https://www.uobgroup.com/uobgroup/index.page"><img style="float: left; width: 20%; margin-right: 23%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://cloop.sg/"><img style="float: left; width: 19%; margin-right: 16%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds">
 </a>
-<a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 14%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
+<a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 13%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>

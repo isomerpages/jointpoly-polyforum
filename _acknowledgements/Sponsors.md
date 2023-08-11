@@ -25,7 +25,7 @@ description: ""
 
 <table>
     <tbody><tr>
-        <td style="width:27%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td style="width:27.5%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
         <td><p> <font size="-0.5">Build Your Dreams (BYD) is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses.</font><br>              
             </p>
         </td>

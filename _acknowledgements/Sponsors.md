@@ -88,9 +88,6 @@ description: ""
 
 
 
-| ![](/images/PF%202023/Acknowledgements/byd%20x%20sdm%20logo%20(red)red.png) | Build Your Dreams (BYD) is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses. | 
+| ![](/images/PF%202023/Acknowledgements/byd%20x%20sdm%20logo%20(red)red.png) | Build Your Dreams (BYD) is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses | 
 | -------- | -------- | 
-| Text     | The Coca-Cola Company builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.    | 
-
-
-
+| ![](/images/PF%202023/Acknowledgements/global%20cc%20icon%20ds%20spencerian%20script%20(1)-02.png) | The Coca-Cola Company builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.    |

@@ -22,7 +22,16 @@ description: ""
         </td>
     </tr>
 </tbody></table><p></p><p>
-
+	
+<table>
+    <tbody><tr>
+        <td style="width:25.5%"><a href="https://www.banyantree.com/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">Reputed for its strong sustainability objective, the Banyan Tree Group believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, to support the global sustainability agenda and strengthen the resilience of communities.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table></p><p>
+	
 <table>
     <tbody><tr>
         <td style="width:27.5%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>

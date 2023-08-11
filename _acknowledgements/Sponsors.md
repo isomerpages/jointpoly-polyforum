@@ -38,7 +38,7 @@ table, th, td {
 		<td>The <b>Coca-Cola Company</b> builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.</td>
   </tr>
 		<tr>
-			<td><a href="https://greenology.sg/"><img style="float: left; width: 107%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds"></a></td>
+			<td><a href="https://greenology.sg/"><img style="float: left; width: 108%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds"></a></td>
 			<td>An award-winning greening consultancy firm, <b>Greenology</b> has made significant contributions in developing urban greening solutions and creating resilient urban environments.</td>
   </tr>
 		<tr>

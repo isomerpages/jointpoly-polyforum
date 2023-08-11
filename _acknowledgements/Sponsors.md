@@ -46,16 +46,16 @@ table, th, td {
 			<td><b>Mandai Wildlife Group</b> is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</td>
   </tr>
   <tr>
-		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 90%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
     <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
   </tr>
   <tr>
 		<td><a href="https://www.razer.com/sg-en"><img style="float: left; width: 250%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/CMYK_RAZER_150_transparent.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
-    <td>Razer is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement to drive towards a sustainable future.</td>
+		<td><b>Razer</b> is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement to drive towards a sustainable future.</td>
 		  </tr>
   <tr>
-		<td>5.00pm to 6.00pm</td>
-    <td>- Debrief for Day 0 Programme<br>- Dismissal</td>
+		<td><a href="https://www.robe.cz/"><img style="float: left; width: 150%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LOGO_ROBE.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+		<td><b>ROBE Lighting</b> is a Czech Republic-based company that produces high quality and innovative lighting solutions for industries, such as entertainment and broadcast. ROBE Lighting has designed their lighting to be energy efficient by minimising energy consumption while maintaining high performance.</td>
   </tr>
   <tr>
 				<td>5.00pm to 6.00pm</td>

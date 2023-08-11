@@ -4,7 +4,8 @@ permalink: /acknowledgements/facilitation-team/
 description: ""
 ---
 ##### **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
-<br>
+
+
 <style>
 table, th, td {
   border:1px solid black;
@@ -13,8 +14,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Members</th>
+    <th>Facilitator</th>
     <th>Polytechnic</th>
+		<th>Role</th>
   </tr>
   <tr>
     <td>Lim Wee How</td>

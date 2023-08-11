@@ -76,3 +76,21 @@ description: ""
         </td>
     </tr>
 </tbody></table><p></p><p></p>
+
+<table>
+    <tbody><tr>
+        <td style="width:27%"><a href="https://www.mandai.com/en.html"><img src="https://hosting.photobucket.com/images/i/tracyng81/CMYK_RAZER_150_transparent.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">Razer is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement to drive towards a sustainable future.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p><p></p>
+
+
+
+| ![](/images/PF%202023/Acknowledgements/byd%20x%20sdm%20logo%20(red)red.png) | Build Your Dreams (BYD) is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses. | 
+| -------- | -------- | 
+| Text     | The Coca-Cola Company builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.    | 
+
+
+

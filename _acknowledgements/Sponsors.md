@@ -30,7 +30,7 @@ table, th, td {
 		<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, to support the global sustainability agenda and strengthen the resilience of communities.</td>
   </tr>
 		<tr>
-    <td><a href="https://www.simedarbymotors.com/about-us/overview"><img style="float: left; width: 105%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds"><br><br></a></td>
+    <td><a href="https://www.simedarbymotors.com/about-us/overview"><img style="float: left; width: 107%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds"><br><br></a></td>
 			<td><b>Build Your Dreams (BYD)</b> is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses.</td>
   </tr>
   <tr>

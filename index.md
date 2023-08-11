@@ -54,10 +54,10 @@ sections:
       image: /images/PF 2023/Homepage/forum programme.jpg
       alt: highlights
   - infopic:
-      title: HIGHLIGHTS
+      title: GALLERY
       subtitle: "#POLYFORUM2023"
-      button: VIEW MORE HERE
-      url: /highlights/photogallery/
+      button: VIEW HIGHLIGHTS HERE
+      url: /gallery/
       image: /images/PF 2023/Homepage/highlights.jpg
       alt: Image alt text
       description: Document the thrills and spills of the forum, as well as your

@@ -6,7 +6,7 @@ links:
     collection: forum-details
   - title: RESOURCES
     collection: resources
-  - title: ACKNOWLEDGEMENTS
-    collection: acknowledgements
   - title: GALLERY
     url: /gallery
+  - title: ACKNOWLEDGEMENTS
+    collection: acknowledgements

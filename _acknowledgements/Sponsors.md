@@ -16,16 +16,16 @@ description: ""
 <table>
     <tbody><tr>
         <td style="width:25%"><a href="https://www.nyc.gov.sg/"><img src="https://hosting.photobucket.com/images/i/tracyng81/NYC_powered_by_vertical_full_colour.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
-			<td style="width:19%"><a href="https://www.youthcorps.gov.sg//"><img src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+			<td style="width:18%"><a href="https://www.youthcorps.gov.sg//"><img src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
         <td><p> <font size="-0.5">The National Youth Council (NYC), together with the Outward Bound Singapore and Youth Corps Singapore, is the national agency for youth development and engagement. NYC collaborates with partners to ensure young Singaporeans have opportunities to develop self-awareness and resilience, deepen community spirit, and be future-ready.</font><br>              
             </p>
         </td>
     </tr>
 </tbody></table><p></p><p>
-	<br>
+
 <table>
     <tbody><tr>
-        <td style="width:26%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td style="width:27%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
         <td><p> <font size="-0.5">Build Your Dreams (BYD) is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses.</font><br>              
             </p>
         </td>

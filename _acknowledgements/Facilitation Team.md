@@ -58,7 +58,17 @@ table, th, td {
 		<td>Facilitator</td>
 		</tr>
   <tr>
-      <td>Alice Ling</td>
-    <td>Temasek Polytechnic</td>
-		<td>Lead Facilitator</td>
+      <td>Adrian Li Lai</td>
+    <td>Ngee Ann Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Seow Josefina</td>
+    <td>Republic Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Erwin Merijn</td>
+    <td>Singapore Polytechnic</td>
+		<td>Facilitator</td>
 </tr></tbody></table>

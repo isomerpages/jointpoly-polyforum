@@ -117,3 +117,48 @@ table, th, td {
     <td>Singapore Polytechnic</td>
 		<td>Facilitator</td>
 </tr></tbody></table>
+
+**Sustainable Living**
+<br>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Facilitator</th>
+    <th>Polytechnic</th>
+		<th>Role</th>
+  </tr>
+  <tr>
+    <td>Eric Quek</td>
+    <td>Temasek Polytechnic</td>
+		<td>Deputy Chief Facilitator</td>
+  </tr>
+  <tr>
+      <td>Viji Vijaykumarr</td>
+    <td>Temasek Polytechnic</td>
+		<td>Lead Facilitator</td>
+		</tr>
+  <tr>
+      <td>Loh Yeok Ling (Belinda)</td>
+    <td>Nanyang Polytechnic</td>
+		<td>Facilitator</td>
+		</tr>
+  <tr>
+      <td>Kang Wei, Melvin</td>
+    <td>Ngee Ann Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Siti Hamimah Binte Abd Hamid</td>
+    <td>Republic Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Jeremy Tan</td>
+    <td>Singapore Polytechnic</td>
+		<td>Facilitator</td>
+</tr></tbody></table>

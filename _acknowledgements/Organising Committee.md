@@ -11,10 +11,10 @@ description: ""
 **Secretariat:** Simon Chew, Farhan Bin Kamis<br>
 **Chief Facilitator:** Lynn Ng<br>
 **Deputy Chief Facilitator:** Hernieyati Mamat, Eric Quek<br>
-**Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee<br>
+**Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
 
 ##### **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of this event.**<br>
-
+<br>
 <style>
 table, th, td {
   border:1px solid black;

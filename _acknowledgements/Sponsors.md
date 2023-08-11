@@ -34,7 +34,7 @@ table, th, td {
 			<td><b>Build Your Dreams (BYD)</b> is a Chinese company that specialises in manufacturing electric vehicles and batteries. It has a wide range of electric vehicles such as cars and buses.</td>
   </tr>
   <tr>
-		<td><a href="https://www.coca-cola.com/sg/en"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Global_CC_Icon_DS_Spencerian_Script_(1)-02.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+		<td><a href="https://www.coca-cola.com/sg/en"><img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Global_CC_Icon_DS_Spencerian_Script_(1)-02.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 		<td>The <b>Coca-Cola Company</b> builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.</td>
   </tr>
 		<tr>
@@ -42,7 +42,7 @@ table, th, td {
 			<td>An award-winning greening consultancy firm, <b>Greenology</b> has made significant contributions in developing urban greening solutions and creating resilient urban environments.</td>
   </tr>
 		<tr>
-			<td><a href="https://www.mandai.com/en.html"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MANDAI_WG_FA.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+			<td><a href="https://www.mandai.com/en.html"><img style="float: left; width: 98%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MANDAI_WG_FA.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 			<td><b>Mandai Wildlife Group</b> is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</td>
   </tr>
   <tr>

@@ -51,4 +51,14 @@ table, th, td {
       <td>Alice Ling</td>
     <td>Temasek Polytechnic</td>
 		<td>Lead Facilitator</td>
+		</tr>
+  <tr>
+      <td>Hengky Chang</td>
+    <td>Nanyang Polytechnic</td>
+		<td>Facilitator</td>
+		</tr>
+  <tr>
+      <td>Alice Ling</td>
+    <td>Temasek Polytechnic</td>
+		<td>Lead Facilitator</td>
 </tr></tbody></table>

@@ -25,7 +25,7 @@ description: ""
 	
 <table>
     <tbody><tr>
-        <td style="width:25.5%"><a href="https://www.banyantree.com/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td style="width:25%"><a href="https://www.banyantree.com/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
         <td><p> <font size="-0.5">Reputed for its strong sustainability objective, the Banyan Tree Group believes in safeguarding the communities and environments where they operate, driving awareness and transformative change in the travel and tourism industry, and through responsible travel, to support the global sustainability agenda and strengthen the resilience of communities.</font><br>              
             </p>
         </td>
@@ -43,9 +43,27 @@ description: ""
 
 <table>
     <tbody><tr>
-        <td style="width:25.5%"><a href="https://www.coca-cola.com/sg/en"><img src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td style="width:25.5%"><a href="https://www.coca-cola.com/sg/en"><img src="https://hosting.photobucket.com/images/i/tracyng81/Global_CC_Icon_DS_Spencerian_Script_(1)-02.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
         <td><p> <font size="-0.5">The Coca-Cola Company builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.</font><br>              
             </p>
         </td>
     </tr>
 </tbody></table></p><p></p>
+
+<table>
+    <tbody><tr>
+        <td style="width:28%"><a href="https://greenology.sg/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">An award-winning greening consultancy firm, Greenology has made significant contributions in developing urban greening solutions and creating resilient urban environments.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p><p></p>
+
+<table>
+    <tbody><tr>
+        <td style="width:28%"><a href="https://greenology.sg/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">An award-winning greening consultancy firm, Greenology has made significant contributions in developing urban greening solutions and creating resilient urban environments.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p><p></p>

@@ -30,4 +30,13 @@ description: ""
             </p>
         </td>
     </tr>
-</tbody></table></p>
+</tbody></table></p><p>
+
+<table>
+    <tbody><tr>
+        <td style="width:26%"><a href="https://www.coca-cola.com/sg/en"><img src="https://hosting.photobucket.com/images/i/tracyng81/Coca_Cola_Logo-01_1oa3zEArVVbmpGMxCjuBzz.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">The Coca-Cola Company builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table></p><p></p>

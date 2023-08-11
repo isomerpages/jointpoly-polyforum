@@ -20,12 +20,10 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Time</th>
-    <th>Programme</th>
   </tr>
   <tr>
-    <td>9.00am to 9.30am</td>
-    <td>- Arrival &amp; Registration of Participants<br>- Issuance of PF 2023 Kit</td>
+    <td><a href="https://www.313somerset.com.sg/"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NYC.png?width=320&amp;height=320&amp;fit=bounds"></a><br><a href="https://www.313somerset.com.sg/"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/YCS_4C_black_words.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+    <td>The National Youth Council (NYC), together with the Outward Bound Singapore and Youth Corps Singapore, is the national agency for youth development and engagement. NYC collaborates with partners to ensure young Singaporeans have opportunities to develop self-awareness and resilience, deepen community spirit, and be future-ready.</td>
   </tr>
   <tr>
     <td>9.30am to 12.00pm</td>

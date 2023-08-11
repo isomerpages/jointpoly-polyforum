@@ -58,8 +58,9 @@ table, th, td {
 		<td><b>ROBE Lighting</b> is a Czech Republic-based company that produces high quality and innovative lighting solutions for industries, such as entertainment and broadcast. ROBE Lighting has designed their lighting to be energy efficient by minimising energy consumption while maintaining high performance.</td>
   </tr>
   <tr>
-				<td>5.00pm to 6.00pm</td>
-    <td>- Debrief for Day 0 Programme<br>- Dismissal</td>
+		<td><b>Thank You To All Our Sponsors!</b></td>
+    <td></td>
   </tr>
   <tr>
 </tr></tbody></table>
+

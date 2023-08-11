@@ -38,8 +38,8 @@ table, th, td {
 		<td>The <b>Coca-Cola Company</b> builds loved brands with beverage choices for all occasions, tastes and lifestyles. It aims to create a more sustainable business and a better shared future, by adopting a holistic approach to sustainability that is focused on social, environmental and economic stewardship.</td>
   </tr>
 		<tr>
-			<td>3.30pm to 4.15pm</td>
-			<td><b>PF 2023: Opening Ceremony</b><br><br><b><i>Guest of Honour: Ms Grace Fu</i></b><br><i>Minister for Sustainability and the Environment</i><br><br>- Opening Address by GOH<br>- Moderated Discussion with GOH</td>
+			<td><a href="https://greenology.sg/"><img style="float: left; width: 107%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds"><br><br></a></td>
+			<td>An award-winning greening consultancy firm, <b>Greenology</b> has made significant contributions in developing urban greening solutions and creating resilient urban environments.</td>
   </tr>
 		<tr>
 			<td>4.15pm to 5.00pm</td>

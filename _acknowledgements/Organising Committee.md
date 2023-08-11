@@ -24,7 +24,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Members</th>
+    <th>Member</th>
     <th>Polytechnic</th>
   </tr>
   <tr>

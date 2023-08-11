@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contactus/
 description: ""
 ---
-## **Get In Touch With <br>Polyechnic Forum 2023**
+## **Get In Touch With Us!**
 
 
 ### **Host: Temasek Polytechnic**

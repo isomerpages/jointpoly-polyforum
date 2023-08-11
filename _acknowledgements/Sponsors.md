@@ -21,8 +21,8 @@ description: ""
             </p>
         </td>
     </tr>
-</tbody></table>
-
+</tbody></table><p></p><p>
+	<br>
 <table>
     <tbody><tr>
         <td style="width:26%"><a href="https://www.simedarbymotors.com/about-us/overview"><img src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
@@ -30,4 +30,4 @@ description: ""
             </p>
         </td>
     </tr>
-</tbody></table>
+</tbody></table></p>

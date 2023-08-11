@@ -10,11 +10,11 @@ locations:
       - Singapore 529757
     operating_hours: []
     maps_link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tp.edu.sg/content/dam/tp-web/files/about-tp/contact-us/location_map.pdf
-    title: "Host: "
+    title: "Host:"
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6780 5656
+      - email: sdaa@tp.edu.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---

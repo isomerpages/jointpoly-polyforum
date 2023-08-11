@@ -61,8 +61,17 @@ description: ""
 
 <table>
     <tbody><tr>
-        <td style="width:28%"><a href="https://greenology.sg/"><img src="https://hosting.photobucket.com/images/i/tracyng81/Greenology_Logo_Hi_Res.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
-        <td><p> <font size="-0.5">An award-winning greening consultancy firm, Greenology has made significant contributions in developing urban greening solutions and creating resilient urban environments.</font><br>              
+        <td style="width:27%"><a href="https://www.mandai.com/en.html"><img src="https://hosting.photobucket.com/images/i/tracyng81/MANDAI_WG_FA.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">Mandai Wildlife Group is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</font><br>              
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p><p></p>
+
+<table>
+    <tbody><tr>
+        <td style="width:25%"><a href="https://www.nestle.com.sg/"><img src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></a></td>
+        <td><p> <font size="-0.5">Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</font><br>              
             </p>
         </td>
     </tr>

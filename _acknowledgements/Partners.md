@@ -24,3 +24,10 @@ description: ""
 <a href="https://www.se.com/sg/en/"><img style="float: left; width: 23%; margin-right: 13%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider_Electric_Logo-01.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.silosobeachresort.com/"><img style="float: left; width: 32%; margin-right: 8%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SBR160908_Primary_Logo_hires.png?width=320&amp;height=320&amp;fit=bounds">
 </a>
 <a href="https://tindle.com/"><img style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Tindle_u1AxANM79tS55NhTuGS3q5.png?width=320&amp;height=320&amp;fit=bounds"></a>
+<br>
+<br>
+<br>
+<br>
+<a href="https://www.uobgroup.com/uobgroup/index.page"><img style="float: left; width: 23%; margin-right: 20%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Chairman_-_Mock_Image.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://cloop.sg/"><img style="float: left; width: 22%; margin-right: 15%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds">
+</a>
+<a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 17%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>

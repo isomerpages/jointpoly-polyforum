@@ -6,8 +6,9 @@ description: ""
 ## **Get In Touch With Us!**
 
 
-### **Host: Temasek Polytechnic**
+### **The Polytechnic Forum 2023 is hosted by Temasek Polytechnic.**
 
+**Address:<br>**
 21 Tampines Ave 1<br>
 Singapore 529757
 

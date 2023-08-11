@@ -13,4 +13,5 @@ description: ""
 **Deputy Chief Facilitator:** Hernieyati Mamat, Eric Quek<br>
 **Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee<br>
 
-We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of this event.
+##### **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of this event.**<br>
+

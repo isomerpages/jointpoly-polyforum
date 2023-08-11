@@ -4,7 +4,7 @@ permalink: /acknowledgements/facilitation-team/
 description: ""
 ---
 ##### **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
-<br>
+
 <style>
 table, th, td {
   border:1px solid black;
@@ -18,34 +18,12 @@ table, th, td {
 		<th>Role</th>
   </tr>
   <tr>
-    <td>Lim Wee How</td>
-    <td>Nanyang Polytechnic</td>
+    <td>Lynn Ng</td>
+    <td>Temasek Polytechnic</td>
+		<td>Chief Facilitator</td>
   </tr>
   <tr>
-    <td>Sharan Tamilvaanan</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
-		<tr>
-    <td>Magalachmi Sellaperumal</td>
-    <td>Ngee Ann Polytechnic</td>
-  </tr>
-  <tr>
-		<td>Tan-Chen Hui Min</td>
-    <td>Ngee Ann Polytechnic</td>
-  </tr>
-		<tr>
-			<td>Alexander Sarsito Sia</td>
-			<td>Republic Polytechnic</td>
-  </tr>
-		<tr>
-			<td>Tan Kee Chin</td>
-    <td>Republic Polytechnic</td>
-  </tr>
-  <tr>
-		<td>Hope Lee</td>
-    <td>Singapore Polytechnic</td>
-  </tr>
-  <tr>
-			<td>Jelena Ong</td>
-    <td>Singapore Polytechnic</td>
+      <td>Charmaine Oei</td>
+    <td>Temasek Polytechnic</td>
+		<td>Communications Manager</td>
 </tr></tbody></table>

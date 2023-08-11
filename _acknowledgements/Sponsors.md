@@ -42,7 +42,7 @@ table, th, td {
 			<td>An award-winning greening consultancy firm, <b>Greenology</b> has made significant contributions in developing urban greening solutions and creating resilient urban environments.</td>
   </tr>
 		<tr>
-			<td><a href="https://www.mandai.com/en/mandai.html"><img style="float: left; width: 99%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MANDAI_WG_FA.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+			<td><a href="https://www.mandai.com/en/mandai.html"><img style="float: left; width: 95%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MANDAI_WG_FA.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 			<td><b>Mandai Wildlife Group</b> is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</td>
   </tr>
   <tr>

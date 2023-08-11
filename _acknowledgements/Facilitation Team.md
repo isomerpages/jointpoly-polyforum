@@ -3,7 +3,7 @@ title: Facilitation Team
 permalink: /acknowledgements/facilitation-team/
 description: ""
 ---
-##### **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
+**We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
 <br>
 <style>
 table, th, td {
@@ -48,7 +48,7 @@ table, th, td {
 		<td>Deputy Chief Facilitator</td>
   </tr>
   <tr>
-      <td>Charmaine Oei</td>
+      <td>Alice Ling</td>
     <td>Temasek Polytechnic</td>
-		<td>Communications Manager</td>
+		<td>Lead Facilitator</td>
 </tr></tbody></table>

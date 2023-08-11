@@ -50,7 +50,7 @@ table, th, td {
     <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
   </tr>
   <tr>
-		<td><a href="https://www.razer.com/sg-en"><img style="float: left; width: 250%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/CMYK_RAZER_150_transparent.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+		<td><a href="https://www.razer.com/sg-en"><img style="float: left; width: 250%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Razer.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 		<td><b>Razer</b> is an American-Singaporean multinational corporation (MNC) that designs, develops, and sells consumer electronics for gaming. It has created a #GoGreenWithRazer movement to drive towards a sustainable future.</td>
 		  </tr>
   <tr>

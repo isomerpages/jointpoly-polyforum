@@ -2,15 +2,15 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "Polyechnic Forum 2023 "
+agency_name: Polyechnic Forum 2023
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - Temasek Polytechnic
+      - 21 Tampines Ave 1
+      - Singapore 529757
     operating_hours: []
-    maps_link: ""
-    title: "Host: Temasek Polytechnic"
+    maps_link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tp.edu.sg/content/dam/tp-web/files/about-tp/contact-us/location_map.pdf
+    title: "Host: "
 contacts:
   - content:
       - phone: +65 6123 4567

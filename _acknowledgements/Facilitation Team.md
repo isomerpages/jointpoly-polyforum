@@ -5,7 +5,6 @@ description: ""
 ---
 **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful facilitation of the events/activities for the Polytechnic Forum 2023.**
 <br>
-<br>
 <style>
 table, th, td {
   border:1px solid black;
@@ -30,7 +29,6 @@ table, th, td {
 </tr></tbody></table>
 
 **Green Economy**
-<br>
 <br>
 <style>
 table, th, td {

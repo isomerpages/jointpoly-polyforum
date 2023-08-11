@@ -3,7 +3,7 @@ title: Organising Committee
 permalink: /acknowledgements/organising-committee/
 description: ""
 ---
-##### **The Polytechnic Forum (PF) 2023 is hosted by Temasek Polytechnic.**
+**The Polytechnic Forum (PF) 2023 is hosted by Temasek Polytechnic.**
 
 **Chair:** Paul Yap<br>
 **Deputy Chair:** Desmond Lim<br>
@@ -14,6 +14,7 @@ description: ""
 **Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
 
 **We would like to extend our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of PF 2023.**
+<br>
 <br>
 <style>
 table, th, td {

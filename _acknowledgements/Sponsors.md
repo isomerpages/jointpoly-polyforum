@@ -46,8 +46,8 @@ table, th, td {
 			<td><b>Mandai Wildlife Group</b> is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</td>
   </tr>
   <tr>
-		<td>5.00pm to 6.00pm</td>
-    <td>- Debrief for Day 0 Programme<br>- Dismissal</td>
+		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+    <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
   </tr>
   <tr>
 </tr></tbody></table>

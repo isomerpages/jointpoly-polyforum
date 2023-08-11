@@ -162,3 +162,48 @@ table, th, td {
     <td>Singapore Polytechnic</td>
 		<td>Facilitator</td>
 </tr></tbody></table>
+
+**Resilient Future**
+<br>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Facilitator</th>
+    <th>Polytechnic</th>
+		<th>Role</th>
+  </tr>
+  <tr>
+    <td>Eric Quek</td>
+    <td>Temasek Polytechnic</td>
+		<td>Deputy Chief Facilitator</td>
+  </tr>
+  <tr>
+      <td>Laurinda Wee</td>
+    <td>Temasek Polytechnic</td>
+		<td>Lead Facilitator</td>
+		</tr>
+  <tr>
+      <td>Tan Pang Wei</td>
+    <td>Nanyang Polytechnic</td>
+		<td>Facilitator</td>
+		</tr>
+  <tr>
+      <td>Mariam</td>
+    <td>Ngee Ann Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Chua Mu Fen Kelda</td>
+    <td>Republic Polytechnic</td>
+		<td>Facilitator</td>
+				</tr>
+  <tr>
+      <td>Cyrine D/O Antony Joosa</td>
+    <td>Singapore Polytechnic</td>
+		<td>Facilitator</td>
+</tr></tbody></table>

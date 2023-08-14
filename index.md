@@ -60,8 +60,8 @@ sections:
       url: /gallery/
       image: /images/PF 2023/Homepage/highlights.jpg
       alt: Image alt text
-      description: Document the thrills and spills of the forum, as well as your
-        journey of sustainability, ideation and friendship at PF 2023!
+      description: Document your journey of sustainability, ideation and friendship at
+        PF 2023!
   - infopic:
       title: ACKNOWLEDGEMENTS
       subtitle: NOTE OF APPRECIATION

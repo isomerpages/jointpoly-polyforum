@@ -15,7 +15,7 @@ Sustainability has always been an integral tenet of our Singapore story. In our 
 
 As we stand at the crossroads of opportunity and responsibility today, you will realise that all our actions will impact the trajectory of our planet's future. Sustainability must hence be woven into the fabric of our daily lives, influencing our choices as consumers, citizens and leaders. Paying testimony to the adage “Change is the only constant”, the COVID-19 pandemic has also reminded us of our fragile existence, but at the same time, highlighted the power of humankind’s ability to adapt and evolve.&nbsp;This, is exactly the ethos that should underpin your learning experience at PF 2023.
 
-In this forum, you will explore the following sub-themes through a multitude of activities – including peer discussions, learning journeys, talks, as well as engagements with government and industry leaders:
+In this forum, you will explore the following sub-themes through a thoughtfully curated ensemble of activities – including peer discussions, learning journeys, talks, as well as engagements with government and industry leaders:
 
 * Green Economy
 * Green Resources

@@ -12,7 +12,7 @@ third_nav_title: Learning Journeys (Overseas)
 
 1. Understand the challenges and sustainable practices adopted by the farm in the context of Malaysia.
 <br>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text</p><p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text</p><p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text</p>
+<img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text<p></p><p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text</p><p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img style="width: 100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mock_LJ_Image.png?width=320&amp;height=320&amp;fit=bounds">Dummy Text</p>
 <br>
 <br>
 <br>

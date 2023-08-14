@@ -35,8 +35,8 @@ sections:
         array of activities.
       alt: Image alt text
   - infopic:
-      description: An impassioned call for you to make the most of your participation
-        in PF 2023. Have fun participating and enjoy the exciting journey!
+      description: An impassioned call for you to make the most of your involvement in
+        PF 2023. Have fun participating and enjoy the exciting journey!
       button: Read More Here
       url: /about/chairmansaddress/
       alt: Image alt text

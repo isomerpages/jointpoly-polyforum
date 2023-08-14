@@ -12,7 +12,7 @@ third_nav_title: Learning Journeys (Overseas)
 
 1. Understand the challenges and sustainable practices adopted by the farm in the context of Malaysia.
 <br>
-<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Desaru_Fruit_Farm.png?width=590&amp;height=590&amp;fit=bounds">
+<img style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Desaru_Fruit_Farm_8JUvGva6bcVnR7suQJxD2Q.png?width=590&amp;height=590&amp;fit=bounds">
 <br>
 <br>
 <br>

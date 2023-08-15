@@ -5,6 +5,14 @@ description: ""
 ---
 ![](/images/PF%202023/Homepage/chairman%20-%20mock%20image.jpg)
 
+<table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Mr Jackson Seng
+                <br>Vice President of Strategy &amp; Business Development
+					<br>Schneider Electric</b><br>
+                <br>Mr Jackson Seng has more than 20 years of regional experience in multiple leadership roles (strategy, business development, sales, marketing, services, engineering, project management, commercial operations). He is currently the Vice President of Strategy and Business Development for the East Asia region at Schneider Electric.<br>
+					
 A very warm welcome to the **Polytechnic Forum (PF) 2023**!
 
 An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural [Singapore Young Leaders Programme](https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes), which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
@@ -30,4 +38,4 @@ Warmest Regards,<br>
 Mr Paul Yap<br>
 Chairman, Polytechnic Forum 2023<br>
 Director, Student Development &amp; Alumni Affairs<br>
-Temasek Polytechnic
+Temasek Polytechnic</p></td></tr></tbody></table>

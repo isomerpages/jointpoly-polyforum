@@ -40,7 +40,7 @@ sections:
       button: Read More Here
       url: /about/chairmansaddress/
       alt: Image alt text
-      image: /images/PF 2023/Homepage/chairman - mock image.jpg
+      image: /images/PF 2023/Homepage/20230815_161741-01.jpeg
       title: CHAIRMAN'S ADDRESS
       subtitle: BE INSIPIRED
   - infopic:

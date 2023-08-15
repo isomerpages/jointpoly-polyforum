@@ -26,11 +26,11 @@ In PF 2023, you will be exposed to both safe facilitation skills and mediation s
 
 You will examine the sub-themes in PF 2023 from our local perspective as a city state, while being able to contrast the differences amidst our connections with ASEAN and global nations. These topics will be explored through an eclectic host of experiential activities, constructive discussions and self-reflection, including the following:
 
-##### <font size="+4"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environmental spark!</b>
+##### <font size="+3.5"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environmental spark!</b>
 
-##### <font size="+4"><font color="red"><b>2 </b></font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your educational vistas beyond our Little Red Dot!</b>
+##### <font size="+3.5"><font color="red"><b>2 </b></font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your vistas beyond our Little Red Dot!</b>
 
-##### <font size="+4"><font color="red"><b>2 </b></font></font><b>Panel Discussions, featuring <font size="+4"><font color="red">7</font></font>speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
+##### <font size="+3.5"><font color="red"><b>2 </b></font></font><b>Panel Discussions, featuring <font size="+3.5"><font color="red">7</font></font>speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
 
 We hope you will look forward to all the above, together with the colourful friendships, fun and camaraderie that you will get to experience at PF 2023. Enjoy the journey!
 

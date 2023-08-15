@@ -4,7 +4,10 @@ permalink: /forum-details/speakers/paneldiscussion2/
 description: ""
 third_nav_title: Panel Discussions
 ---
-## **Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City**<br>
+#### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">2 </font></font><b>Panel Discussions, comprising <font size="+3.5"><font color="red">7 </font></font><b>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
+<hr>
+
+### **Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City**<br>
 
 **Sub-Themes: Sustainable Living &amp; Resilient Future<br>
 Date: 19 Sep 2023 (Tuesday)**
@@ -15,7 +18,7 @@ Date: 19 Sep 2023 (Tuesday)**
 * Suggesting how their practices could impact Singapore and its social compact; and
 * Providing possible solutions that Singapore and individuals could take to engender positive sustainability outcomes.
 <hr>
-## **Speakers**<br>
+### **Speakers**<br>
 <table>
     <tbody><tr>
         <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
@@ -72,4 +75,4 @@ Date: 19 Sep 2023 (Tuesday)**
 </tbody></table><p></p>
 <br>
 <table>
-    <tbody><tr></tr></tbody></table>
+    <tbody><tr></tr></tbody></table></b></b>

@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-local/green-economy/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-##### <b>The Polytechnic Forum 2023 features <font size="+3"><font color="red">14 </font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environnnmental spark!</b>
+##### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">14 </font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environnnmental spark!</b>
 <hr>
 	
 ##### <b>In these Learning Journeys for "Green Economy", you will get to:</b>	

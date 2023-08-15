@@ -31,7 +31,7 @@ Date: 18 Sep 2023 (Monday)**
 <br>
 <table>
     <tbody><tr>
-        <td style="width:26%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Tan_Mei_Ping.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Ms Tan Mei Ping
                 <br>Vice President, Group Corporate Sustainability Office
 					<br>United Overseas Bank</b><br>

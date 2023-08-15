@@ -4,7 +4,7 @@ permalink: /forum-details/learning-journeys-overseas/mangrovetour/
 description: ""
 third_nav_title: Learning Journeys (Overseas)
 ---
-##### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">2 </font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your vistas beyond our Little Red Dot!</b>
+#### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">2 </font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your vistas beyond our Little Red Dot!</b>
 
 **In this Learning Journey, you will get to:**
 

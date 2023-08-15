@@ -4,9 +4,10 @@ permalink: /forum-details/speakers/paneldiscussion1/
 description: ""
 third_nav_title: Panel Discussions
 ---
-##### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">2 </font></font><b>Panel Discussions, comprising <font size="+3.5"><font color="red">7 </font></font><b>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b><hr>
+##### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">2 </font></font><b>Panel Discussions, comprising <font size="+3.5"><font color="red">7 </font></font><b>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
+<hr>
 
-#### **Panel 1: Towards A Net Zero Economy**<br>
+### **Panel 1: Towards A Net Zero Economy**<br>
 
 **Sub-Themes: Green Economy &amp; Green Resources<br>
 Date: 18 Sep 2023 (Monday)**
@@ -17,7 +18,7 @@ Date: 18 Sep 2023 (Monday)**
 * Having a decent living wage/income, while contributing directly towards achieving sustainable development goals; and
 * Promoting sustainable economic growth for Singapore and achieving full and productive employment for all.
 <hr>
-## **Speakers**<br>
+### **Speakers**<br>
 <table>
     <tbody><tr>
         <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>

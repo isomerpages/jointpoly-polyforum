@@ -26,6 +26,12 @@ In PF 2023, you will be exposed to both safe facilitation skills and mediation s
 
 You will examine the sub-themes in PF 2023 from our local perspective as a city state, while being able to contrast the differences amidst our connections with ASEAN and global nations. These topics will be explored through an eclectic host of experiential activities, constructive discussions and self-reflection, including the following:
 
+##### <font size="+5">14 </font>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your eco-consicous spark!
 
+##### <font size="+5">2 </font>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your educational vistas beyond our Little Red Dot!
 
-PF 2023 takes inspiration from the [Singapore Green Plan 2030](https://www.greenplan.gov.sg/) and [Sustainable Singapore Blueprint](https://www.nccs.gov.sg/media/publications/sustainable-singapore-blueprint).
+##### <font size="+5">2 </font>Panel Discussions, featuring <font size="+5">7 </font>speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!
+
+We hope you will look forward to all the above, together with the colourful friendships, fun and camaraderie that you will get to experience at PF 2023. Enjoy the journey!
+
+(PF 2023 takes inspiration from the [Singapore Green Plan 2030](https://www.greenplan.gov.sg/) and [Sustainable Singapore Blueprint](https://www.nccs.gov.sg/media/publications/sustainable-singapore-blueprint).)

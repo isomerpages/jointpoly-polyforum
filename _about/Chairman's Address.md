@@ -6,7 +6,11 @@ description: ""
 <table>
     <tbody><tr>
         <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/20230815_161741-01.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-			<td><p>A very warm welcome to the <b>Polytechnic Forum (PF) 2023</b>!<br><br>An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural [Singapore Young Leaders Programme](https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes), which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
+			<td><p>A very warm welcome to the <b>Polytechnic Forum (PF) 2023</b>!<br><br>An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural Singapore Young Leaders Programme, which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p>
 
 It is always a pleasure to witness this gathering of bright young minds from all walks of life, who are eager to ignite change, inspire action, and ideate solutions that will shape their futures. In a world that is facing unprecedented sustainability challenges, PF presents an opportune conduit for you to be a symbolic part of Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
 
@@ -29,4 +33,4 @@ Warmest Regards,<br>
 Mr Paul Yap<br>
 Chairman, Polytechnic Forum 2023<br>
 Director, Student Development &amp; Alumni Affairs<br>
-Temasek Polytechnic</p></td></tr></tbody></table>
+Temasek Polytechnic<p></p>

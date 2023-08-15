@@ -32,4 +32,4 @@ Warmest Regards,<br>
 Mr Paul Yap<br>
 Chairman, Polytechnic Forum 2023<br>
 Director, Student Development &amp; Alumni Affairs<br>
-Temasek Polytechnic<p></p>
+Temasek Polytechnic

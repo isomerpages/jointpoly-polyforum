@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/20230815_161741-01.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:40%"><img src="https://hosting.photobucket.com/images/i/tracyng81/20230815_161741-01.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
 			<td><p>A very warm welcome to the <b>Polytechnic Forum (PF) 2023</b>!<br><br>An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural <b>Singapore Young Leaders Programme</b>, which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
             </p>
         </td>

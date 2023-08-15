@@ -26,7 +26,7 @@ In PF 2023, you will be exposed to both safe facilitation skills and mediation s
 
 You will examine the sub-themes in PF 2023 from our local perspective as a city state, while being able to contrast the differences amidst our connections with ASEAN and global nations. These topics will be explored through an eclectic host of experiential activities, constructive discussions and self-reflection, including the following:
 
-##### <font size="+4"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your eco-consicous spark!</b>
+##### <font size="+4"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environmental spark!</b>
 
 ##### <font size="+4"><font color="red"><b>2 </b></font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your educational vistas beyond our Little Red Dot!</b>
 

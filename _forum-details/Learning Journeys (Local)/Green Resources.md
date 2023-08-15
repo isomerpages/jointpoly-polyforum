@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Learning Journeys (Local)
 ---
 ##### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red">14 </font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environnnmental spark!</b>
-<hr>
-	
-##### <b>In these Learning Journeys for "Green Resources", you will get to:</b>	
+
+**In these Learning Journeys for "Green Resources", you will get to:**
 
 1. Delve into the multi-faceted implementation of Green Resources, encompassing alternative energy solutions, eco-friendly materials and more, across a diverse array of industries.
 

@@ -31,7 +31,7 @@ Date: 19 Sep 2023 (Tuesday)**
 <br>
 <table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng_gw8Do27Xo8orejoudE5b4P.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:26%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng_gw8Do27Xo8orejoudE5b4P.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Mr Ivan Ng
                 <br>Chief Technology Officer
 					<br>City Developments Limited</b><br>

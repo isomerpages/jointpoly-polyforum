@@ -3,19 +3,10 @@ title: Chairman's Address
 permalink: /about/chairmansaddress/
 description: ""
 ---
-![](/images/PF%202023/Homepage/chairman%20-%20mock%20image.jpg)
-
 <table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jackson_Seng.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-        <td><p><b>Mr Jackson Seng
-                <br>Vice President of Strategy &amp; Business Development
-					<br>Schneider Electric</b><br>
-                <br>Mr Jackson Seng has more than 20 years of regional experience in multiple leadership roles (strategy, business development, sales, marketing, services, engineering, project management, commercial operations). He is currently the Vice President of Strategy and Business Development for the East Asia region at Schneider Electric.<br>
-					
-A very warm welcome to the **Polytechnic Forum (PF) 2023**!
-
-An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural [Singapore Young Leaders Programme](https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes), which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
+        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/20230815_161741-01.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+			<td><p>A very warm welcome to the <b>Polytechnic Forum (PF) 2023</b>!<br><br>An initiative which started in 1996, PF provides a platform for polytechnic students to gain a deeper understanding of important national issues through a series of engaging programmes. This year’s forum will be organised as part of the inaugural [Singapore Young Leaders Programme](https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes), which brings together student leaders like yourselves, to participate in exciting activities that will develop and hone your leadership skills.&nbsp;
 
 It is always a pleasure to witness this gathering of bright young minds from all walks of life, who are eager to ignite change, inspire action, and ideate solutions that will shape their futures. In a world that is facing unprecedented sustainability challenges, PF presents an opportune conduit for you to be a symbolic part of Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
 

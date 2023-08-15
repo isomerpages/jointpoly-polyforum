@@ -4,7 +4,11 @@ permalink: /forum-details/learning-journeys-local/green-economy/
 description: ""
 third_nav_title: Learning Journeys (Local)
 ---
-### **In these Learning Journeys, you will get to:**<br>
+#### In the Polytechnic Forum 2023, you can look forward to:<br>
+<br>
+<font size="+5"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your eco-consicous spark!</b>
+<hr>
+#### **In these Learning Journeys for "Green Economy", you will get to:**<br>
 1. Learn about the sustainability efforts undertaken by corporations across various industries to build Singapore’s move towards a Green Economy.
 
 1. Explore the roles and challenges of corporations when adopting sustainable practices.&nbsp;

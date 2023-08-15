@@ -30,7 +30,7 @@ You will examine the sub-themes in PF 2023 from our local perspective as a city 
 
 <font size="+4"><font color="red"><b>2 </b></font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to help expand your educational vistas beyond our Little Red Dot!</b>
 
-<font size="+4"><font color="red"><b>2 </b></font></font><b>Panel Discussions, featuring <font size="+4"><font color="red"><b>7 </b></font></font><b>speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b></b>
+<font size="+4"><font color="red"><b>2 </b></font></font><b>Panel Discussions, featuring <font size="+4"><font color="red">7 </font></font>speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
 
 We hope you will look forward to all the above, together with the colourful friendships, fun and camaraderie that you will get to experience at PF 2023. Enjoy the journey!
 

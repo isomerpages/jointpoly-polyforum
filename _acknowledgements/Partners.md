@@ -23,7 +23,7 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://www.silosobeachresort.com/"><img style="float: left; width: 25.5%; margin-right: 11.5%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SBR160908_Primary_Logo_hires.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://tindle.com/"><img style="float: left; width: 19.5%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Tindle.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
+<a href="https://www.silosobeachresort.com/"><img style="float: left; width: 25.8%; margin-right: 11.5%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SBR160908_Primary_Logo_hires.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://tindle.com/"><img style="float: left; width: 19.5%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Tindle.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
 <a href="https://www.uobgroup.com/uobgroup/default.page"><img style="float: left; width: 18.6%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/FC_CMYK_UOB.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
 <br>
 <br>

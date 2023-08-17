@@ -24,7 +24,7 @@ In this forum, you will explore the following sub-themes through a thoughtfully 
 * Sustainable Living
 * Resilient Future
 
-Over the course of PF 2023, I encourage all of you to think boldly, engage in meaningful discussions, challenge the status quo, and propose innovative solutions. Remember also to make friends, collaborate, and embrace your fellow participants’ diversities and unique differences. Above all, I hope the skills honed, networks gained, and insights uncovered along this journey will remain with you for life, long after your PF chapter has closed.
+I encourage all of you to think boldly, engage in meaningful discussions, challenge the status quo, and propose innovative solutions during this forum. Remember also to make friends, collaborate, and embrace your fellow participants’ diversities and unique differences. Above all, I hope the skills honed, networks gained, and insights uncovered along this journey will remain with you for life, long after your PF chapter has closed.
 
 I wish you all an enriching and fruitful PF experience. Have fun and happy ideating!
 

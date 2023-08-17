@@ -3,7 +3,7 @@ title: Partners
 permalink: /acknowledgements/partners/
 description: ""
 ---
-##### **The Polytechnic Forum 2023 will not be possible without the support and generosity of our partners. Thank you!**
+#### **The Polytechnic Forum 2023 will not be possible without the support and generosity of our partners. Thank you!**
 <br>
 <br>
 <a href="https://cdl.com.sg/"><img style="float: left; width: 28%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/CDL_Logo_1.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.decathlon.sg/?gclid=Cj0KCQjwuNemBhCBARIsADp74QSFwfbQhXhWkVlndPsISmv5-WFjxwsiqdGzPESzqr_3i2TMzhDVtMYaAsHiEALw_wcB"><img style="float: left; width: 24.5%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Decathlon-Singapore-Logo.png?width=320&amp;height=320&amp;fit=bounds">

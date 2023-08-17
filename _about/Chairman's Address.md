@@ -11,7 +11,7 @@ description: ""
         </td>
     </tr>
 </tbody></table><p></p>
-It is always a pleasure to witness this gathering of bright young minds from all walks of life, who are eager to ignite change, inspire action, and ideate solutions that will shape their futures. In a world that is facing unprecedented sustainability challenges, PF presents an opportune conduit for you to be a symbolic part of Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
+It is always a pleasure to witness this gathering of bright young minds from all walks of life, who are eager to ignite change, inspire action, and ideate solutions that will shape their futures. In a world that is facing unprecedented sustainability challenges, PF 2023 presents a valuable opportunity for you to have your say in Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
 
 Sustainability has always been an integral tenet of our Singapore story. In our formative years, even as we provided basic necessities for our people, we did so with “sustainable development” in mind, long before the concept gained prominence. Today, the notion of a sustainable Singapore is not merely a buzzword; it is a call-to-action that demands attention. Your ideas, enthusiasm and passion will hence be the driving force behind the transformative change we seek, as we work collaboratively to address the pressing sustainability issues of our time.
 

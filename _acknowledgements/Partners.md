@@ -29,4 +29,4 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://cloop.sg/"><img style="float: left; width: 18.5%; margin-right: 20%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 13.5%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
+<a href="https://cloop.sg/"><img style="float: left; width: 18%; margin-left: 3%; margin-right: 18%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 13%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>

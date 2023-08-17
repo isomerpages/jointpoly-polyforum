@@ -13,6 +13,7 @@ description: ""
 <br>
 <br>
 <br>
+<br>
 <a href="https://www.electrolux.com.sg/?gclid=Cj0KCQjwuNemBhCBARIsADp74QQP8Zh-MrmN-3Z9OkCRKLY0-2aUtQIGfIxb6CWiTIMbWSWVSOF38GgaAovOEALw_wcB&amp;gclsrc=aw.ds"><img style="float: left; width: 23.5%; margin-right: 13%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Electrolux_Logo_-_Blue.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://go-aheadsingapore.com/"><img style="float: left; width: 21.3%; margin-right: 11%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Asset_1.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.hdb.gov.sg/cs/infoweb/homepage"><img style="float: left; width: 22%; margin-right: 9%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/HDB_Logo.png?width=320&amp;height=320&amp;fit=bounds"></a>
 <br>
 <br>
@@ -20,6 +21,7 @@ description: ""
 <br>
 <a href="https://www.lta.gov.sg/content/ltagov/en.html"><img style="float: left; width: 25%; margin-right: 11.5%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_PNG-01.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.ntu.edu.sg/"><img style="float: left; width: 21.5%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/logo-m-ntu_8N9yhLvWystSJjS3Qwv74u.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
 <a href="https://www.se.com/sg/en/"><img style="float: left; width: 20%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider_Electric_Logo-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
+<br>
 <br>
 <br>
 <br>

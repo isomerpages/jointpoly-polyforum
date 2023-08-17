@@ -3,7 +3,12 @@ title: Organising Committee
 permalink: /acknowledgements/organising-committee/
 description: ""
 ---
-##### **The Polytechnic Forum (PF) 2023 is hosted by Temasek Polytechnic.**
+##### **The Polytechnic Forum (PF) 2023 is organised as part of:**
+
+<a href="https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes"><img style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SYLP_Colored-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
+<br>
+<br>
+##### **PF 2023 is hosted by Temasek Polytechnic.**
 
 **Chair:** Paul Yap<br>
 **Deputy Chair:** Desmond Lim<br>

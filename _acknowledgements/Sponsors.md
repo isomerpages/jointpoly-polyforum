@@ -3,8 +3,8 @@ title: Sponsors
 permalink: /acknowledgements/sponsors/
 description: ""
 ---
-##### **The Polytechnic Forum 2023 will not be possible without the support and generosity of our sponsors. Thank you!**
-<br>
+#### **The Polytechnic Forum 2023 will not be possible without the support and generosity of our sponsors. Thank you!**
+
 <style>
 table, th, td {
   border:1px solid black;

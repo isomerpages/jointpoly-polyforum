@@ -19,7 +19,7 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://www.lta.gov.sg/content/ltagov/en.html"><img style="float: left; width: 25%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_PNG-01.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.ntu.edu.sg/cbs"><img style="float: left; width: 36.5%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NTU-CBS.png?width=590&amp;height=590&amp;fit=bounds"></a>
+<a href="https://www.lta.gov.sg/content/ltagov/en.html"><img style="float: left; width: 25%; margin-right: 10%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_PNG-01.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.ntu.edu.sg/cbs"><img style="float: left; width: 36.5%; margin-right: 10%; margin-top: -1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NTU-CBS.png?width=590&amp;height=590&amp;fit=bounds"></a>
 <br>
 <br>
 <br>
@@ -30,5 +30,5 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://www.uobgroup.com/uobgroup/default.page"><img style="float: left; width: 18.6%; margin-right: 18%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/FC_CMYK_UOB.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
+<a href="https://www.uobgroup.com/uobgroup/default.page"><img style="float: left; width: 18.6%; margin-right: 18%; margin-top: 5%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/FC_CMYK_UOB.jpg?width=320&amp;height=320&amp;fit=bounds"></a>
 <a href="https://cloop.sg/"><img style="float: left; width: 17.5%; margin-left: 3%; margin-right: 15%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.gardensbythebay.com.sg/"><img style="float: left; width: 12.5%; margin-right: 12%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/GB_Logo_4C.jpg?width=320&amp;height=320&amp;fit=bounds"></a>

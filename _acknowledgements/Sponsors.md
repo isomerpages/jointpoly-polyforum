@@ -19,7 +19,7 @@ table, th, td {
 		<td>The <b>National Youth Council (NYC)</b>, together with the <b>Outward Bound Singapore</b> and <b>Youth Corps Singapore</b>, is the national agency for youth development and engagement. NYC collaborates with partners to ensure young Singaporeans have opportunities to develop self-awareness and resilience, deepen community spirit, and be future-ready.</td>
   </tr>
   <tr>
-    <td><a style="float: left; width: 95%; margin-right: 1%; margin-bottom: 0.5em;" href="https://hosting.photobucket.com/images/i/tracyng81/Asset_1_sKUp2CRe3ZJTSV2BVppuh6.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+    <td><a style="float: left; width: 95%; margin-right: 1%; margin-bottom: 0.5em;" href="https://hosting.photobucket.com/images/i/tracyng81/Asset_1_phSGcAMzSrwZLKEkvaYqUn.png?width=590&amp;height=590&amp;fit=bounds"></a></td>
 		<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environment where they operate, and driving awareness and transformative change in the travel and tourism industry. Through responsible travel, it also aims to support the global sustainability agenda and strengthen the resilience of communities.</td>
   </tr>
 		<tr>

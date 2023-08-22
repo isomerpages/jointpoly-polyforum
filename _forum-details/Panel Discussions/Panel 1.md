@@ -58,3 +58,17 @@ Date: 18 Sep 2023 (Monday)**
         </td>
     </tr>
 </tbody></table><p></p>
+<br>
+<table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Dr_S._Viswanathan.jpg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Prof S. Viswanathan
+                <br>Professor of Operations &amp; Corporate Sustainability
+					<br>Nanyang Business School
+					<br>Nanyang Technological University</b><br>
+                <br>Prof S. Viswanathan (Vish) is Professor of Operations &amp; Corporate Sustainability at the Nanyang Business School, Nanyang Technological University (NTU), Singapore. He is also Director of the Centre for Business Sustainability, Cluster Director of Energy Research Institute@NTU (ERI@N), and Program Director of the soon to be launched Executive MSc in Sustainability Management. His research interests include Corporate Sustainability, Energy Modelling, LCA, and Supply Chain Systems.<br>
+                <br>Prof Viswanathan’s research has been published in the University of Texas Dallas (UTD) ranked top Business journals. He is currently working on several sustainability-related projects under the National Research Foundation’s grants, such as “Singapore’s Pathway to Carbon Neutrality: Analysis of New Technologies”. He teaches Corporate Sustainability in many Graduate and Executive Programs at NTU.<br>
+            </p>
+        </td>
+    </tr>
+</tbody></table><p></p>

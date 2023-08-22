@@ -11,18 +11,9 @@ description: ""
         </td>
     </tr>
 </tbody></table><p></p>
-It is always a pleasure to witness this gathering of bright young minds from all walks of life, who are eager to ignite change, inspire action, and ideate solutions that will shape their futures. In a world that is facing unprecedented sustainability challenges, PF 2023 presents a valuable opportunity for you to have your say in Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
+In a world that is facing unprecedented sustainability challenges, PF 2023 presents a valuable opportunity for you to have your say in Singapore’s move towards a greener, brighter and more sustainable future. This year’s theme – **“Our Green SG”** – invites you to dream and envision together with your peers on what your green Singapore can look like and how we can get there.
 
-Sustainability has always been an integral tenet of our Singapore story. In our formative years, even as we provided basic necessities for our people, we did so with “sustainable development” in mind, long before the concept gained prominence. Today, the notion of a sustainable Singapore is not merely a buzzword; it is a call-to-action that demands attention. Your ideas, enthusiasm and passion will hence be the driving force behind the transformative change we seek, as we work collaboratively to address the pressing sustainability issues of our time.
-
-As we stand at the crossroads of opportunity and responsibility today, you will realise that all our actions will impact the trajectory of our planet's future. Sustainability must hence be woven into the fabric of our daily lives, influencing our choices as consumers, citizens and leaders. Paying testimony to the adage “Change is the only constant”, the COVID-19 pandemic has also reminded us of our fragile existence, but at the same time, highlighted the power of humankind’s ability to adapt and evolve.&nbsp;This, is exactly the ethos that should underpin your learning experience at PF 2023.
-
-In this forum, you will explore the following sub-themes through a thoughtfully curated ensemble of activities – including peer discussions, learning journeys, talks, as well as engagements with government and industry leaders:
-
-* Green Economy
-* Green Resources
-* Sustainable Living
-* Resilient Future
+In this forum, you will explore this theme through a thoughtfully curated ensemble of activities – including peer discussions, learning journeys, talks, as well as engagements with government and industry leaders:
 
 I encourage all of you to think boldly, engage in meaningful discussions, challenge the status quo, and propose innovative solutions during this forum. Remember also to make friends, collaborate, and embrace your fellow participants’ diversities and unique differences. Above all, I hope the skills honed, networks gained, and insights uncovered along this journey will remain with you for life, long after your PF chapter has closed.
 

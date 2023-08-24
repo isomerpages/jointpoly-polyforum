@@ -39,7 +39,7 @@ table, th, td {
 			<td><b>Mandai Wildlife Group</b> is committed to connecting people with wildlife, championing sustainable living, as well as participating in and supporting conservation efforts to safeguard wildlife and their habitats.</td>
   </tr>
   <tr>
-		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 84%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
+		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 83%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
 		<td>As part of <b>Nestlé’s</b> commitment to make 100% of its product packaging recyclable and reusable by 2025, all <b>MILO</b> and NESCAFÉ Ready-to-Drink bottles are made with sustainable packaging of high-quality recycled plastic resin (rPET).</td>
   </tr>
   <tr>

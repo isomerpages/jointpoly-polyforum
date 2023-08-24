@@ -40,7 +40,7 @@ table, th, td {
   </tr>
   <tr>
 		<td><a href="https://www.nestle.com.sg/"><img style="float: left; width: 84%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/MILO_LOGO_2014_updated_(1)-01.png?width=320&amp;height=320&amp;fit=bounds"></a></td>
-    <td>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</td>
+		<td>As part of <b>Nestlé’s</b> commitment to make 100% of its product packaging recyclable and reusable by 2025, all <b>MILO</b> and NESCAFÉ Ready-to-Drink bottles are made with sustainable packaging of high-quality recycled plastic resin (rPET).</td>
   </tr>
   <tr>
 		<td><a href="https://www.razer.com/sg-en"><img style="float: left; width: 265%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Razer.png?width=320&amp;height=320&amp;fit=bounds"></a></td>

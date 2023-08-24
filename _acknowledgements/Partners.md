@@ -7,7 +7,6 @@ description: ""
 <br>
 <br>
 <a href="https://cdl.com.sg/"><img style="float: left; width: 27%; margin-right: 5%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/CDL_Logo_1.jpg?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://cloop.sg/"><img style="float: left; width: 17%; margin-left: 3%; margin-right: 5%; margin-top: -2%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop_1XKCUTS1FUKUsfHRB5gyTv.png?width=320&amp;height=320&amp;fit=bounds"></a><a href="https://www.decathlon.sg/?gclid=Cj0KCQjw3JanBhCPARIsAJpXTx6Y9wQJeeDT2fLN-0JO8tD6RZ-oMXW1V1DUyoMZk-mfUMIa0STdVycaAjVpEALw_wcB"><img style="float: left; width: 25%; margin-left: 3%; margin-right: 15%; margin-top: 1%;margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Decathlon-Singapore-Logo.png?width=590&amp;height=590&amp;fit=bounds"></a>
-
 <br>
 <br>
 <br>

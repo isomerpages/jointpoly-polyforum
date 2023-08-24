@@ -20,7 +20,7 @@ table, th, td {
   </tr>
   <tr>
     <td><a href="https://www.banyantree.com/"><img style="float: left; width: 72%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Asset_1_phSGcAMzSrwZLKEkvaYqUn.png?width=590&amp;height=590&amp;fit=bounds"></a></td>
-<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Group</b> believes in safeguarding the communities and environment where they operate, and driving awareness and transformative change in the travel and tourism industry. Through responsible travel, it also aims to support the global sustainability agenda and strengthen the resilience of communities.</td>
+<td>Reputed for its strong sustainability objective, the <b>Banyan Tree Hotels &amp; Resorts</b> believes in safeguarding the communities and environment where they operate, and driving awareness and transformative change in the travel and tourism industry. Through responsible travel, it also aims to support the global sustainability agenda and strengthen the resilience of communities.</td>
   </tr>
 		<tr>
     <td><a href="https://www.simedarbymotors.com/about-us/overview"><img style="float: left; width: 119%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/BYD_x_SDM_Logo_(RED)RED.png?width=320&amp;height=320&amp;fit=bounds"></a></td>

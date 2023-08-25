@@ -26,7 +26,7 @@ description: ""
 <br>
 <br>
 <br>
-<a href="https://www.ntu.edu.sg/cbs"><img style="float: left; width: 37.5%; margin-right: 8%; margin-top: -2%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NTU-CBS.png?width=590&amp;height=590&amp;fit=bounds"></a>
+<a href="https://www.ntu.edu.sg/cbs"><img style="float: left; width: 38%; margin-right: 8%; margin-top: -2%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/NTU-CBS.png?width=590&amp;height=590&amp;fit=bounds"></a>
 <a href="https://www.se.com/sg/en/"><img style="float: left; width: 20.5%; margin-right: 15%; margin-top: -1.2%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider_Electric_Logo-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
 <br>
 <br>

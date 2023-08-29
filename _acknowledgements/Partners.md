@@ -18,7 +18,7 @@ description: ""
 <br>
 <br>
 <br>
-</a><a href="https://www.hdb.gov.sg/cs/infoweb/homepage"><img style="float: left; width: 22%; margin-right: 6%; margin-top: 6.8%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/HDB_Logo.png?width=320&amp;height=320&amp;fit=bounds"></a>
+</a><a href="https://www.hdb.gov.sg/cs/infoweb/homepage"><img style="float: left; width: 22%; margin-right: 6%; margin-top: 6.2%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/HDB_Logo.png?width=320&amp;height=320&amp;fit=bounds"></a>
 <a href="https://www.lta.gov.sg/content/ltagov/en.html"><img style="float: left; width: 25%; margin-right: 10%; margin-top: 4.8%; argin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_PNG-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
 <br>
 <br>

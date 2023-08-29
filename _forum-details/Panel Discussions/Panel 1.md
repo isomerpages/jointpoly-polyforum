@@ -48,19 +48,6 @@ Date: 18 Sep 2023 (Monday)**
 <br>
 <table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Samantha_Thian.jpg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
-        <td><p><b>Ms Samantha Thian
-                <br>Senior Manager for Sustainability in APAC &amp; MEA
-					<br>Electrolux</b><br>
-                <br>Ms Samantha Thian is the Senior Manager for Sustainability in APAC &amp; MEA at Electrolux.&nbsp;She graduated from the National University of Singapore with a Masters in Environmental Management, and a Bachelor’s Degree in Business Administration. Her work has been recognised through various platforms, such as the National Environment Agency’s 15th EcoFriend Awards in 2022. She is a fellow at the Philip Yeo Initiative, as well as part of the Young South East Asian Leadership Institute. She had the privilege to represent Singapore at the first-ever ASEAN Youth Eco-Champions Award in Cambodia 2019, and is currently the Y20 Climate Change Delegation for G20 2023 in India.<br>
-                <br>As an individual who is passionate about making a change from within, Ms Thian is a strong believer of driving sustainability within organisations. She lives by the philosophy – “We don’t need one person doing sustainability perfectly, we need millions doing it imperfectly”.<br>
-            </p>
-        </td>
-    </tr>
-</tbody></table><p></p>
-<br>
-<table>
-    <tbody><tr>
         <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Dr_S._Viswanathan.jpg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Prof S. Viswanathan
                 <br>Professor of Operations &amp; Corporate Sustainability

@@ -58,7 +58,7 @@ table, th, td {
 		<td>Facilitator</td>
 		</tr>
   <tr>
-      <td>Adrian Li Lai</td>
+      <td>Adrian Lim Li Lai</td>
     <td>Ngee Ann Polytechnic</td>
 		<td>Facilitator</td>
 				</tr>
@@ -68,7 +68,7 @@ table, th, td {
 		<td>Facilitator</td>
 				</tr>
   <tr>
-      <td>Erwin Merijn</td>
+      <td>Erwin Merijn Wouterson</td>
     <td>Singapore Polytechnic</td>
 		<td>Facilitator</td>
 </tr></tbody></table>

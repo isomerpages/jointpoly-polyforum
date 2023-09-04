@@ -4,7 +4,7 @@ permalink: /forum-details/speakers/paneldiscussion2/
 description: ""
 third_nav_title: Panel Discussions
 ---
-#### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red"><b>2 </b></font></font>Panel Discussions, comprising <font size="+3.5"><font color="red"><b>8 </b></font></font>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
+#### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red"><b>2 </b></font></font>Panel Discussions, comprising <font size="+3.5"><font color="red"><b>7 </b></font></font>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
 <hr>
 
 ### **Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City**<br>

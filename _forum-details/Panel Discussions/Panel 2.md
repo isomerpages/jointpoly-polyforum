@@ -21,7 +21,7 @@ Date: 19 Sep 2023 (Tuesday)**
 ### **Speakers**<br>
 <table>
     <tbody><tr>
-        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau_Edited.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td><p><b>Mr Jacky Yau
                 <br>Head of Commercial &amp; Special Projects
 					<br>Edible Garden City</b><br>

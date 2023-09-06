@@ -1,9 +1,9 @@
-title: "Polytechnic Forum 2022 "
+title: Polytechnic Forum 2023
 url: https://www.polyforum.edu.sg
-favicon: /images/PF 2022 Logo_FinalFA-01.png
+favicon: /images/PF 2023/Homepage/pf-colour (transparent background).png
 colors:
   primary-color: "#d0021b"
-  secondary-color: "#4372d6"
+  secondary-color: "#284d02"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "Polytechnic Forum 2022 "
+description: The Polytechnic Forum (PF), an initiative which started in 1996,
+  aims to provide a platform for polytechnic students to gain a deeper
+  understanding of pertinent national issues through peer discussions, learning
+  journeys, talks, and engagement with government and industry leaders.
 permalink: none
 baseurl: ""
 exclude:
@@ -49,10 +52,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://rp-polyforum2022-staging.netlify.app
-prod: https://rp-polyforum2022-prod.netlify.app
-shareicon: /images/PF 2022 Logo_FinalFA-01.png
+staging: https://staging.d1i7qegjhanjq0.amplifyapp.com/
+prod: https://master.d1i7qegjhanjq0.amplifyapp.com/
+shareicon: /images/PF 2023/Homepage/pf-colour (transparent background).png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

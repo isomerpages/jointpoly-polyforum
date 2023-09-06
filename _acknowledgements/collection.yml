@@ -1,0 +1,8 @@
+collections:
+  acknowledgements:
+    output: true
+    order:
+      - Organising Committee.md
+      - Facilitation Team.md
+      - Sponsors.md
+      - Partners.md

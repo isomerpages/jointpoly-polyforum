@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - PF 2023 eHandbook.md
+      - Reference Materials.md

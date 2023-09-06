@@ -1,13 +1,13 @@
 ---
 title: Chairman's Address
-permalink: /address
+permalink: /address/
 description: ""
 ---
 Welcome to Polytechnic Forum 2022.
 
-It is always a pleasure to have students from all the polytechnics coming together to form friendships and engage in topics that would shape their futures. This year after consulting several groups of students from various institutions, we chose the theme of <b> “Building A Caring Nation – One People, One Nation?”. </b>
+It is always a pleasure to have students from all the polytechnics coming together to form friendships and engage in topics that would shape their futures. This year after consulting several groups of students from various institutions, we chose the theme of <b> “Building A Caring Nation – One People, One Nation?”.&nbsp;</b>
 
-COVID-19 has thrown up many fault lines within the Singapore society. Taking a leaf from our pledge, “We the citizens of Singapore pledge ourselves as one united people regardless of race language or religion…. Based on justice and equality…. Achieve happiness prosperity and progress for our nation”, the forum will examine what the pledge means to Singaporeans and whether we have stayed true it, thus the question mark at the end of the theme. Will the question mark that remains unanswered or can we turn it into an exclamation mark, rallying us together is what you need to decide. 
+COVID-19 has thrown up many fault lines within the Singapore society. Taking a leaf from our pledge, “We the citizens of Singapore pledge ourselves as one united people regardless of race language or religion…. Based on justice and equality…. Achieve happiness prosperity and progress for our nation”, the forum will examine what the pledge means to Singaporeans and whether we have stayed true it, thus the question mark at the end of the theme. Will the question mark that remains unanswered or can we turn it into an exclamation mark, rallying us together is what you need to decide.&nbsp;
 
 In PF2022, we will explore the following social divides that may prevent us from our ideal being One People, One Nation:
 

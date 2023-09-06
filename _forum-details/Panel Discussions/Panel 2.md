@@ -1,0 +1,78 @@
+---
+title: Panel 2
+permalink: /forum-details/speakers/paneldiscussion2/
+description: ""
+third_nav_title: Panel Discussions
+---
+#### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red"><b>2 </b></font></font>Panel Discussions, comprising <font size="+3.5"><font color="red"><b>7 </b></font></font>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
+<hr>
+
+### **Panel 2: Transforming Singapore Into A Liveable &amp; Resilient City**<br>
+
+**Sub-Themes: Sustainable Living &amp; Resilient Future<br>
+Date: 19 Sep 2023 (Tuesday)**
+
+**This panel will discuss the following topics:**
+
+* Evaluating the effectiveness of sustainability living practices in the speakers’ respective fields;
+* Suggesting how their practices could impact Singapore and its social compact; and
+* Providing possible solutions that Singapore and individuals could take to engender positive sustainability outcomes.
+<hr>
+### **Speakers**<br>
+<table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jacky_Yau_Edited.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Mr Jacky Yau
+                <br>Head of Commercial &amp; Special Projects
+					<br>Edible Garden City</b><br>
+                <br>With extensive experience working across both the private and public sectors, Mr Jacky Yau has experience in advising executive leadership and implementing change in his previous career as a management consultant in Australia, and as a leader within the Edible Garden City (EGC). He is motivated by the importance and inspired by the potential impact of contributing to food resilience in Singapore through individual action.<br>
+                <br>Mr Yau currently leads a team&nbsp;that works closely with schools (ranging from Primary level to University) to bring students closer to their food source and&nbsp;learn about EGC’s approaches to managing challenges in the local agriculture industry. His team also seeks to tackle the variety of sustainability challenges that Singapore faces (e.g. local and historic food resilience, economic competitiveness, and sustainability).<br>
+ </p>
+        </td>
+    </tr>
+</tbody></table><p></p>
+<br>
+<table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Ivan_Ng_gw8Do27Xo8orejoudE5b4P.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Mr Ivan Ng
+                <br>Chief Technology Officer
+					<br>City Developments Limited</b><br>
+                <br>Mr Ivan Ng is the Chief Technology Officer of City Developments Limited, a global real estate leader operating across 29 countries. He is responsible for Group IT, Digital Initiatives and Technology Risks Governance.<br>
+                <br>With 25 years of leading both businesses and technology teams, Mr Ng brings unique insights into the innovative use of technologies to create business value and drive positive change in environmental stewardship through sustainability-focused innovations. He was the Regional Managing Director of ServiceNow, where he established their Greater China and Southeast Asia businesses; and Chief Technology Officer of Pactera, a Nasdaq-listed IT services company. Currently based in Singapore, he has spent over 15 years working in China, the US, Japan, Indonesia and Thailand.<br>
+					<br>Mr Ng is currently the President of the IT Management Association (Singapore) and serves on the boards of technology companies. He is an advisor to Temasek Polytechnic, National University of Singapore (NUS) and Gardens by the Bay. He was conferred the Outstanding Alumni Award by the NUS in 2018.<br>
+</p>
+        </td>
+    </tr>
+</tbody></table><p></p>
+<br>
+<table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Jasmine_Tuan_qZmguTaS5ZqbJNBuxAFgGy.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Ms Jasmine Tuan
+                <br>Co-Founder
+					<br>Cloop</b><br>
+                <br>Ms Jasmine Tuan is the co-founder of clothes swap organisation, Cloop, and Associate Marketing Director of Zero Waste Singapore. Cloop is a circular fashion initiative with a mission to keep good apparel circulated within the community by collecting, curating, and circulating items through alternative shopping services. These include "Fashion Swap!" pop-ups, "Curate Bag" (personal shopping in a bag), and "Open Wardrobe" (Singapore's first honour system clothing thrift store operating entirely based on trust).<br>
+                <br>A self-confessed fashion addict, Ms Tuan is a second-hand advocate who has learnt how to love living with less. Over the years, she has also found inner peace through decluttering her life of all things non-essential.<br>
+ </p>
+        </td>
+    </tr>
+</tbody></table><p></p>
+<br>
+<table>
+    <tbody><tr>
+</tr></tbody></table><table>
+    <tbody><tr>
+        <td style="width:27%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Heru_Santoso_Soedarsono.jpg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
+        <td><p><b>Mr Heru Santoso Soedarsono
+                <br>Director, Smart &amp; Sustainability Research
+					<br>Building &amp; Research Institute
+					<br>Housing &amp; Development Board</b><br>
+                <br>Mr Heru Santoso Soedarsono has vast experience in the area of research and development to bring about implementation of innovative solutions for greater sustainability in Singapore’s public housing landscape. He is currently the Director of Smart and Sustainability Research at the Housing &amp; Development Board (HDB), overseeing new research focus areas in sustainability, urban resilience, liveability and social behavioural science for the Built Environment, test bedding and implementation of new smart and sustainable ideas/concepts.<br>
+                <br>Mr Soedarsono also drives the large-scale deployment of smart and sustainable solutions under the HDB Green Town programme to improve sustainability and liveability of existing HDB towns, in support of the Singapore Green Plan 2030.<br></p>
+        </td>
+    </tr>
+</tbody></table><p></p>
+<br>
+<table>
+    <tbody><tr></tr></tbody></table>

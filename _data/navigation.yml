@@ -1,22 +1,14 @@
-logo: /images/PF 2022 Logo_FinalFA-01.png
+logo: /images/PF 2023/Homepage/pf-colour (transparent background).png
 links:
-  - title: Home
-    url: https://www.polyforum.edu.sg/
+  - title: ABOUT
+    collection: about
   - title: FORUM DETAILS
-    url: /programme
-    sublinks:
-      - title: Sub-Themes
-        url: /subthemes
-      - title: Location
-        url: /locations
-  - title: PF2022
-    url: /about-us
-    sublinks:
-      - title: Chairman's Address
-        url: /address
-      - title: "Acknowledgements "
-        url: /sponsors
-      - title: Highlights
-        url: /highlights
-  - title: PROGRAMME BOOKLET
-    url: https://for.edu.sg/pf2022-programme
+    collection: forum-details
+  - title: RESOURCES
+    collection: resources
+  - title: GALLERY
+    url: /gallery
+  - title: ACKNOWLEDGEMENTS
+    collection: acknowledgements
+  - title: CONTACT US
+    url: /contactus

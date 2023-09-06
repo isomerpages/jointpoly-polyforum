@@ -42,7 +42,7 @@ sections:
       alt: Image alt text
       image: /images/PF 2023/Homepage/20230815_161722-02.jpeg
       title: CHAIRMAN'S ADDRESS
-      subtitle: BE INSIPIRED
+      subtitle: BE INSPIRED
   - infopic:
       title: FORUM PROGRAMME
       subtitle: MULTI-FACETED LINEUP

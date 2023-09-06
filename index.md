@@ -16,7 +16,7 @@ sections:
           url: about/overview/
         - title: Forum Details
           description: Exciting Lineup of Activities!
-          url: /forum-details/programme/day0/
+          url: /forum-details/programme/day-1/
         - title: Resources
           description: Download the e-Handbook Now!
           url: /resources/e-handbook/

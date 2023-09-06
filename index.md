@@ -50,7 +50,7 @@ sections:
         and lots of constructive sharing, look forward to an enriching
         experience at PF 2023!
       button: Discover The Action
-      url: /forum-details/programme/day0/
+      url: /forum-details/programme/day-1/
       image: /images/PF 2023/Homepage/forum programme.jpg
       alt: highlights
   - infopic:

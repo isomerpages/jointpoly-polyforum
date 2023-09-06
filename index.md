@@ -16,7 +16,7 @@ sections:
           url: about/overview/
         - title: Forum Details
           description: Exciting Lineup of Activities!
-          url: /forum-details/programme/day0/
+          url: /forum-details/programme/day-1/
         - title: Resources
           description: Download the e-Handbook Now!
           url: /resources/e-handbook/
@@ -50,7 +50,7 @@ sections:
         and lots of constructive sharing, look forward to an enriching
         experience at PF 2023!
       button: Discover The Action
-      url: /forum-details/programme/day0/
+      url: /forum-details/programme/day-1/
       image: /images/PF 2023/Homepage/forum programme.jpg
       alt: highlights
   - infopic:
@@ -63,11 +63,11 @@ sections:
       description: Document your journey of sustainability, ideation and friendship at
         PF 2023!
   - infopic:
-      title: ACKNOWLEDGEMENTS
+      title: THANK YOU!
       subtitle: NOTE OF APPRECIATION
       description: We express our heartfelt gratitude to the generous sponsors and
         partners of PF 2023, as well as the spirited team behind this event.
-      button: THANK YOU!
+      button: ACKNOWLEDGEMENTS
       url: /acknowledgements/organising-committee/
       image: /images/PF 2023/Homepage/acknowledgements.jpg
       alt: Image alt text

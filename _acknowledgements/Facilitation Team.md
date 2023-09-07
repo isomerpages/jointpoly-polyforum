@@ -148,7 +148,7 @@ table, th, td {
 		<td>Facilitator</td>
 		</tr>
   <tr>
-      <td>Kang Wei, Melvin</td>
+      <td>Melvin Gan</td>
     <td>Ngee Ann Polytechnic</td>
 		<td>Facilitator</td>
 				</tr>
@@ -198,7 +198,7 @@ table, th, td {
 		<td>Facilitator</td>
 				</tr>
   <tr>
-      <td>Chua Mu Fen Kelda</td>
+      <td>Leong Yihui</td>
     <td>Republic Polytechnic</td>
 		<td>Facilitator</td>
 				</tr>

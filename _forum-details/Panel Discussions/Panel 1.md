@@ -7,7 +7,7 @@ third_nav_title: Panel Discussions
 #### <b>The Polytechnic Forum 2023 features <font size="+3.5"><font color="red"><b>2 </b></font></font>Panel Discussions, comprising <font size="+3.5"><font color="red"><b>7 </b></font></font>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
 <hr>
 
-### **Panel 1: Towards A Net Zero Economy**<br>
+### **Panel 1: Towards a Net Zero Economy**<br>
 
 **Sub-Themes: Green Economy &amp; Green Resources<br>
 Date: 18 Sep 2023 (Monday)**

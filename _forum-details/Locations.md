@@ -14,7 +14,7 @@ With the exception of the <b>Learning Journeys</b> (which will mostly be conduct
 
 For detailed directions to TP, please visit this [link](https://www.tp.edu.sg/about-tp/getting-to-tp.html).
 
-For locations of the various onsite/offsite activities, please download the&nbsp;**PF 2023 e-Handbook** [here](/files/polytechnic%20forum%202023%20-%20e-handbook.pdf).
+For locations of the various onsite/offsite activities, please download the&nbsp;**PF 2023 e-Handbook** [here](/files/pf%202023%20-%20e-handbook%20(updated%209%20sep).pdf).
 
 ### <b>Campus Map</b><br>
 

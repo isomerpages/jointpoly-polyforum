@@ -3,7 +3,7 @@ title: PF 2023 eHandbook
 permalink: /resources/e-handbook/
 description: ""
 ---
-Download the **Polytechnic Forum (PF) 2023 e-Handbook** [here](/files/polytechnic%20forum%202023%20-%20e-handbook.pdf)!
+Download the **Polytechnic Forum (PF) 2023 e-Handbook** [here](/files/pf%202023%20-%20e-handbook%20(updated%209%20sep).pdf)!
 
 The PF 2023 e-Handbook is your handy guide to everything you need to know about the event. It contains the programme and line-up of experiential activities, learning journeys and panel discussions that you can look forward to, throughout the six-day forum.
 

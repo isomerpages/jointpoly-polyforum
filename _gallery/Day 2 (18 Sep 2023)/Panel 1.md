@@ -16,4 +16,10 @@ third_nav_title: Day 2 (18 Sep 2023)
 <b>Reflections</b> 
 <br>
 <br>
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-10.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-15.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-14.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-16.jpg?width=590&amp;height=590&amp;fit=bounds">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-10.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-15.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-14.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-16.jpg?width=590&amp;height=590&amp;fit=bounds"><a></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

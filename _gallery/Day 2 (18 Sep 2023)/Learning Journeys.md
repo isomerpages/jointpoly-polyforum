@@ -29,4 +29,4 @@ third_nav_title: Day 2 (18 Sep 2023)
 <b>Learning Journeys (Resilient Future)</b> 
 <br>
 <br>
-<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/Cloop-1.jpg?width=590&amp;height=590&amp;fit=bounds">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-1.jpeg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-5.jpeg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-4.jpeg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-3.jpeg?width=590&amp;height=590&amp;fit=bounds">

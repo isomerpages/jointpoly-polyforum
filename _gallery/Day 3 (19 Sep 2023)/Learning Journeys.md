@@ -4,3 +4,8 @@ permalink: /gallery/day-3/
 description: ""
 third_nav_title: Day 3 (19 Sep 2023)
 ---
+### **Day 3 / Non-Residential: 19 Sep 2023 (Tuesday)**
+<b>Learning Journeys (Green Economy)</b>
+<br>
+<br>
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313-2_axYArPEAeu3ooobjeyZek4.JPG?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313-1_958nTe2H5VpC9tz9QCm57d.JPG?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313-3_7MLAdHXhpzowLhNiwCH8Mw.JPG?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/313-4.JPG?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 67.5%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0070_copy.jpg?width=590&amp;height=590&amp;fit=bounds"><img style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0082_copy.jpg?width=590&amp;height=590&amp;fit=bounds">

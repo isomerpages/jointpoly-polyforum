@@ -16,3 +16,16 @@ third_nav_title: Day 4 (20 Sep 2023)
 <br>
 <br>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0042_copy.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0038_copy.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_4494_copy.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_4510_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

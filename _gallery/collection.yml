@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - Day 4 (20 Sep 2023)/Travel to Desaru.md
       - Day 4 (20 Sep 2023)/.keep
       - Day 1 (15 Sep 2023).md
       - Day 2 (18 Sep 2023)/.keep

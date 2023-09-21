@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - Day 4 (20 Sep 2023)/Group Discussions & Peer Sharing Sessions.md
       - Day 4 (20 Sep 2023)/.keep
       - Day 4 (20 Sep 2023)/Travel to Desaru.md
       - Day 4 (20 Sep 2023)/Learning Journeys.md

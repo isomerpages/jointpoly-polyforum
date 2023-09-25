@@ -32,9 +32,3 @@ For highlights of PF 2023, do watch this space for updates!
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>

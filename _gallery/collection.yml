@@ -2,7 +2,6 @@ collections:
   gallery:
     output: true
     order:
-      - Day 1 (15 Sep 2023).md
       - Day 2 (18 Sep 2023)/.keep
       - Day 2 (18 Sep 2023)/Learning Journeys.md
       - Day 2 (18 Sep 2023)/Panel 1.md

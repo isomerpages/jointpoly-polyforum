@@ -29,3 +29,13 @@ third_nav_title: Day 6 (22 Sep 2023)
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

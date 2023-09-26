@@ -4,7 +4,7 @@ permalink: /gallery/day-6/closing-ceremony/
 description: ""
 third_nav_title: Day 6 (22 Sep 2023)
 ---
-### **Day 56/ Non-Residential: 22 Sep 2023 (Friday)**
+### **Day 6/ Non-Residential: 22 Sep 2023 (Friday)**
 <b>Closing Ceremony &amp; Ministerial Dialogue</b>
 <br>
 <br>

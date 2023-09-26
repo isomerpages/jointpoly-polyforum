@@ -8,5 +8,5 @@ third_nav_title: Day 5 (21 Sep 2023)
 <b>Group Photos</b>
 <br>
 <br>
-![](/images/PF%202023/Gallery/img_0524%20copy-edited.jpg)<br><img style="float: left; width: 51.7%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_2563_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
-<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-2-3.jpg?width=320&amp;height=320&amp;fit=bounds">
+![](/images/img_4962%20copy%202.jpg)<br><img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0363_copy_m1BXsUHdWstLN5vpJmw8aR.jpg?width=590&amp;height=590&amp;fit=bounds">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_4968_copy_wom9KE8TvsPT965wAYw8L3.jpg?width=590&amp;height=590&amp;fit=bounds">

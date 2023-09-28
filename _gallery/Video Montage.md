@@ -9,8 +9,6 @@ The theme for PF 2023 – **"Our Green SG”** – invited our students to dream
 
 Be inspired by our students’ journey of sustainability, ideation and friendship through this video montage, documenting the key takeaways of their exciting PF experience!
 
-<video controls="controls" height="500px" width="500px"><source type="https://www.youtube.com/watch?v=G1P6arIh6rw" src="https://www.youtube.com/watch?v=G1P6arIh6rw">
-       </video>
-    
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qsBq_quViSE?si=gBxcZ1woIe6Dxg8E" height="315" width="560"></iframe>
 
 We hope everyone had an insightful, enriching and fruitful experience at **#PolyForum2023**. Till the next edition in 2024!

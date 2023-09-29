@@ -57,7 +57,7 @@ sections:
       title: GALLERY
       subtitle: "#POLYFORUM2023"
       button: VIEW HIGHLIGHTS HERE
-      url: /gallery/day-1
+      url: /gallery/video-montage
       image: /images/PF 2023/Homepage/highlights.jpg
       alt: Image alt text
       description: Document your journey of sustainability, ideation and friendship at

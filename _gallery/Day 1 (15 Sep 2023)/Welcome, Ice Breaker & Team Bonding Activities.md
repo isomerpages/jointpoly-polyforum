@@ -1,0 +1,34 @@
+---
+title: Welcome, Ice Breaker & Team Bonding Activities
+permalink: /gallery/day-1/welcome/
+description: ""
+third_nav_title: Day 1 (15 Sep 2023)
+---
+Capture your exciting journey at the Polytechnic Forum (PF) 2023 through your very own lens!
+
+You are encouraged to snap lots of photos/videos of the events and activities, as well as the discussions, experiences and engagements with the speakers and your fellow participants. Remember to hashtag&nbsp;**#PolyForum2023** to your social media posts too!
+
+For highlights of PF 2023, do watch this space for updates!
+
+<hr>
+
+### **Day 1 / Non-Residential: 15 Sep 2023 (Friday)**
+<b>Welcome, Ice-Breaker Team-Bonding Activities</b>
+<br>
+<br>
+![](/images/PF%202023/Gallery/img_0524%20copy-edited.jpg)<br><img style="float: left; width: 51.7%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_2563_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-2-3.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 51.6%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0506_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-10.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 48.8%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-8.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-9-2.jpg?width=320&amp;height=320&amp;fit=bounds"><a></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

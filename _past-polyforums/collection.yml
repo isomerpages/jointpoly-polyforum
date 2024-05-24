@@ -1,4 +1,5 @@
 collections:
   past-polyforums:
     output: true
-    order: []
+    order:
+      - PolyForum 2023/.keep

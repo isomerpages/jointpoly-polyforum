@@ -121,17 +121,7 @@ in the context of Malaysia.
 </div>
 <p>
 <br>
-<br>
-<br>
 </p>
 </li>
 </ol>
-<p>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
 <p></p>

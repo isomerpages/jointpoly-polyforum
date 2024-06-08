@@ -2,6 +2,7 @@ collections:
   past-polyforums:
     output: true
     order:
+      - PolyForum 2023/Resources.md
       - PolyForum 2023/.keep
       - PolyForum 2023/Overview.md
       - PolyForum 2023/Sub Themes.md

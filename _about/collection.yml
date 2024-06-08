@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chairman's Address.md
-      - Overview.md
       - Sub Themes/.keep
       - Sub Themes/Green Economy.md
       - Sub Themes/Green Resources.md

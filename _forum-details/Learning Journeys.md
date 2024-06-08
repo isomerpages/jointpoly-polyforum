@@ -20,17 +20,10 @@ practices.&nbsp;</p>
 <li>
 <p>Compare local industries’ sustainability measures to international benchmarks
 to enhance Singapore's global sustainability efforts, while promoting economic
-growth and environmental stewardship.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+growth and environmental stewardship.</p>
+<p></p>
 </li>
 </ol>
-<h4></h4>
 <h3><strong>In these Learning Journeys for "Green Resources", you will get to:</strong></h3>
 <ol>
 <li>
@@ -50,7 +43,6 @@ collaborate to drive the nation’s efforts toward sustainability.
 </p>
 </li>
 </ol>
-<h4></h4>
 <h3><strong>In these Learning Journeys for "Sustainable Living", you will get to:</strong></h3>
 <ol>
 <li>
@@ -61,11 +53,6 @@ practices.</p>
 <li>
 <p>Learn how to apply such sustainable living principles in practical ways,
 fostering a mindset of responsible consumption and waste reduction.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 </li>

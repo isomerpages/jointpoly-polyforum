@@ -2,6 +2,7 @@ collections:
   past-polyforums:
     output: true
     order:
+      - PolyForum 2022/Chairman's Address.md
       - PolyForum 2022/Acknowledgements.md
       - PolyForum 2022/.keep
       - PolyForum 2023/.keep

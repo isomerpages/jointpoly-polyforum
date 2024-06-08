@@ -2,7 +2,6 @@ collections:
   forum-details:
     output: true
     order:
-      - Learning Journeys.md
       - Programme/.keep
       - Programme/Day 1  (15 Sep 2023).md
       - Programme/Day 2  (18 Sep 2023).md

@@ -71,4 +71,10 @@ sections:
       url: /acknowledgements/organising-committee/
       image: /images/PF 2023/Homepage/acknowledgements.jpg
       alt: Image alt text
+  - infobar:
+      title: TOTAL DEFENCE
+      subtitle: POLYFORUM 2024
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---

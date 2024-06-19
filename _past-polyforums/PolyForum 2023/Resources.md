@@ -6,7 +6,7 @@ description: ""
 third_nav_title: PolyForum 2023
 ---
 <h3><strong>e_Handbook</strong></h3>
-<p>Download the&nbsp;<strong>Polytechnic Forum (PF) 2023 e-Handbook</strong>&nbsp;
+<p>Download the&nbsp;<strong>Polytechnic Forum (PF) 2023 e-Handbook</strong> 
 <a href="/files/pf%202023%20-%20e-handbook%20(updated%209%20sep).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>The&nbsp;PF 2023 e-Handbook&nbsp;is your handy guide to everything you
 need to know about the event. It contains the programme and line-up of

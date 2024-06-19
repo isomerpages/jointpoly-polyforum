@@ -36,30 +36,37 @@ your social media posts too!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF%202023/Gallery/img_0524%20copy-edited.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 51.7%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_2563_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-2-3.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 51.6%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0506_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-10.jpg?width=320&amp;height=320&amp;fit=bounds">
+</div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 48.8%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-8.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-9-2.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
-<p><strong>Opening Ceremony &amp; Ministerial Dialogue</strong>
+<p>
+<br>
+<br><strong>Opening Ceremony &amp; Ministerial Dialogue</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 33.4%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244293_(1)_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 29.7%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/_RM30505_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 33.5%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244312_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 48.8%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244283_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -77,7 +84,16 @@ your social media posts too!</p>
 <img style="float: left; width: 48.8%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244325_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244340_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244380_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244408_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244403_copy_2.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/P1244268_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -113,10 +129,25 @@ your social media posts too!</p>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-1.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-2.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-3.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-4.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-5.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-6.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Mandai-7.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 46.2%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Siloso-1.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 51.5%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Siloso-3.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -137,6 +168,9 @@ your social media posts too!</p>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/GBTB_Carbon-1.jpeg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/GBTB_Carbon-2.jpeg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/GBTB_Carbon-4.jpeg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
@@ -144,6 +178,12 @@ your social media posts too!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_Depot-1.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_Depot-4.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_Depot-2.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/LTA_Depot-3.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -162,6 +202,9 @@ your social media posts too!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider-5.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Schneider-6.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <p>
 <br>
@@ -182,6 +225,12 @@ your social media posts too!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/CREUSE-1.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/CREUSE-2.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/CREUSE-5.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/CREUSE-4.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -205,12 +254,14 @@ your social media posts too!</p>
 <img style="float: left; width: 45%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Punggol_Eco_Town-2.JPG?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <p>
-<br>
 <br><strong>Learning Journeys (Resilient Future)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-1.jpeg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-5.jpeg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/EGC-4.jpeg?width=590&amp;height=590&amp;fit=bounds">
@@ -230,6 +281,12 @@ your social media posts too!</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-1.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-3.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-12.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-4.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -267,7 +324,9 @@ your social media posts too!</p>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-14.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/Panel_1-16.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
 <h3><br><strong>Day 3 / Non-Residential: 19 Sep 2023 (Tuesday)</strong></h3>
 <p><strong>Learning Journeys (Green Economy)</strong>
 <br>
@@ -279,10 +338,16 @@ your social media posts too!</p>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/313-1_958nTe2H5VpC9tz9QCm57d.JPG?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/313-3_7MLAdHXhpzowLhNiwCH8Mw.JPG?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/313-4.JPG?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 67.8%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0070_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 30.1%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0082_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0093_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
@@ -312,6 +377,9 @@ your social media posts too!</p>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_3900_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_4003_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_3983_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
@@ -326,10 +394,16 @@ your social media posts too!</p>
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_105055.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_102340.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_103027.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_101328.jpg?width=590&amp;height=590&amp;fit=bounds">
+</div>
+<div class="isomer-image-wrapper">
+<img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_102340.jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
 <div class="isomer-image-wrapper">
 <img style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" height="auto" width="100%" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_20230919_110931.jpg?width=590&amp;height=590&amp;fit=bounds">

@@ -77,4 +77,32 @@ sections:
       id: infobar
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: SUBTHEMES
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Find Out more
+      url: /About/
+      alt: Image alt text
+  - textcards:
+      title: EXPLORE
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: Programme Highlights
+          description: Enjoy enriching panel discussions, activities, and sharing at PF
+            2024!
+          linktext: Coming Soon
+          url: ""
+        - title: eHandbook
+          description: Check your sub-groups, forum etiquette, dress code, packing lists,
+            and more!
+          linktext: Coming Soon
+          url: ""
+        - title: Gallery
+          description: Capture your Total Defence journey, ideas, and friendships at PF
+            2024!
+          linktext: Coming Soon
+          url: ""
 ---

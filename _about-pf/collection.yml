@@ -1,0 +1,4 @@
+collections:
+  about-pf:
+    output: true
+    order: []

@@ -2,21 +2,17 @@
 title: Contact Us
 permalink: /contactus/
 description: ""
+variant: tiptap
 ---
-## **Get In Touch With Us!**
-
-
-### **The Polytechnic Forum 2023 is hosted by Temasek Polytechnic.**
-
-**Address:<br>**
-21 Tampines Ave 1<br>
-Singapore 529757
-
-<b>[VIEW MAP](https://www.google.com/maps/place/Temasek+Polytechnic/@1.345185,103.931812,16z/data=!4m6!3m5!1s0x31da3d69fed56771:0x8bf2e2929d84a296!8m2!3d1.345315!4d103.931822!16zL20vMDk4czcz?hl=en-GB&amp;entry=ttu)</b>
-
-### **Contact Us**
-
-**For general enquiries/feedback, please reach us at the following:**
-
-**Hotline:** 6780 5656<br>
-**Email:** [sdaa@tp.edu.sg](sdaa@tp.edu.sg)
+<h2><strong>Get In Touch With Us!</strong></h2>
+<h3><strong>The Polytechnic Forum 2024 is hosted by Nanyang Polytechnic.</strong></h3>
+<p><strong>Address:<br></strong>180 Ang Mo Kio Avenue 8
+<br>Singapore 569830</p>
+<p><strong><a href="https://maps.app.goo.gl/5Rn7WeFZDohgyj6b7" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP</a></strong>
+</p>
+<h3><strong>Contact Us</strong></h3>
+<p><strong>For general enquiries/feedback, please reach us at the following:</strong>
+</p>
+<p><strong>Hotline:</strong> 6780 5656
+<br><strong>Email:</strong>  <a href="sdar_admin@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdar_admin@nyp.edu.sg</a>
+</p>

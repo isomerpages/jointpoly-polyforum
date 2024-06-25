@@ -4,7 +4,7 @@ permalink: /contactus/
 description: ""
 variant: markdown
 ---
-<h2><strong>Get In Touch With Us!</strong></h2>
+<h2><strong><p style="color:red;">Get In Touch With Us!</p></strong></h2>
 <h3><strong>The Polytechnic Forum 2024 is hosted by Nanyang Polytechnic.</strong></h3>
 <p><strong>Address:<br></strong>180 Ang Mo Kio Avenue 8
 <br>Singapore 569830</p>

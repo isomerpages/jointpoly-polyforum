@@ -13,6 +13,6 @@ variant: markdown
 <h3><strong>Contact Us</strong></h3>
 <p><strong>For general enquiries/feedback, please reach us at the following:</strong>
 </p>
-<p><strong>Hotline:</strong> 6780 5656
+<p><strong>Hotline:</strong> 6550 1906
 <br><strong>Email:</strong>  <a href="sdar_admin@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdar_admin@nyp.edu.sg</a>
 </p>

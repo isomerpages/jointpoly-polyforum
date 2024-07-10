@@ -10,19 +10,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: About Polytechnic Forum 2023
-          description: Overview & What's In Store!
-          url: about/overview/
-        - title: Forum Details
-          description: Exciting Lineup of Activities!
-          url: /forum-details/programme/day-1/
-        - title: Resources
-          description: Download the e-Handbook Now!
-          url: /resources/e-handbook/
-        - title: Acknowledgements
-          description: Our Sponsors & Partners!
-          url: /acknowledgements/sponsors/
       background: /images/PF 2023/Homepage/pf-web-homepage_edit-01.jpg
   - infopic:
       subtitle: ANNUAL PROGRAMME

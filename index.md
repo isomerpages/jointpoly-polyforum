@@ -75,8 +75,11 @@ sections:
       title: TOTAL DEFENCE
       subtitle: POLYFORUM 2024
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We
+        Keep Singapore Strong," highlights how we can practice Total Defence in
+        our daily lives.
+      button: Find Out More
+      url: /About/
   - infopic:
       title: SUBTHEMES
       subtitle: Add an image and text

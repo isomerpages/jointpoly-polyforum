@@ -5,7 +5,7 @@ description: The Polytechnic Forum (PF), an initiative which started in 1996,
   aims to provide a platform for polytechnic students to gain a deeper
   understanding of pertinent national issues through peer discussions, learning
   journeys, talks, and engagement with government and industry leaders.
-image: /images/PF 2023/Homepage/pf-colour (transparent background).png
+image: /images/PF 2024/About PF 2024/PF_2024_Logo_Horizontal_Final__Revised___1_.png
 permalink: /
 notification: ""
 sections:

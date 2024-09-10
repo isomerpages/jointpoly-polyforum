@@ -32,7 +32,6 @@ sections:
       image: /images/PF 2024/About PF 2024/td40_landscape.jpg
   - textcards:
       title: EXPLORE
-      subtitle: Add informational text
       id: textcards
       cards:
         - title: Programme Highlights

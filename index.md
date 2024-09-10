@@ -10,7 +10,44 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PF 2023/Homepage/pf-web-homepage_edit-01.jpg
+      background: /images/PF 2024/About PF 2024/PF24_web_banner_v2_01.jpg
+  - infobar:
+      title: TOTAL DEFENCE
+      subtitle: POLYFORUM 2024
+      id: infobar
+      description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We
+        Keep Singapore Strong," highlights how we can practice Total Defence in
+        our daily lives.
+      button: Find Out More
+      url: /About/
+  - infopic:
+      title: SUBTHEMES
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Find Out more
+      url: /About/
+      alt: Image alt text
+  - textcards:
+      title: EXPLORE
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: Programme Highlights
+          description: Enjoy enriching panel discussions, activities, and sharing at PF
+            2024!
+          linktext: Coming Soon
+          url: ""
+        - title: eHandbook
+          description: Check your sub-groups, forum etiquette, dress code, packing lists,
+            and more!
+          linktext: Coming Soon
+          url: ""
+        - title: Gallery
+          description: Capture your Total Defence journey, ideas, and friendships at PF
+            2024!
+          linktext: Coming Soon
+          url: ""
   - infopic:
       subtitle: ANNUAL PROGRAMME
       image: /images/PF 2023/Homepage/about pf 2023.jpg
@@ -58,41 +95,4 @@ sections:
       url: /acknowledgements/organising-committee/
       image: /images/PF 2023/Homepage/acknowledgements.jpg
       alt: Image alt text
-  - infobar:
-      title: TOTAL DEFENCE
-      subtitle: POLYFORUM 2024
-      id: infobar
-      description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We
-        Keep Singapore Strong," highlights how we can practice Total Defence in
-        our daily lives.
-      button: Find Out More
-      url: /About/
-  - infopic:
-      title: SUBTHEMES
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Find Out more
-      url: /About/
-      alt: Image alt text
-  - textcards:
-      title: EXPLORE
-      subtitle: Add informational text
-      id: textcards
-      cards:
-        - title: Programme Highlights
-          description: Enjoy enriching panel discussions, activities, and sharing at PF
-            2024!
-          linktext: Coming Soon
-          url: ""
-        - title: eHandbook
-          description: Check your sub-groups, forum etiquette, dress code, packing lists,
-            and more!
-          linktext: Coming Soon
-          url: ""
-        - title: Gallery
-          description: Capture your Total Defence journey, ideas, and friendships at PF
-            2024!
-          linktext: Coming Soon
-          url: ""
 ---

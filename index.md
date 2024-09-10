@@ -22,12 +22,14 @@ sections:
       url: /About/
   - infopic:
       title: SUBTHEMES
-      subtitle: Add an image and text
+      subtitle: TOTAL DEFENCE
       id: infopic
-      description: Infopic description
+      description: The event will provide students with opportunities to understand
+        the importance of Total Defence in Singapore's evolving context.
       button: Find Out more
       url: /About/
       alt: Image alt text
+      image: /images/PF 2024/About PF 2024/td40_landscape.jpg
   - textcards:
       title: EXPLORE
       subtitle: Add informational text

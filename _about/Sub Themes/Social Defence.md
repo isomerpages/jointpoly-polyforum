@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Sub Themes
 variant: tiptap
 ---
-![](/images/PF%202023/About%20PF%202023/sustainable%20living.jpg)
-<font size="-1">(Image by lifeforstock on Freepik)</font>
-
-The Government’s efforts alone, through policies, are not sufficient for Singapore to achieve the [United Nations’ Sustainable Development Goals](https://sdgs.un.org/goals)&nbsp;net zero by 2050. The choices we make today will either positively or negatively affect Singapore’s&nbsp;social compact.
-
-For instance, taking public transport can help reduce our national carbon footprint. Raising carbon taxes could mean higher electricity bills for households. We are all stakeholders in this collective effort for **Sustainable Living**. How many sustainability habits are you already practising?
-
-**_How prepared are you to play your part to help Singapore achieve sustainable living?_**
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_06.jpg">
+</div>
+<p>Social Defence is about building understanding and trust amongst people
+of all races and religions, and looking out for one another beyond self-interest,
+so that we remain strong and united especially during times of national
+crises.&nbsp;</p>

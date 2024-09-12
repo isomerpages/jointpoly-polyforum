@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - Sub Theme.md
       - Overview.md
       - Chairman's Address.md
+      - Sub Theme.md
       - Sub Themes/.keep
       - Sub Themes/Civil Defence.md
       - Sub Themes/Economic Defence.md

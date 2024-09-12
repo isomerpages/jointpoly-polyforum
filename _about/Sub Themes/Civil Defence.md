@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Sub Themes
 variant: tiptap
 ---
-![](/images/PF%202023/About%20PF%202023/green%20economy.jpg)
-<font size="-1">(Image by victor217 on Freepik)</font>
-
-What exactly is **Green Economy**? In short, it is an economic system that is aimed at reducing environmental risks and ecological scarcities. It also prioritises the use of renewable resources. Transitioning to a green economy is a no-brainer. It helps to protect the environment, mitigate the impact of climate change, and promote the use of resources in a more efficient manner.
-
-So how does it affect you? To start, it promotes job opportunities, decent income and sustainable economic growth. Plus, it can contribute to improved health and overall quality of life. Singapore’s pivot to net zero will entail significant transformation in all facets of daily life, including the economy.
-
-**_Are you ready to be the change you wish to see in the world?_**
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg">
+</div>
+<p>Social Defence is about building understanding and trust amongst people
+of all races and religions, and looking out for one another beyond self-interest,
+so that we remain strong and united especially during times of national
+crises.&nbsp;</p>

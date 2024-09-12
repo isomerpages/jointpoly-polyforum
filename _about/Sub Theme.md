@@ -44,10 +44,9 @@ crises.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_02.jpg">
 </div>
-<p>Social Defence is about building understanding and trust amongst people
-of all races and religions, and looking out for one another beyond self-interest,
-so that we remain strong and united especially during times of national
-crises.&nbsp;
+<p>Psychological Defence is the will to defend our way of life, the resolve
+to stand up for Singapore when our interests are challenged, and the fighting
+spirit to press on and overcome crises together.&nbsp;
 <br>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">

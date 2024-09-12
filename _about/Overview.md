@@ -4,7 +4,7 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<p><strong>BACKGROUND&nbsp;</strong>&nbsp;</p>
+<h4><strong>BACKGROUND&nbsp;</strong>&nbsp;</h4>
 <p>Originated in 1996, the annual Polytechnic Forum provides a platform for
 polytechnic students to gain a deeper understanding of national issues
 through the facilitation of activities and discussions with&nbsp;government
@@ -32,13 +32,11 @@ Action Project where delegates will engage with residents at five community
 venues.&nbsp;</p>
 <p>Polytechnic Forum 2024 is hosted by Nanyang Polytechnic.&nbsp;</p>
 <p></p>
-<p><strong>Main Theme</strong>&nbsp;</p>
+<h4><strong>Main Theme</strong>&nbsp;</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF_2024_Logo_Horizontal_Final__Revised___1_.png">
 </div>
-<p><strong>Total Defence </strong>&nbsp;
-<br>&nbsp;
-<br>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
+<p>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
 first introduced in 1984.&nbsp;The theme for this year’s Total Defence
 campaign - “Together We Keep Singapore Strong” - focuses on the many ways
 we can put Total Defence into action in our everyday lives.&nbsp;</p>

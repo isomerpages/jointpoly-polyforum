@@ -38,7 +38,7 @@ sections:
           description: Enjoy enriching panel discussions, activities, and sharing at PF
             2024!
           linktext: READ MORE >
-          url: /Programme/
+          url: /day-1/
         - title: eHandbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!

@@ -34,7 +34,7 @@ sections:
       title: EXPLORE
       id: textcards
       cards:
-        - title: Programme Highlights
+        - title: Programme Schedule
           description: Enjoy enriching panel discussions, activities, and sharing at PF
             2024!
           linktext: READ MORE >

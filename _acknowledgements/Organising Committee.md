@@ -9,9 +9,8 @@ variant: markdown
 **Organising Chairman:** Dr Lina Chong<br>
 **Deputy Chairman:** Jon Tan, Ms Amy Soon<br>
 **Secretariat:** Ms Koh Yu Shan, Ms Fervyn Kate Tan<br>
-**Chief Facilitator:** Darren Siah, Tan Pang Wei<br>
+**Chief Facilitator:** Tan Pang Wei<br>
 **Deputy Chief Facilitator:** Ms Belinda Loh, Khoo Kiah Hong<br>
-**Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
 
 #### **We extend our heartfelt gratitude to the dedicated Polytechnic colleagues whose invaluable contributions have made PF 2024 a resounding success. Their tireless efforts in planning and organising this event are truly commendable.**
 <br>
@@ -26,28 +25,24 @@ table, th, td {
     <th>Member</th>
     <th>Polytechnic</th>
   </tr>
-  <tr>
-    <td>Lim Wee How</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
-  <tr>
-    <td>Sharan Tamilvaanan</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
 		<tr>
-    <td>Magalachmi Sellaperumal</td>
+    <td>Jan Lee</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
   <tr>
-		<td>Tan-Chen Hui Min</td>
+		<td>Magalachmi Sellaperumal</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
 		<tr>
-			<td>Alexander Sarsito Sia</td>
+			<td>Roy Wong</td>
 			<td>Republic Polytechnic</td>
   </tr>
 		<tr>
 			<td>Tan Kee Chin</td>
+    <td>Republic Polytechnic</td>
+  </tr>
+				<tr>
+			<td>Yap Peng Kee</td>
     <td>Republic Polytechnic</td>
   </tr>
   <tr>
@@ -57,4 +52,17 @@ table, th, td {
   <tr>
 			<td>Jelena Ong</td>
     <td>Singapore Polytechnic</td>
-</tr></tbody></table>
+</tr>
+		  <tr>
+			<td>Johnny Ong</td>
+    <td>Singapore Polytechnic</td>
+</tr>
+	  <tr>
+    <td>Farhan Bin Kamis</td>
+    <td>Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td>Zara Choo</td>
+    <td>Temasek Polytechnic</td>
+  </tr>
+	</tbody></table>

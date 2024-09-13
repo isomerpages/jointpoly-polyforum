@@ -27,7 +27,7 @@ sections:
       description: The event will provide students with opportunities to understand
         the importance of Total Defence in Singapore's evolving context.
       button: Find Out more
-      url: /sub-themes/civil-defence/
+      url: /about/sub-themes/civil-defence/
       alt: Image alt text
       image: /images/PF 2024/About PF 2024/td40_landscape.jpg
   - textcards:

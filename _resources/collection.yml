@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - PF 2023 eHandbook.md
+      - PF 2024 eHandbook.md
       - Reference Materials.md

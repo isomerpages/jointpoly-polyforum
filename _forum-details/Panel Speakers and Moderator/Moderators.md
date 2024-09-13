@@ -35,6 +35,30 @@ programmes on digital governance, capacity building and partnerships.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Lionel Teo</strong>
+</p>
+<p><strong>Course Manager, Senior Lecturer</strong>
+</p>
+<p><strong>School of Business Management</strong>
+</p>
+<p><strong>Nanyang Polytechnic</strong>
+<br>
+</p>
+<p>Lionel is a Course Manager and Senior Lecturer at the NYP School of Business
+Management. As Section Head, he oversees the continuous review of curriculum
+and academic components for the Diploma in Sport &amp; Wellness Management
+and the Specialist Diploma in Sport Management &amp; Marketing programmes.
+Prior to joining NYP, Lionel had worked as a Guards Officer in the SAF,
+holding Platoon Commander, Support Company and Company 2IC positions at
+various combat units where he accumulated extensive military and executive
+management experience.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

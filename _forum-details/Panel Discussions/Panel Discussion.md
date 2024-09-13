@@ -38,6 +38,9 @@ and productive employment for all.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/jason_tan.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Mr. Jason Tan</strong>
@@ -57,6 +60,9 @@ the National Volunteer and Philanthropy Centre.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/sltc_psalm_lew.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SLTC Psalm Lew</strong>
@@ -80,6 +86,9 @@ National Service Battalion from 2009 to 2015.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/tan_ern_ser.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A/P Tan Ern Ser</strong>
@@ -107,6 +116,9 @@ the Social Science Core, SUSS. He was appointed a Justice of the Peace
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/vvs_ncs_sam_liew.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sam Liew</strong>
@@ -129,6 +141,9 @@ Member on Singapore’s IT Standards Committee.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/marcus_loh.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Marcus Loh</strong>

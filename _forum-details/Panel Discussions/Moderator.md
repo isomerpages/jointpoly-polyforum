@@ -16,7 +16,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/jasmine_melody_ong.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/jasmine_melody_ong.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">

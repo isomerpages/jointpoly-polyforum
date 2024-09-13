@@ -13,7 +13,7 @@ variant: markdown
 **Deputy Chief Facilitator:** Ms Belinda Loh, Khoo Kiah Hong<br>
 **Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
 
-#### **We would like to express our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of PF 2023.**
+#### **We extend our heartfelt gratitude to the dedicated Polytechnic colleagues whose invaluable contributions have made PF 2024 a resounding success. Their tireless efforts in planning and organising this event are truly commendable.**
 <br>
 <style>
 table, th, td {

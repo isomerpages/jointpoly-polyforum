@@ -14,8 +14,8 @@ collections:
       - Panel Speakers and Moderator/.keep
       - Panel Speakers and Moderator/Panel Speakers.md
       - Panel Speakers and Moderator/Moderator.md
-      - Learning Journeys   to remove/.keep
-      - Learning Journeys   to remove/Green Economy.md
-      - Learning Journeys   to remove/Green Resources.md
-      - Learning Journeys   to remove/Sustainable Living.md
-      - Learning Journeys   to remove/Resilient Future.md
+      - Learning Journeys/.keep
+      - Learning Journeys/Green Economy.md
+      - Learning Journeys/Green Resources.md
+      - Learning Journeys/Sustainable Living.md
+      - Learning Journeys/Resilient Future.md

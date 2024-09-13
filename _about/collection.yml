@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Example Title.md
       - Overview.md
+      - Example Title.md
       - Sub Theme.md
       - Sub Themes/.keep
       - Sub Themes/Civil Defence.md

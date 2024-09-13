@@ -19,7 +19,7 @@ sections:
         Keep Singapore Strong," highlights how we can practice Total Defence in
         our daily lives.
       button: Find Out More
-      url: /About/Overview
+      url: /Overview
   - infopic:
       title: SUBTHEMES
       subtitle: TOTAL DEFENCE
@@ -27,7 +27,7 @@ sections:
       description: The event will provide students with opportunities to understand
         the importance of Total Defence in Singapore's evolving context.
       button: Find Out more
-      url: /About/Sub Themes
+      url: /Sub Themes
       alt: Image alt text
       image: /images/PF 2024/About PF 2024/td40_landscape.jpg
   - textcards:

@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>BACKGROUND&nbsp;</strong>&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/nyp_cover_pic.jpg">
+</div>
 <p>Originated in 1996, the annual Polytechnic Forum provides a platform for
 polytechnic students to gain a deeper understanding of national issues
 through the facilitation of activities and discussions with&nbsp;government

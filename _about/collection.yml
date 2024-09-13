@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Example Title.md
       - Sub Themes/.keep
       - Sub Themes/Civil Defence.md
       - Sub Themes/Economic Defence.md

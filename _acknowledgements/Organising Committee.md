@@ -2,20 +2,15 @@
 title: Organising Committee
 permalink: /acknowledgements/organising-committee/
 description: ""
+variant: markdown
 ---
-#### **The Polytechnic Forum (PF) 2023 is organised as part of:**
+#### **PF 2024 is hosted by Nanyang Polytechnic.**
 
-<a href="https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes"><img style="float: left; width: 22%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SYLP_Colored-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
-<br>
-<br>
-#### **PF 2023 is hosted by Temasek Polytechnic.**
-
-**Chair:** Paul Yap<br>
-**Deputy Chair:** Desmond Lim<br>
-**Assistant Deputy Chair:** Pang Seng Hui<br>
-**Secretariat:** Simon Chew, Farhan Bin Kamis<br>
-**Chief Facilitator:** Lynn Ng<br>
-**Deputy Chief Facilitator:** Hernieyati Mamat, Eric Quek<br>
+**Organising Chairman:** Dr Lina Chong<br>
+**Deputy Chairman:** Jon Tan, Ms Amy Soon<br>
+**Secretariat:** Ms Koh Yu Shan, Ms Fervyn Kate Tan<br>
+**Chief Facilitator:** Darren Siah, Tan Pang Wei<br>
+**Deputy Chief Facilitator:** Ms Belinda Loh, Khoo Kiah Hong<br>
 **Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
 
 #### **We would like to express our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of PF 2023.**

@@ -22,7 +22,7 @@ variant: markdown
 </div>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr. Jason Tan</strong>
+	<p><strong>Mr. Jason Tan</strong>
 <br><strong>Senior Director, Strategic Planning and Finance</strong>
 <br><strong>Toteboard</strong>
 <br>

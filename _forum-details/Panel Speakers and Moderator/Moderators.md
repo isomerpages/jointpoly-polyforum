@@ -3,9 +3,9 @@ title: Moderators
 permalink: /forum-details/panel-discussions/moderators/
 description: ""
 third_nav_title: Panel Speakers and Moderator
-variant: markdown
+variant: tiptap
 ---
-<h3><strong>Moderator<br></strong></h3>
+<h3><strong>Moderators<br></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,13 +40,10 @@ programmes on digital governance, capacity building and partnerships.</p>
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Lionel Teo</strong>
-</p>
-<p><strong>Course Manager, Senior Lecturer</strong>
-</p>
-<p><strong>School of Business Management</strong>
-</p>
-<p><strong>Nanyang Polytechnic</strong>
+<p><strong>Mr Lionel Teo</strong>
+<br><strong>Course Manager, Senior Lecturer</strong>
+<br><strong>School of Business Management</strong>
+<br><strong>Nanyang Polytechnic</strong>
 <br>
 </p>
 <p>Lionel is a Course Manager and Senior Lecturer at the NYP School of Business
@@ -61,5 +58,4 @@ management experience.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>

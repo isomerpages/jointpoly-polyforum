@@ -4,7 +4,16 @@ permalink: /programme/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Total Defence Quest</strong><br></h4>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Total Defence Quest</strong></h4>
+<p></p>
 <p>All participants will go through a unique activity on Day 1 of the forum
 in an “Amazing Race” format, where teams of will travel on foot to landmarks
 and historical points of interest in Singapore to re-learn about the TD
@@ -13,7 +22,13 @@ role each citizen must play to maintain our nation’s peace and sovereignty.
 The participants will also get to taste and consume Field Rations as part
 of the activities prior to the Race.&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<h4><strong>Army Camp Experience</strong><br></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>Army Camp Experience</strong></h4>
+<p></p>
 <p>In partnership with MINDEF, participants will visit Seletar Camp, where
 they will have the opportunity to go through interactive activities to
 have a more tangible and hands on experience in the domain of Military
@@ -22,7 +37,13 @@ of Military Defence in keeping Singapore strong, secure, and peaceful,
 and how communities can support this pillar. Activities include equipment
 demonstrations, army vehicle experiences and equipment try-outs.&nbsp;</p>
 <p></p>
-<h4><strong>Total Defence Table-Top-Exercise (TTX) and Sandbox with NEXUS</strong><br></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>Total Defence Table-Top-Exercise (TTX) and Sandbox with NEXUS</strong></h4>
+<p></p>
 <p>Participants will go through a Total Defence TTX led by our partners from
 Nexus and Polytechnic Forum staff facilitators to encourage discussion
 among participants on how they can be ready and prepared for crises and
@@ -44,12 +65,17 @@ in SudoX’s quiz on scam detection&nbsp;</p>
 <li>
 <p>TD Foam Blasters Challenge – demo/showcase of TD Foam Blasters Challenge
 by UTSG where participants can try the Nerf Guns and interact with the
-game’s TD pillar elements&nbsp;
-<br>
-</p>
+game’s TD pillar elements&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<h4><strong>Learning Journeys</strong><br></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>Learning Journeys</strong></h4>
+<p></p>
 <p>Participants will have the opportunity to go on learning journeys to organisations
 and locations relevant to their respective sub-themes to allow them to
 experience first-hand how organisations and activities on the ground contribute
@@ -140,6 +166,11 @@ WWII&nbsp;</p>
 </li>
 </ul>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <h4><strong>Community Action Project</strong></h4>
 <p></p>
 <p>Student delegates will be heading out to community spaces to engage residents
@@ -167,4 +198,9 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website.
 <p>Pasir Ris East CC&nbsp;– Psychological Defence</p>
 </li>
 </ul>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

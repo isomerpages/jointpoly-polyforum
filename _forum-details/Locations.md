@@ -9,7 +9,7 @@ variant: tiptap
 step-by-step instructions on how to reach NYP using public transportation
 or by car.</p>
 <p>For locations of the various onsite/offsite activities, please download
-the&nbsp;<strong>PF 2024 e-Handbook</strong>  <em>[here]</em>.</p>
+the&nbsp;<strong>PF 2024 e-Handbook</strong>  <em>[coming soon]</em>.</p>
 <h4><strong>By Public Transportation:</strong></h4>
 <p><strong>1. MRT:</strong>
 </p>

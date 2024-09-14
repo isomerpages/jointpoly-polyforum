@@ -29,28 +29,13 @@ variant: tiptap
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/our-network/our-tampines-hub/our-tampines-hub/"><img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/OTH_Logo.jpg"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/"><img style="float: left; width: 35%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/PA.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 35%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/PA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.safra.sg/"><img style="float: left; width: 23%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SAFRA_logo.jpg"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.scdf.gov.sg/"><img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SCDF_logo.jpg"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 23%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SAFRA_logo.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.toteboard.gov.sg/"><img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/Tote_Board.jpg"></a>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SCDF_logo.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/Tote_Board.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/Wisma_Geylang_Serai.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/our-network/wisma-geylang-serai/about-us/"><img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/Wisma_Geylang_Serai.jpg"></a>
 <p></p>

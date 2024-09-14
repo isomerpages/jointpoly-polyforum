@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/nyp_facade.jpg">
+</div>
 <p>Welcome to Nanyang Polytechnic (NYP)! This guide will provide you with
 step-by-step instructions on how to reach NYP using public transportation
 or by car.</p>
@@ -65,6 +68,9 @@ suggested routes.</p>
 <p>For detailed information on visiting NYP, including accessibility options,
 campus tours, and visitor parking guidelines, please visit this <a href="https://www.nyp.edu.sg/visit" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/nyp_campus_map.jpg">
+</div>
 <h4><strong>Additional Tips:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

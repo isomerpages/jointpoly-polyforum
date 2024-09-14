@@ -120,8 +120,8 @@ table, th, td {
 		<td>Facilitator</td>
 				</tr>
   <tr>
-      <td>Tan Shuen Shuen Viola/td&gt;
-    </td><td>Singapore Polytechnic</td>
+      <td>Tan Shuen Shuen Viola</td>
+		<td>Singapore Polytechnic</td>
 		<td>Facilitator</td>
 				</tr>
   <tr>

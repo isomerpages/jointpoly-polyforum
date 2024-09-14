@@ -4,7 +4,7 @@ permalink: /acknowledgements/partners/
 description: ""
 variant: tiptap
 ---
-<h4><strong>We would like to express our deepest gratitude to our generous partners whose support has been instrumental in making the Polytechnic Forum 2024 a reality. Their contributions have been invaluable.</strong></h4>
+<h4><strong>We want to express our deepest gratitude to our generous partners whose support has made the Polytechnic Forum 2024 a reality. Their contributions have been invaluable.</strong></h4>
 <p>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.csit.gov.sg/"><img style="float: left; width: 27%; margin-right: 5%; margin-top: 2%; margin-bottom: 0.5em;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/CSIT_Logo.jpg"></a>

@@ -4,9 +4,9 @@ collections:
     order:
       - Overview.md
       - Sub Themes/.keep
+      - Sub Themes/Military Defence.md
       - Sub Themes/Civil Defence.md
       - Sub Themes/Economic Defence.md
       - Sub Themes/Social Defence.md
       - Sub Themes/Digital Defence.md
       - Sub Themes/Psychological Defence.md
-      - Sub Themes/Military Defence.md

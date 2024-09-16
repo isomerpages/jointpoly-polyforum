@@ -12,7 +12,7 @@ sections:
   - hero:
       background: /images/PF 2024/About PF 2024/PF24_web_banner_v2_01.jpg
   - infobar:
-      title: TOTAL DEFENCE
+      title: __TOTAL DEFENCE__
       subtitle: POLYFORUM 2024
       id: infobar
       description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We

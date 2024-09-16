@@ -12,4 +12,4 @@ variant: tiptap
 <p>Social Defence is about building understanding and trust amongst people
 of all races and religions, and looking out for one another beyond self-interest,
 so that we remain strong and united especially during times of national
-crises.&nbsp;</p>
+crises.</p>

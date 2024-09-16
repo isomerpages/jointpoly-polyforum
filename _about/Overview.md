@@ -17,26 +17,22 @@ through the facilitation of activities and discussions with&nbsp;government
 and industry leaders. It is hoped that the participants would embrace their
 role as young Singaporeans as they glean meaningful insights from the discussions
 and propose ideas on how youths can help shape the Singapore of the future.&nbsp;</p>
-<p>Using the familiar device of the speech bubble to communicate the purpose
-of the forum, the logo builds upon the initials, P and F to create a monogram
-that is easily identifiable, and as memorable as Polytechnic Forum. The
-letterforms have been stylised to accommodate the speech bubbles in the
-negative spaces of P and F, retaining legibility and at the same time creating
-a distinct visual language.&nbsp;&nbsp;</p>
-<p>Jointly organised by the five polytechnics in Singapore, this year’s main
-sponsor is Tote Board.&nbsp;The pre-forum will take place from 25 to 27
-September.&nbsp;The participants will continue to engage with the issues
-during the residential programme from the 30 September to 2 October that
-will be held at D Resort @ Downtown East.&nbsp;&nbsp;</p>
-<p>Highlights of the six-day long forum activities include: a Total Defence
-Quest where participants will learn more about the importance of each Defence
-pillar through games and exploration activities at external venues, a Table-Top
-Exercise, a visit to an army camp, tasting of food ration, a panel discussion
-with distinguished speakers, dialogues with government officials, learning
-journeys, peer sharing, bonding through social activities and a community
-action project where delegates will engage with residents at five community
-venues.&nbsp;</p>
-<p>Polytechnic Forum 2024 is hosted by Nanyang Polytechnic.&nbsp;</p>
+<p>Nanyang Polytechnic is hosting this year’s Polytechnic Forum with the
+theme: Total Defence, in conjunction with 40 years of Total Defence (TD40)
+in Singapore. A total of 500 polytechnic students will converge over six
+days from Sep 25 to 27 and Sep 30 to Oct 2. Highlights of the six-day long
+forum activities include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Total Defence Quest where participants will learn more about the importance
+of each Defence pillar through games and exploration activities at external
+venues, a Table-Top Exercise, a visit to an army camp, tasting of food
+ration, a panel discussion with distinguished speakers, dialogues with
+government officials, learning journeys, peer sharing, bonding through
+social activities and a community action project where delegates will engage
+with residents at five community venues.</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Main Theme</strong>&nbsp;</h4>
 <p></p>

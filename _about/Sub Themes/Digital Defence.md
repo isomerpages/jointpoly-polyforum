@@ -11,4 +11,4 @@ variant: tiptap
 </div>
 <p>Digital Defence is the ability to protect ourselves online so that we
 remain resilient and cohesive as a nation as we progress towards the digital
-future together.&nbsp;</p>
+future together.</p>

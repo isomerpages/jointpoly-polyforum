@@ -29,10 +29,10 @@ will be held at D Resort @ Downtown East.&nbsp;&nbsp;</p>
 <p>Highlights of the six-day long forum activities include: a Total Defence
 Quest where participants will learn more about the importance of each Defence
 pillar through games and exploration activities at external venues, a Table-Top
-Exercise, a visit to an Army Camp, tasting of Food Ration, a Panel Discussion
-with distinguished speakers, Dialogues with Government officials, Learning
-Journeys, Peer Sharing, bonding through social activities and a Community
-Action Project where delegates will engage with residents at five community
+Exercise, a visit to an army camp, tasting of food ration, a panel discussion
+with distinguished speakers, dialogues with government officials, learning
+journeys, peer sharing, bonding through social activities and a community
+action project where delegates will engage with residents at five community
 venues.&nbsp;</p>
 <p>Polytechnic Forum 2024 is hosted by Nanyang Polytechnic.&nbsp;</p>
 <p></p>

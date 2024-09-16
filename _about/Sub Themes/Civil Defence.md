@@ -10,4 +10,4 @@ image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg">
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+<p>Civil Defence is about being alert to signs of threats and being effective first responders when a crisis occurs, helping one another regardless of race, religion or background, so that we can bounce back quickly as one people, and life may go on as normally as possible.</p>

@@ -49,4 +49,5 @@ sections:
             2024!
           linktext: Coming Soon
           url: ""
+      description: For Delegates
 ---

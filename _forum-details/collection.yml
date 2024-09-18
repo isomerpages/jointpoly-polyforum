@@ -2,7 +2,7 @@ collections:
   forum-details:
     output: true
     order:
-      - Programme.md
+      - Programme Highlight.md
       - Schedule/.keep
       - Schedule/Day 1  (25 Sep 2024).md
       - Schedule/Day 2  (26 Sep 2024).md

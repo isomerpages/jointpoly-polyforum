@@ -1,5 +1,5 @@
 collections:
-  past-polyforums:
+  past-polytechnic-forums:
     output: true
     order:
       - Polytechnic Forum 2023/.keep

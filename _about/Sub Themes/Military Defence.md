@@ -9,7 +9,14 @@ third_nav_title: Sub Themes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_03.jpg">
 </div>
-<p>Military Defence means having a strong and credible SAF to deter aggression
-and protect the country. As National Service is core to the SAF, the support
-of individual servicemen, families, employers and the community is also
-crucial for a strong Military Defence.</p>
+<p>For a small country like Singapore, Military Defence is about building
+a strong and formidable defence force that makes potential aggressors think
+twice before attacking us. Effective deterrence is key in keeping Singapore
+secure.</p>
+<p></p>
+<p>And if that fails, we must be able to defend ourselves when attacked.
+The Singapore Armed Forces (SAF) depends on National Servicemen to augment
+its standing force of Regulars. Thus, the support of their families, employers,
+and the community is crucial to keep the SAF operationally ready. When
+the entire nation rallies behind the SAF, it gives strength to the nation
+and provides the security and peace we enjoy.</p>

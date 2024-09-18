@@ -14,14 +14,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>Total Defence Quest</strong></h4>
 <p></p>
-<p></p>
-<p>All participants will go through a unique activity on Day 1 of the forum
-in an “Amazing Race” format, where teams of will travel on foot to landmarks
-and historical points of interest in Singapore to re-learn about the TD
-Pillars and take part in activities that help them better understand the
-role each citizen must play to maintain our nation’s peace and sovereignty.
-The participants will also get to taste and consume Field Rations as part
-of the activities prior to the Race.&nbsp;&nbsp;&nbsp;</p>
+<p>Kick off Day 1 of the forum with an exciting activity in an “Amazing Race”
+format, where teams of will travel on foot to landmarks and historical
+points of interest in Singapore to learn about the TD Pillars and take
+part in activities that help them better understand the role each citizen
+must play to maintain our nation’s peace and sovereignty. Participants
+will also get to taste and consume Field Rations as part of the activities!&nbsp;&nbsp;</p>
 <p></p>
 </td>
 </tr>
@@ -30,14 +28,13 @@ of the activities prior to the Race.&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <h4><strong>Army Camp Experience</strong></h4>
 <p></p>
-<p></p>
-<p>In partnership with MINDEF, participants will visit Seletar Camp, where
-they will have the opportunity to go through interactive activities to
-have a more tangible and hands on experience in the domain of Military
-Defence. The programme hopes to foster better understanding of the importance
-of Military Defence in keeping Singapore strong, secure, and peaceful,
-and how communities can support this pillar. Activities include equipment
-demonstrations, army vehicle experiences and equipment try-outs.&nbsp;</p>
+<p>In partnership with MINDEF, participants will get an exclusive visit to
+Seletar Camp, where you will have the opportunity to go through interactive
+activities to have a more tangible and hands on experience in the domain
+of Military Defence. The programme hopes to foster better understanding
+of the importance of Military Defence in keeping Singapore strong, secure,
+and peaceful, and how communities can support this pillar. Activities include
+equipment demonstrations, army vehicle experiences and equipment try-outs!</p>
 <p></p>
 </td>
 </tr>
@@ -46,128 +43,35 @@ demonstrations, army vehicle experiences and equipment try-outs.&nbsp;</p>
 <p></p>
 <h4><strong>Total Defence Table-Top-Exercise (TTX) and Sandbox with NEXUS</strong></h4>
 <p></p>
-<p>Participants will go through a Total Defence TTX led by our partners from
-Nexus and Polytechnic Forum staff facilitators to encourage discussion
-among participants on how they can be ready and prepared for crises and
-disruptions.&nbsp;</p>
+<p>Go through a Total Defence TTX led by our partners from Nexus and our
+Polytechnic Forum facilitators and engage in discussions on how you and
+your community can be ready and prepared for crises and disruptions.&nbsp;</p>
 <p></p>
-<p>Sandbox booths - participants will visit partner booths and take part
-in interactive activities:&nbsp;</p>
-<ul>
+<p>Other Interactive activities:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guardians of the City! Total Defence Card Game – Challenge a partner in
+this strategy card game designed to allow participants develop a deeper
+understanding of Singapore’s security threats and the part we play in keeping
+Singapore safe and secure.&nbsp;</p>
+</li>
 <li>
 <p>TD@Singverse – demo/showcase of TD@Singverse by Finute where participants
 can try out the Roblox metaverse and engage its TD-related activities on
 their phones&nbsp;</p>
 </li>
 <li>
-<p>TD ScamGuard – Demo/showcase of TD ScamGuard Discord platform by SudoX
+<p>TD ScamGuard – demo/showcase of TD ScamGuard Discord platform by SudoX
 where participants can try out/join the platform on their phones and engage
 in SudoX’s quiz on scam detection&nbsp;</p>
 </li>
 <li>
 <p>TD Foam Blasters Challenge – demo/showcase of TD Foam Blasters Challenge
-by UTSG where participants can try the Nerf Guns and interact with the
-game’s TD pillar elements&nbsp;</p>
+by Urban Tactical SG</p>
 <p></p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<h4><strong>Learning Journeys</strong></h4>
-<p></p>
-<p>Participants will have the opportunity to go on learning journeys to organisations
-and locations relevant to their respective sub-themes to allow them to
-experience first-hand how organisations and activities on the ground contribute
-to Singapore’s Total Defence.&nbsp;</p>
-<p></p>
-<h4><strong>Learning Journeys include:&nbsp;&nbsp;</strong></h4>
-<p></p>
-<p><strong><u>1. SCDF Fire Stations (Civil Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Visit to Punggol Fire Station and Tampines Fire Station to learn about
-Responder Plus Programme&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with Officers&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>2. Maritime &amp; Port Authority of Singapore (Economic Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Visit to Singapore Maritime Gallery to explore Singapore’s rich maritime
-heritage and how Singapore maintains her position as a global hub port
-and leading international maritime centre&nbsp;</p>
-</li>
-<li>
-<p>Visit to Port Operations Control Centre (POCC) to observe in real life
-how the port is run smoothly and safely around the clock&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>3. Nippon Koi Farm (Economic Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Tour of farm with focus on sustainability and “30 by 30” narratives&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with farm owner&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>4. Harmony in Diversity Gallery (Social Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Visit to the Harmony in Diversity Gallery&nbsp;</p>
-</li>
-<li>
-<p>Guided walking tour to historical sites of interest in the vicinity&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with representatives from IRO.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>5. Centre for Strategic InfoComm Technologies (Digital Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Programme T.B.C.&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>6. ISD Heritage Centre (Psychological Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Tour of the JI/ISIS, Hijacks and Communalism galleries&nbsp;</p>
-</li>
-<li>
-<p>Talk on Online Radicalisation by Security Outreach Unit&nbsp;&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>7. Battlebox (Psychological Defence)</u></strong>
-</p>
-<ul>
-<li>
-<p>Tour of Battlebox, a WWII bunker and historical site to learn about the
-historical facts of pivotal events that led to the British surrender during
-WWII&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with the curator of Battlebox, historian Tan Teng Teng&nbsp;</p>
-</li>
-</ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -205,6 +109,220 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website.
 </li>
 </ul>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>Learning Journeys</strong></h4>
+<p></p>
+<p>Participants will have the opportunity to go on learning journeys to organisations
+and locations relevant to their respective sub-themes to allow them to
+experience first-hand how organisations and activities on the ground contribute
+to Singapore’s Total Defence.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Civil Defence</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Singapore Civil Defence Force (SCDF) Fire Stations&nbsp;</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will have the opportunity to explore the part SCDF plays
+in Singapore’s emergency preparedness and recovery from emergencies.&nbsp;</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Punggol Fire Station and Tampines Fire Station to learn about
+Responder Plus Programme&nbsp;</p>
+</li>
+<li>
+<p>Dialogue session with Officers&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Economic Defence</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Maritime &amp; Port Authority of Singapore</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will have the opportunity to get an exclusive look into Singapore’s
+cutting-edge maritime industry, explore it’s potential, possibilities and
+how it impacts Singapore’s economy.&nbsp;</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Singapore Maritime Gallery to explore Singapore’s rich maritime
+heritage and how Singapore maintains her position as a global hub port
+and leading international maritime centre&nbsp;</p>
+</li>
+<li>
+<p>Visit to Port Operations Control Centre (POCC) to observe in real life
+how the port is run smoothly and safely around the clock&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Nippon Koi Farm</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>The learning journey will focus on sustainability and “30 by 30” narratives,
+with the farm diversifying into aquaponics and food fish. Participants
+will get to see first-hand the challenges of running a farm in and how
+it impacts food security in Singapore.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tour of farm and presentations by domain experts</p>
+</li>
+<li>
+<p>Dialogue session with farm owner</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Social Defence</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Harmony in Diversity Gallery</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will get to understand more about religious harmony issues
+in Singapore, experience actual historical sites where incidents happened
+and obtain better perspective though dialogue on how these impact Singapore’s
+Social Defence.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to the Harmony in Diversity Gallery&nbsp;</p>
+</li>
+<li>
+<p>Guided walking tour to historical sites of interest</p>
+</li>
+<li>
+<p>Dialogue session with representatives from Inter-Religious Organisation
+Singapore</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Digital Defence</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Centre for Strategic InfoComm Technologies (CSIT)</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will get to understand how CSIT, a technical agency in the
+Ministry of Defence, harnesses cutting-edge&nbsp;digital technologies to
+meet Singapore’s security needs and how it contributes to the nation’s
+Digital Defence.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guided tour of premises</p>
+</li>
+<li>
+<p>Dialogue session with experts</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Psychological Defence</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Internal Security Department (ISD) Heritage Centre</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>Through understanding Singapore’s historical crises and real case studies,
+we hope participants will develop clarity on the importance of the resolve
+to stand up for Singapore when pressured by forces that undermine our national
+interests, and the fighting spirit to press on and overcome crises together.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tour of the JI/ISIS, Hijacks and Communalism galleries&nbsp;</p>
+</li>
+<li>
+<p>Talk on Online Radicalisation by Security Outreach Unit&nbsp;&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Battlebox</strong>
+</p>
+<p></p>
+<p><u>Rationale:</u>
+</p>
+<p>The participants will have the opportunity to experience the actual World
+War II bunker where the British made key decisions resulting in the surrender
+of Singapore to the Japanese. Through this historical context, we hope
+to develop understanding among participants of what is at stake and what
+we must do to ensure our continued security, survival, and success.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tour of Battlebox, a WWII bunker and historical site</p>
+</li>
+<li>
+<p>Dialogue session with historian and curator of Battlebox</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

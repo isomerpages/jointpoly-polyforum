@@ -13,7 +13,7 @@ locations:
     title: "Host:"
 contacts:
   - content:
-      - phone: +65 6780 5656
+      - phone: +65 6550 1906
       - email: sdar_admin@nyp.edu.sg
       - other: ""
     title: General Enquiries & Feedback

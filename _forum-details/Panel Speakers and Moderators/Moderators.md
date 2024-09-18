@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Panel Speakers and Moderators
 variant: tiptap
 ---
-<h3><strong>Moderators<br></strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

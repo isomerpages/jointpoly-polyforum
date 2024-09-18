@@ -12,4 +12,13 @@ variant: tiptap
 <p>Social Defence is about building understanding and trust amongst people
 of all races and religions, and looking out for one another beyond self-interest,
 so that we remain strong and united especially during times of national
-crises.</p>
+crises.In a multiracial, multi-religious and multi-cultural society like
+Singapore, peace and progress is possible only if Singaporeans of all races
+and religions live together in harmony. Social Defence is about building
+understanding and trust amongst people of all races and religions, and
+looking out for one another beyond self-interest, so that we remain strong
+and united especially during times of national crises.</p>
+<p></p>
+<p>It requires constant effort to build this trust among different communities
+and to ensure that potential sources of misunderstanding and insensitivity
+are nipped in the bud quickly.</p>

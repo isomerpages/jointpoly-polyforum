@@ -29,7 +29,7 @@ sections:
       button: Find Out more
       url: /about/sub-themes/civil-defence/
       alt: Image alt text
-      image: /images/PF 2024/About PF 2024/td40_landscape.jpg
+      image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_sub1.jpg
   - textcards:
       title: EXPLORE
       id: textcards

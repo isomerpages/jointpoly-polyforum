@@ -14,7 +14,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

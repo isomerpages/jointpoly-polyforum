@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Panel Speakers and Moderators
 variant: markdown
 ---
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,7 +48,7 @@ the National Volunteer and Philanthropy Centre.</p>
 </p>
 <p>Senior Lieutenant Colonel (SLTC) Psalm Lew is the Director for Community
 Engagement from Nexus MINDEF which oversees all partnership and engagement
-efforts related to Total Defence in Singapore. ​
+efforts related to Total Defence in Singapore. 
 <br>
 </p>
 <p>SLTC Lew is also the Head of the Secretariat for the Advisory Council

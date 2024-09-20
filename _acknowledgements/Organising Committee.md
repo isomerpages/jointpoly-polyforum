@@ -26,7 +26,7 @@ table, th, td {
     <th>Polytechnic</th>
   </tr>
 		<tr>
-    <td>Ms Jan Lee</td>
+    <td>Mr Jan Lee</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
   <tr>

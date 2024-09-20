@@ -7,10 +7,10 @@ variant: markdown
 #### **PF 2024 is hosted by Nanyang Polytechnic.**
 
 **Organising Chairman:** Dr Lina Chong<br>
-**Deputy Chairman:** Jon Tan, Ms Amy Soon<br>
-**Secretariat:** Ms Koh Yu Shan, Ms Fervyn Kate Tan<br>
-**Chief Facilitator:** Tan Pang Wei<br>
-**Deputy Chief Facilitator:** Ms Belinda Loh, Khoo Kiah Hong<br>
+**Deputy Chairman:** Mr Jon Tan, Ms Amy Soon<br>
+**Secretariat:** Ms Amelia Lee, Ms Koh Yu Shan, Ms Fervyn Kate Tan<br>
+**Chief Facilitator:** Mr Tan Pang Wei<br>
+**Deputy Chief Facilitator:** Ms Belinda Loh, Mr Khoo Kiah Hong<br>
 
 #### **We extend our heartfelt gratitude to the dedicated Polytechnic colleagues whose invaluable contributions have made PF 2024 a resounding success. Their tireless efforts in planning and organising this event are truly commendable.**
 <br>
@@ -26,43 +26,43 @@ table, th, td {
     <th>Polytechnic</th>
   </tr>
 		<tr>
-    <td>Jan Lee</td>
+    <td>Ms Jan Lee</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
   <tr>
-		<td>Magalachmi Sellaperumal</td>
+		<td>Ms Magalachmi Sellaperumal</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
 		<tr>
-			<td>Roy Wong</td>
+			<td>Mr Roy Wong</td>
 			<td>Republic Polytechnic</td>
   </tr>
 		<tr>
-			<td>Tan Kee Chin</td>
+			<td>Mr Tan Kee Chin</td>
     <td>Republic Polytechnic</td>
   </tr>
 				<tr>
-			<td>Yap Peng Kee</td>
+			<td>Mr Yap Peng Kee</td>
     <td>Republic Polytechnic</td>
   </tr>
   <tr>
-		<td>Hope Lee</td>
+		<td>Ms Hope Lee</td>
     <td>Singapore Polytechnic</td>
   </tr>
   <tr>
-			<td>Jelena Ong</td>
+			<td>Ms Jelena Ong</td>
     <td>Singapore Polytechnic</td>
 </tr>
 		  <tr>
-			<td>Johnny Ong</td>
+			<td>Mr Johnny Ong</td>
     <td>Singapore Polytechnic</td>
 </tr>
 	  <tr>
-    <td>Farhan Bin Kamis</td>
+    <td>Mr Farhan Bin Kamis</td>
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td>Zara Choo</td>
+    <td>Ms Zara Choo</td>
     <td>Temasek Polytechnic</td>
   </tr>
 	</tbody></table>

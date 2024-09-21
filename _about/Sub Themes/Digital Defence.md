@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/digital_defence_pic.jpg">
 </div>
 <p>As Singapore works towards being a Smart Nation, digital technology will
 pervade all aspects of how we live, work, and play. Singapore will be one

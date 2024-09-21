@@ -146,21 +146,6 @@ Total Defence.&nbsp;&nbsp;</p>
 <p></p>
 <p><strong>Singapore Civil Defence Force (SCDF) Fire Stations&nbsp;</strong>
 </p>
-<p></p>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will have the opportunity to explore the part SCDF plays
-in Singapore’s emergency preparedness and recovery from emergencies.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to Punggol Fire Station and Tampines Fire Station to learn about
-Responder Plus Programme&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with Officers&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -183,6 +168,20 @@ Responder Plus Programme&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will have the opportunity to explore the part SCDF plays
+in Singapore’s emergency preparedness and recovery from emergencies.</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Punggol Fire Station and Tampines Fire Station to learn about
+Responder Plus Programme&nbsp;</p>
+</li>
+<li>
+<p>Dialogue session with Officers&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -198,26 +197,6 @@ Responder Plus Programme&nbsp;</p>
 <p></p>
 <p><strong>Maritime &amp; Port Authority of Singapore</strong>
 </p>
-<p></p>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will have the opportunity to get an exclusive look into Singapore’s
-cutting-edge maritime industry, explore it’s potential, possibilities and
-how it impacts Singapore’s economy.&nbsp;</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to Singapore Maritime Gallery to explore Singapore’s rich maritime
-heritage and how Singapore maintains her position as a global hub port
-and leading international maritime centre&nbsp;</p>
-</li>
-<li>
-<p>Visit to Port Operations Control Centre (POCC) to observe in real life
-how the port is run smoothly and safely around the clock&nbsp;</p>
-</li>
-</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -240,10 +219,50 @@ how the port is run smoothly and safely around the clock&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p><u>Rationale:</u>
+</p>
+<p>Participants will have the opportunity to get an exclusive look into Singapore’s
+cutting-edge maritime industry, explore it’s potential, possibilities and
+how it impacts Singapore’s economy.&nbsp;</p>
+<p></p>
+<p><u>Experiences:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit to Singapore Maritime Gallery to explore Singapore’s rich maritime
+heritage and how Singapore maintains her position as a global hub port
+and leading international maritime centre&nbsp;</p>
+</li>
+<li>
+<p>Visit to Port Operations Control Centre (POCC) to observe in real life
+how the port is run smoothly and safely around the clock&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Nippon Koi Farm</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/uncle_william_01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/uncle_william_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Rationale:</u>
 </p>
 <p>The learning journey will focus on sustainability and “30 by 30” narratives,
@@ -274,7 +293,28 @@ it impacts food security in Singapore.</p>
 <p></p>
 <p><strong>Harmony in Diversity Gallery</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/hdg_01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/hdg_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Rationale:</u>
 </p>
 <p>Participants will get to understand more about religious harmony issues
@@ -309,7 +349,28 @@ Singapore</p>
 <p></p>
 <p><strong>Centre for Strategic InfoComm Technologies (CSIT)</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/csit_01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/csit_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Rationale:</u>
 </p>
 <p>Participants will get to understand how CSIT, a technical agency in the

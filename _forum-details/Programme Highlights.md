@@ -401,7 +401,28 @@ Digital Defence.</p>
 <p></p>
 <p><strong>Internal Security Department (ISD) Heritage Centre</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/isd_01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/isd_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Rationale:</u>
 </p>
 <p>Through understanding Singapore’s historical crises and real case studies,
@@ -422,7 +443,28 @@ interests, and the fighting spirit to press on and overcome crises together.</p>
 <p></p>
 <p><strong>Battlebox</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/battlebox_01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/battlebox_02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Rationale:</u>
 </p>
 <p>The participants will have the opportunity to experience the actual World

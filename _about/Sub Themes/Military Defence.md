@@ -7,7 +7,7 @@ third_nav_title: Sub Themes
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/military_defence_pic.jpg">
 </div>
 <p>For a small country like Singapore, Military Defence is about building
 a strong and formidable defence force that makes potential aggressors think

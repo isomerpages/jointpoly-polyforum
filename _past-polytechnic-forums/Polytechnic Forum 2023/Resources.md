@@ -7,7 +7,7 @@ third_nav_title: Polytechnic Forum 2023
 ---
 <h3><strong>e_Handbook</strong></h3>
 <p>Download the&nbsp;<strong>Polytechnic Forum (PF) 2023 e-Handbook</strong> 
-<a href="/files/pf%202023%20-%20e-handbook%20(updated%209%20sep).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<a href="/files/2023/pf 2023 - e-handbook (updated 9 sep).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>The&nbsp;PF 2023 e-Handbook&nbsp;is your handy guide to everything you
 need to know about the event. It contains the programme and line-up of
 experiential activities, learning journeys and panel discussions that you
@@ -24,4 +24,4 @@ participants too!</p>
 <h3><strong>Reference Materials</strong></h3>
 <p>Learn, explore and boost your knowledge in your respective sub-themes
 with these useful reading/viewing resources.</p>
-<p>Download the list of resources <a href="/files/pf%202023%20-%20resources%20(final).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p>Download the list of resources <a href="/files/2023/pf 2023 - resources (final).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>

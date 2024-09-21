@@ -11,6 +11,7 @@ variant: markdown
 **Secretariat:** Amelia Lee, Koh Yu Shan, Fervyn Kate Tan<br>
 **Chief Facilitator:** Tan Pang Wei<br>
 **Deputy Chief Facilitator:** Belinda Loh, Khoo Kiah Hong<br>
+**Lead Facilitator:** Koh Choon Lim, Sharon Faith Khoo, Sung Wei Xiu, Loh Hui Lee, Vincent Phua, Edwin Tan<br>
 
 <br>
 <style>

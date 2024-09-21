@@ -19,7 +19,7 @@ format, where teams of will travel on foot to landmarks and historical
 points of interest in Singapore to learn about the TD Pillars and take
 part in activities that help them better understand the role each citizen
 must play to maintain our nation’s peace and sovereignty. Participants
-will also get to taste and consume Field Rations as part of the activities!&nbsp;&nbsp;</p>
+will also get to taste and consume Field Rations as part of the activities!&nbsp;</p>
 <p></p>
 </td>
 </tr>
@@ -32,9 +32,10 @@ will also get to taste and consume Field Rations as part of the activities!&nbsp
 Seletar Camp, where you will have the opportunity to go through interactive
 activities to have a more tangible and hands on experience in the domain
 of Military Defence. The programme hopes to foster better understanding
-of the importance of Military Defence in keeping Singapore strong, secure,
-and peaceful, and how communities can support this pillar. Activities include
-equipment demonstrations, army vehicle experiences and equipment try-outs!</p>
+of the importance of Military Defence in maintaining Singapore's strength,
+security, and peace, and the role communities can play in supporting this
+pillar. Activities include equipment demonstrations, army vehicle experiences
+and equipment try-outs!</p>
 <p></p>
 </td>
 </tr>
@@ -54,18 +55,22 @@ your community can be ready and prepared for crises and disruptions.&nbsp;</p>
 <p>Guardians of the City! Total Defence Card Game – Challenge a partner in
 this strategy card game designed to allow participants develop a deeper
 understanding of Singapore’s security threats and the part we play in keeping
-Singapore safe and secure.&nbsp;</p>
+Singapore safe and secure.</p>
 </li>
 <li>
 <p>TD@Singverse – demo/showcase of TD@Singverse by Finute where participants
 can try out the Roblox metaverse and engage its TD-related activities on
 their phones&nbsp;</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>TD ScamGuard – demo/showcase of TD ScamGuard Discord platform by SudoX
 where participants can try out/join the platform on their phones and engage
 in SudoX’s quiz on scam detection&nbsp;</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>TD Foam Blasters Challenge – demo/showcase of TD Foam Blasters Challenge
 by Urban Tactical SG</p>
@@ -79,9 +84,9 @@ by Urban Tactical SG</p>
 <p></p>
 <h4><strong>Community Action Project</strong></h4>
 <p></p>
-<p>Student delegates will be heading out to community spaces to engage residents
+<p>Forum participants will head out to community spaces to engage residents
 on the ground to spread awareness of Total Defence and get them to pledge
-towards Total Defence via SAFRA’s I Pledge Total Defence campaign website.
+towards Total Defence via SAFRA’s I Pledge Total Defence campaign website
 <a href="https://ipledgetd.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ipledgetd.sg/</u>
 </a>&nbsp;</p>
 <p></p>
@@ -116,10 +121,10 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website.
 <p></p>
 <h4><strong>Learning Journeys</strong></h4>
 <p></p>
-<p>Participants will have the opportunity to go on learning journeys to organisations
-and locations relevant to their respective sub-themes to allow them to
-experience first-hand how organisations and activities on the ground contribute
-to Singapore’s Total Defence.&nbsp;</p>
+<p>Participants will have the opportunity to go on learning journeys to places
+relevant to their respective sub-themes to allow them to experience first-hand
+how organisations and activities on the ground contribute to Singapore’s
+Total Defence.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +142,7 @@ to Singapore’s Total Defence.&nbsp;</p>
 <p><u>Rationale:</u>
 </p>
 <p>Participants will have the opportunity to explore the part SCDF plays
-in Singapore’s emergency preparedness and recovery from emergencies.&nbsp;</p>
+in Singapore’s emergency preparedness and recovery from emergencies.</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>

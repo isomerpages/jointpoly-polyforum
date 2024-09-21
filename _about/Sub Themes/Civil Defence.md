@@ -8,7 +8,7 @@ image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/civil_defence_pic.jpg">
 </div>
 <p>Civil Defence is about being alert to signs of threats and being effective
 first responders when a crisis occurs, helping one another regardless of

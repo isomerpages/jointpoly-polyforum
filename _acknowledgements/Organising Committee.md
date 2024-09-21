@@ -12,7 +12,6 @@ variant: markdown
 **Chief Facilitator:** Tan Pang Wei<br>
 **Deputy Chief Facilitator:** Belinda Loh, Khoo Kiah Hong<br>
 
-#### **We extend our heartfelt gratitude to the dedicated Polytechnic colleagues whose invaluable contributions have made PF 2024 a resounding success. Their tireless efforts in planning and organising this event are truly commendable.**
 <br>
 <style>
 table, th, td {

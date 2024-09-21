@@ -1,7 +1,7 @@
 ---
 title: Chairman's Message
 permalink: /chairman-message/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 50px">
@@ -18,18 +18,18 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,</p>
-<p></p>
-<p><strong>Welcome to the Polytechnic Forum 2024, themed “Total Defence”!</strong>
+<p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,
+<br>
 </p>
-<p></p>
+<p><strong>Welcome to the Polytechnic Forum 2024, themed “Total Defence”!<br></strong>
+</p>
 <p>As the Organising Chairman, I am deeply honoured to extend my warmest
 greetings to each of you. This forum represents a significant opportunity
 for us to come together and explore a theme that is vital to our collective
 future.</p>
 <p></p>
 <p>This year’s theme encapsulates a broad and inclusive approach to security
-and resilience, emphasizing not only physical protection but also the fortification
+and resilience, emphasizing both physical protection and the strengthening
 of our society, economy, and institutions. Our goal is to delve into these
 aspects, generate deeper discussions, and inspire participants to be change
 agents who contribute to a more secure and cohesive future.</p>

@@ -4,7 +4,7 @@ permalink: /acknowledgements/facilitation-team/
 description: ""
 variant: markdown
 ---
-#### **We would like to extend our sincere thanks to the Polytechnic colleagues who have contributed to the success of Polytechnic Forum 2024.**
+#### **We would like to extend our appreciation to the following polytechnic colleagues who have contributed to the facilitation of the programmes and activities.**
 <br>
 <style>
 table, th, td {

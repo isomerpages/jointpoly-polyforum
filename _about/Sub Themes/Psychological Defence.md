@@ -7,7 +7,7 @@ third_nav_title: Sub Themes
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/PF24_web_banner_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/psychological_defence_pic.jpg">
 </div>
 <p>Singapore's ability to overcome threats and challenges that come our way
 depends on the collective will of our people to defend our way of life,

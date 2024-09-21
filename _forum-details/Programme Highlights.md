@@ -14,6 +14,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>Total Defence Quest</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/td_quest.jpg">
+</div>
 <p>Kick off Day 1 of the forum with an exciting activity in an “Amazing Race”
 format, where teams of will travel on foot to landmarks and historical
 points of interest in Singapore to learn about the TD Pillars and take
@@ -28,6 +31,9 @@ will also get to taste and consume Field Rations as part of the activities!&nbsp
 <p></p>
 <h4><strong>Army Camp Experience</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/35SCE_Logo.png">
+</div>
 <p>In partnership with MINDEF, participants will get an exclusive visit to
 Seletar Camp, where you will have the opportunity to go through interactive
 activities to have a more tangible and hands on experience in the domain
@@ -44,6 +50,9 @@ and equipment try-outs!</p>
 <p></p>
 <h4><strong>Total Defence Table-Top-Exercise (TTX) and Sandbox with NEXUS</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/td40_landscape.jpg">
+</div>
 <p>Go through a Total Defence TTX led by our partners from Nexus and our
 Polytechnic Forum facilitators and engage in discussions on how you and
 your community can be ready and prepared for crises and disruptions.&nbsp;</p>
@@ -90,9 +99,8 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website
 <a href="https://ipledgetd.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ipledgetd.sg/</u>
 </a>&nbsp;</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/cap_location.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/pledge_chart.png">
 </div>
 <p><u>Locations:</u>
 </p>

@@ -218,6 +218,28 @@ and leading international maritime centre&nbsp;</p>
 how the port is run smoothly and safely around the clock&nbsp;</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/maritime_01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/maritime_02.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Nippon Koi Farm</strong>
 </p>

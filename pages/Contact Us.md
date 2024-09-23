@@ -4,7 +4,9 @@ permalink: /contactus/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Get In Touch With<br>Polytechnic Forum 2024</strong></h2>
+<h4><strong>Get In Touch With Us!</strong></h4>
+<h2><strong>The Polytechnic Forum 2024 is hosted by Nanyang Polytechnic</strong></h2>
+<p></p>
 <p><strong>Address:<br></strong>180 Ang Mo Kio Avenue 8
 <br>Singapore 569830</p>
 <p><strong><a href="https://maps.app.goo.gl/5Rn7WeFZDohgyj6b7" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP</a></strong>

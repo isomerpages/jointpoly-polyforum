@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - Programme Highlights.md
-      - Programme/.keep
-      - Programme/Day 1  (25 Sep 2024).md
-      - Programme/Day 2  (26 Sep 2024).md
-      - Programme/Day 3  (27 Sep 2024).md
-      - Programme/Day 4  (30 Sep 2024).md
-      - Programme/Day 5  (1 Oct 2024).md
-      - Programme/Day 6  (2 Oct 2024).md
       - Locations.md
       - Panel Speakers and Moderators/.keep
       - Panel Speakers and Moderators/Panel Speakers.md

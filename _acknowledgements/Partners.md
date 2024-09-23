@@ -10,6 +10,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SYLP_3x.png">
 </div>
 <p></p>
+<p></p>
 <p><strong>Organisers:</strong>
 </p>
 <p></p>

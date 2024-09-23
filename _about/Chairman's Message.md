@@ -60,9 +60,8 @@ secure and cohesive future.</p>
 <p>Wishing you a productive and inspiring experience at the Polytechnic Forum
 2024!</p>
 <p></p>
-<p>Warm regards,</p>
-<p></p>
-<p>Dr Lina Chong
+<p>Warm regards,
+<br>Dr Lina Chong
 <br>Organising Chairman, Polytechnic Forum 2024</p>
 </td>
 </tr>

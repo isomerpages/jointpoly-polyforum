@@ -17,10 +17,9 @@ pervade all aspects of how we live, work, and play. Singapore will be one
 of the most technologically advanced, open and connected nations in the
 world. While the digital revolution presents opportunities for Singapore,
 it also makes us vulnerable to threats from the digital domain. These threats
-will disrupt our way of life, and can also undermine our social cohesion
-and strike at the confidence and psychological resilience of our people.</p>
-<p></p>
-<p>We need to be able to respond to cyberattacks that target our networks
+will disrupt our way of life. They can also undermine our social cohesion
+and strike at the confidence and psychological resilience of our people.
+We need to be able to respond to cyberattacks that target our networks
 and infrastructure, as well as threats that can be perpetrated through
 the digital domain such as fake news and scams. Singaporeans must recognise
 that every individual is the first line of defence against threats from

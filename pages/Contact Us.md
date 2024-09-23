@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4><strong> <p style="color:grey">Get In Touch With Us!</p></strong></h4>
-<h2><strong>The Polytechnic Forum 2024 is hosted by Nanyang Polytechnic</strong></h2>
+<h1><strong>The Polytechnic Forum 2024 is hosted by Nanyang Polytechnic</strong></h1>
 <p></p>
 <p><strong>Address:<br></strong>180 Ang Mo Kio Avenue 8
 <br>Singapore 569830</p>

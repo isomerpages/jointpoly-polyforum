@@ -130,7 +130,7 @@ Member on Singapore’s IT Standards Committee.</p>
 with the vision of creating a global tech enterprise that Singapore can
 proudly call its own. Among his career highlights, Marcus takes particular
 pride in being a founding member of the award-winning career conversion
-program, Step IT Up Singapore, while simultaneously leading the firm’s
+programme, Step IT Up Singapore, while simultaneously leading the firm’s
 strategic communication, marketing, and public affairs. Outside of work,
 Marcus is deeply committed to championing social causes. His work in Singapore's
 Sengkang town has been particularly rewarding, driving positive social

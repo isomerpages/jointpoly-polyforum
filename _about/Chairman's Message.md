@@ -26,55 +26,36 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,</p>
-<p></p>
 <p><strong>Welcome to the Polytechnic Forum 2024, themed “Total Defence”!<br></strong>
 </p>
-<p>As the Organising Chairman, I am deeply honoured to extend my warmest
-greetings to each of you. This forum represents a significant opportunity
-for us to come together and explore a theme that is vital to our collective
-future.</p>
+<p>As the Organising Chairman, I’m excited to extend a warm welcome to all
+participants, facilitators, organisers, and partners. This year’s theme
+focuses on the importance of security and resilience, addressing not only
+physical protection but also the strengthening of our society, economy,
+and institutions.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>This year’s theme encapsulates a broad and inclusive approach to security
-and resilience, emphasizing both physical protection and the strengthening
-of our society, economy, and institutions. Our goal is to delve into these
-aspects, generate deeper discussions, and inspire participants to be change
-agents who contribute to a more secure and cohesive future.</p>
+<p>To the student participants: I encourage you to dive into the discussions,
+challenge assumptions, and collaborate with your peers and mentors. This
+is your platform to explore and contribute to meaningful conversations
+around “Total Defence.”</p>
 <p></p>
-<p>To our student participants: Your curiosity, creativity, and energy are
-the driving forces behind this forum. We encourage you to engage wholeheartedly
-with the sessions and workshops, challenge assumptions, and collaborate
-with your peers and mentors. This is your platform to explore, question,
-and contribute to meaningful discussions on “Total Defence”.</p>
+<p>To our facilitators: I deeply appreciate your expertise and guidance,
+which are essential to creating a supportive and engaging environment for
+the students.y</p>
 <p></p>
-<p>To our dedicated staff facilitators: Your expertise and guidance are integral
-to the success of this forum. Your commitment to fostering a dynamic and
-supportive environment for our students is greatly appreciated. We value
-your role in shaping the conversations and ensuring that the outcomes of
-this forum are both impactful and actionable.</p>
+<p>To the organisers: Your dedication and attention to detail have been invaluable
+in making this event possible. Thank you for all your hard work.</p>
 <p></p>
-<p>To our hardworking organisers: Your tireless efforts and attention to
-detail have made this event possible. Your dedication in planning and executing
-every aspect of this forum has not gone unnoticed. Thank you for your commitment
-and for bringing this vision to life.</p>
+<p>To our partners: Your support and collaboration are crucial, and I’m grateful
+for the resources and expertise you bring to the forum.</p>
 <p></p>
-<p>To our esteemed partners: Your support and collaboration are crucial to
-the success of this forum. We are grateful for your partnership and for
-the resources and expertise you bring to the table. Together, we can achieve
-great things and make a lasting impact.</p>
-<p></p>
-<p>As you explore the program and engage in the activities, I encourage each
-of you to take full advantage of this opportunity. Share your insights,
-participate actively, and collaborate openly. Let us work together to deepen
-our understanding of “Total Defence” and develop action plans that will
-drive positive change.</p>
-<p></p>
-<p>Thank you for being a part of this important event. Your participation
-is vital to our collective success, and I look forward to the impactful
-discussions and innovative solutions that will emerge from this forum.</p>
+<p>As we embark on this journey together, I encourage you all to actively
+share your insights and collaborate to develop actionable plans for a more
+secure and cohesive future. I’m looking forward to the innovative ideas
+and impactful discussions that will emerge.</p>
 <p></p>
 <p>Wishing you a productive and inspiring experience at the Polytechnic Forum
 2024!</p>

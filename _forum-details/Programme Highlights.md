@@ -19,10 +19,10 @@ description: ""
 </div>
 <p>Kick off Day 1 of the forum with an exciting activity in an “Amazing Race”
 format, where teams of will travel on foot to landmarks and historical
-points of interest in Singapore to learn about the TD Pillars and take
-part in activities that help them better understand the role each citizen
-must play to maintain our nation’s peace and sovereignty. Participants
-will also get to taste and consume Field Rations as part of the activities!&nbsp;</p>
+points of interest in Singapore to learn about the Total Defence (TD) pillars
+and take part in activities that help them better understand the role each
+citizen must play to maintain our nation’s peace and sovereignty. Participants
+will also get to taste and consume field rations as part of the activities!&nbsp;</p>
 <p></p>
 </td>
 </tr>
@@ -35,13 +35,13 @@ will also get to taste and consume Field Rations as part of the activities!&nbsp
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/35SCE_Logo.png">
 </div>
 <p>In partnership with MINDEF, participants will get an exclusive visit to
-Seletar Camp, where you will have the opportunity to go through interactive
-activities to have a more tangible and hands on experience in the domain
-of Military Defence. The programme hopes to foster better understanding
-of the importance of Military Defence in maintaining Singapore's strength,
-security, and peace, and the role communities can play in supporting this
-pillar. Activities include equipment demonstrations, army vehicle experiences
-and equipment try-outs!</p>
+Seletar Camp and will have the opportunity to go through interactive activities
+to have a more tangible and hands-on experience in the domain of Military
+Defence. The programme hopes to foster better understanding of the importance
+of Military Defence in maintaining Singapore's strength, security, and
+peace, and the role communities can play in supporting this pillar. Activities
+include equipment demonstrations, army vehicle experiences and equipment
+try-outs!</p>
 <p></p>
 </td>
 </tr>
@@ -64,22 +64,18 @@ your community can be ready and prepared for crises and disruptions.&nbsp;</p>
 <p>Guardians of the City! Total Defence Card Game – Challenge a partner in
 this strategy card game designed to allow participants develop a deeper
 understanding of Singapore’s security threats and the part we play in keeping
-Singapore safe and secure.</p>
+Singapore safe and secure</p>
 </li>
 <li>
 <p>TD@Singverse – demo/showcase of TD@Singverse by Finute where participants
 can try out the Roblox metaverse and engage its TD-related activities on
 their phones&nbsp;</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>TD ScamGuard – demo/showcase of TD ScamGuard Discord platform by SudoX
 where participants can try out/join the platform on their phones and engage
 in SudoX’s quiz on scam detection&nbsp;</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>TD Foam Blasters Challenge – demo/showcase of TD Foam Blasters Challenge
 by Urban Tactical SG</p>
@@ -132,7 +128,7 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website
 <p>Participants will have the opportunity to go on learning journeys to places
 relevant to their respective sub-themes to allow them to experience first-hand
 how organisations and activities on the ground contribute to Singapore’s
-Total Defence.&nbsp;&nbsp;</p>
+Total Defence.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +167,7 @@ Total Defence.&nbsp;&nbsp;</p>
 <p><u>Rationale:</u>
 </p>
 <p>Participants will have the opportunity to explore the part SCDF plays
-in Singapore’s emergency preparedness and recovery from emergencies.</p>
+in Singapore’s emergency preparedness and recovery from emergencies.&nbsp;</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>
@@ -222,8 +218,8 @@ Responder Plus Programme&nbsp;</p>
 <p><u>Rationale:</u>
 </p>
 <p>Participants will have the opportunity to get an exclusive look into Singapore’s
-cutting-edge maritime industry, explore it’s potential, possibilities and
-how it impacts Singapore’s economy.&nbsp;</p>
+cutting-edge maritime industry and explore its potential, possibilities
+and how it impacts Singapore’s economy.&nbsp;&nbsp;</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>
@@ -267,8 +263,8 @@ how the port is run smoothly and safely around the clock&nbsp;</p>
 </p>
 <p>The learning journey will focus on sustainability and “30 by 30” narratives,
 with the farm diversifying into aquaponics and food fish. Participants
-will get to see first-hand the challenges of running a farm in and how
-it impacts food security in Singapore.</p>
+will get to see first-hand the challenges of running a farm and how it
+impacts food security in Singapore.</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>
@@ -426,9 +422,9 @@ Digital Defence.</p>
 <p><u>Rationale:</u>
 </p>
 <p>Through understanding Singapore’s historical crises and real case studies,
-we hope participants will develop clarity on the importance of the resolve
-to stand up for Singapore when pressured by forces that undermine our national
-interests, and the fighting spirit to press on and overcome crises together.</p>
+participants will develop clarity on the importance of the resolve to stand
+up for Singapore when pressured by forces that undermine our national interests,
+and the fighting spirit to press on and overcome crises together.</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>
@@ -469,9 +465,9 @@ interests, and the fighting spirit to press on and overcome crises together.</p>
 </p>
 <p>The participants will have the opportunity to experience the actual World
 War II bunker where the British made key decisions resulting in the surrender
-of Singapore to the Japanese. Through this historical context, we hope
-to develop understanding among participants of what is at stake and what
-we must do to ensure our continued security, survival, and success.</p>
+of Singapore to the Japanese. Through this historical context, participants
+can learn what is at stake and what we must do to ensure our continued
+security, survival, and success.</p>
 <p></p>
 <p><u>Experiences:</u>
 </p>

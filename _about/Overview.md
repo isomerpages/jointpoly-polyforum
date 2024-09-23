@@ -15,11 +15,11 @@ through the facilitation of activities and discussions with&nbsp;government
 and industry leaders. It is hoped that the participants would embrace their
 role as young Singaporeans as they glean meaningful insights from the discussions
 and propose ideas on how youths can help shape the Singapore of the future.</p>
-<p>Nanyang Polytechnic is hosting the Polytechnic Forum 2024, themed 'Total
-Defence,' to mark the 40th anniversary of Total Defence (TD40) in Singapore.
-A total of 500 polytechnic students will converge over six days, with the
-Pre-forum happening from Sep 25 to 27 and a residential component at D’Resort
-happening from Sep 30 to Oct 2.</p>
+<p>The Polytechnic Forum 2024 is co-organised by five polytechnics, themed
+'Total Defence,' to mark the 40th anniversary of Total Defence (TD40) in
+Singapore. A total of 500 polytechnic students will converge over six days,
+with the Pre-forum happening from Sep 25 to 27 and a residential component
+at D’Resort happening from Sep 30 to Oct 2.</p>
 <p></p>
 <h4><strong>Main Theme</strong>&nbsp;</h4>
 <p></p>

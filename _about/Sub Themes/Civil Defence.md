@@ -10,6 +10,9 @@ image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_04.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/civil_defence_pic.jpg">
 </div>
+<p><em>(Image by Total Defence)</em>
+</p>
+<p></p>
 <p>Civil Defence is about being alert to signs of threats and being effective
 first responders when a crisis occurs, helping one another regardless of
 race, religion or background, so that Singapore can bounce back quickly

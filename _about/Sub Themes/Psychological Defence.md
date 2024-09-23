@@ -9,6 +9,9 @@ third_nav_title: Sub Themes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/psychological_defence_pic.jpg">
 </div>
+<p><em>(Image by Total Defence)</em>
+</p>
+<p></p>
 <p>Singapore's ability to overcome threats and challenges that come our way
 depends on the collective will of our people to defend our way of life,
 the resolve to stand up for Singapore when pressured by forces that undermine

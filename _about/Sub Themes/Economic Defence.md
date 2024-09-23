@@ -9,6 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/economic_defence_pic.jpg">
 </div>
+<p><em>(Image by Total Defence)</em>
+</p>
+<p></p>
 <p>Economic Defence is about strengthening the competitiveness and attractiveness
 of Singapore’s economy to keep Singapore relevant to the world, as this
 is critical for our survival and success. It is also about keeping our

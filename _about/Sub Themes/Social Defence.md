@@ -9,6 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/social_defence_pic.jpg">
 </div>
+<p><em>(Image by Total Defence)</em>
+</p>
+<p></p>
 <p>Social Defence is about building understanding and trust amongst people
 of all races and religions, and looking out for one another beyond self-interest,
 so that we remain strong and united especially during times of national

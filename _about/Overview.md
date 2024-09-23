@@ -15,11 +15,11 @@ through the facilitation of activities and discussions with&nbsp;government
 and industry leaders. It is hoped that the participants would embrace their
 role as young Singaporeans as they glean meaningful insights from the discussions
 and propose ideas on how youths can help shape the Singapore of the future.</p>
-<p>The Polytechnic Forum 2024 is co-organised by five polytechnics, themed
-'Total Defence,' to mark the 40th anniversary of Total Defence (TD40) in
-Singapore. A total of 500 polytechnic students will converge over six days,
-with the Pre-forum happening from Sep 25 to 27 and a residential component
-at D’Resort happening from Sep 30 to Oct 2.</p>
+<p>Nanyang Polytechnic is hosting the Polytechnic Forum 2024, themed 'Total
+Defence,' to mark the 40th anniversary of Total Defence (TD40) in Singapore.
+A total of 500 polytechnic students will converge over six days, with the
+pre-forum happening from 25 -27 Sep and a residential component at D’Resort
+Singapore from 30 Sep to 2 Oct.</p>
 <p></p>
 <h4><strong>Main Theme</strong>&nbsp;</h4>
 <p></p>
@@ -27,9 +27,9 @@ at D’Resort happening from Sep 30 to Oct 2.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/TD40.jpg">
 </div>
 <p>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
-first introduced in 1984.&nbsp; The theme for this year’s Total Defence
-campaign - “Together We Keep Singapore Strong” - focuses on the many ways
-we can put Total Defence into action in our everyday lives.&nbsp;</p>
+first introduced in 1984. The theme for this year’s Total Defence campaign
+- “Together We Keep Singapore Strong” - focuses on the many ways we can
+put Total Defence into action in our everyday lives.&nbsp;</p>
 <p>Total Defence remains relevant to deal with the ever-evolving hybrid threats
 and challenges to Singapore. These include misinformation, supply chain
 disruptions and food security that affect communities and Singaporeans'

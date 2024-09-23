@@ -4,7 +4,6 @@ permalink: /contactus/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h2><strong>Get In Touch With<br>Polytechnic Forum 2024</strong></h2>
 <p><strong>Address:<br></strong>180 Ang Mo Kio Avenue 8
 <br>Singapore 569830</p>

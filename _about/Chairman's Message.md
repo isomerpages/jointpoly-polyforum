@@ -16,7 +16,7 @@ description: ""
 <p>I’m excited to extend a warm welcome to all participants, facilitators,
 organisers, and partners. This year’s theme focuses on the importance of
 security and resilience addressing not only physical protection but also
-the strengthening of our society, economy, and institutions.To the student
+the strengthening of our society, economy, and institutions. To the student
 participants: I encourage you to dive into the discussions, challenge assumptions,
 and collaborate with your peers and mentors. This is your platform to explore
 and contribute to meaningful conversations around “Total Defence.”</p>

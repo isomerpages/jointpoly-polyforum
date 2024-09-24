@@ -2,7 +2,7 @@
 title: Locations
 permalink: /forum-details/locations/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -64,6 +64,9 @@ Int)</p>
 suggested routes.</p>
 </li>
 </ul>
+<p></p>
+<p>Need help finding your way to Nanyang Polytechnic? Click <a href="https://youtu.be/ChEsFtuMLKA" rel="noopener nofollow" target="_blank">here</a> to
+watch a quick video guide.</p>
 <p></p>
 <p>For detailed information on visiting NYP, including accessibility options,
 campus tours, and visitor parking guidelines, please visit this <a href="https://www.nyp.edu.sg/visit" rel="noopener nofollow" target="_blank">link</a>.</p>

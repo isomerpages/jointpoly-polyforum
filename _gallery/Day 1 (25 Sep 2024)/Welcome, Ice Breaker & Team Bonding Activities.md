@@ -3,12 +3,13 @@ title: Welcome, Ice Breaker & Team Bonding Activities
 permalink: /gallery/day-1/welcome/
 description: ""
 third_nav_title: Day 1 (25 Sep 2024)
+variant: markdown
 ---
-Capture your exciting journey at the Polytechnic Forum (PF) 2023 through your very own lens!
+Capture your exciting journey at the Polytechnic Forum (PF) 2024 through your very own lens!
 
-You are encouraged to snap lots of photos/videos of the events and activities, as well as the discussions, experiences and engagements with the speakers and your fellow participants. Remember to hashtag&nbsp;**#PolyForum2023** to your social media posts too!
+You are encouraged to snap lots of photos/videos of the events and activities, as well as the discussions, experiences and engagements with the speakers and your fellow participants. Remember to hashtag&nbsp;**#PolyForum2024** to your social media posts too!
 
-For highlights of PF 2023, do watch this space for updates!
+For highlights of PF 2024, do watch this space for updates!
 
 <hr>
 

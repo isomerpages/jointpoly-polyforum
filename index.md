@@ -41,7 +41,7 @@ sections:
         - title: e-Handbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!
-          linktext: DOWNLOAD HERE >
+          linktext: GRAB A COPY HERE >
           url: /resources/e-handbook/
         - title: Gallery
           description: Capture your Total Defence journey, ideas, and friendships at PF

@@ -34,11 +34,10 @@ sections:
       title: EXPLORE
       id: textcards
       cards:
-        - title: Programme Schedule
-          description: Enjoy enriching panel discussions, activities, and sharing at PF
-            2024!
+        - title: Programme Highlight
+          description: Explore Quest, Learning Journey, Army camp experience, and more.
           linktext: READ MORE >
-          url: /forum-details/programme/day-1/
+          url: /forum-details/programme-highlights/
         - title: eHandbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!

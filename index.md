@@ -34,11 +34,11 @@ sections:
       title: EXPLORE
       id: textcards
       cards:
-        - title: Programme Schedule
+        - title: Programme Highlight
           description: Enjoy enriching panel discussions, activities, and sharing at PF
             2024!
           linktext: READ MORE >
-          url: /forum-details/programme/day-1/
+          url: /forum-details/programme-highlight/
         - title: eHandbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!

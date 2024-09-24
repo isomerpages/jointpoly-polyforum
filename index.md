@@ -38,11 +38,11 @@ sections:
           description: Explore Quest, Learning Journey, Army camp experience, and more.
           linktext: READ MORE >
           url: /programme-highlights/
-        - title: eHandbook
+        - title: e-Handbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!
-          linktext: DOWNLOAD HERE >
-          url: /files/2024/pf2024_e_handbook.pdf/
+          linktext: GRAB A COPY HERE >
+          url: /resources/e-handbook/
         - title: Gallery
           description: Capture your Total Defence journey, ideas, and friendships at PF
             2024!

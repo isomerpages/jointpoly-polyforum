@@ -35,8 +35,7 @@ sections:
       id: textcards
       cards:
         - title: Programme Highlight
-          description: Enjoy enriching panel discussions, activities, and sharing at PF
-            2024!
+          description: Explore Quest, Learning Journey, Army camp experience, and more.
           linktext: READ MORE >
           url: /forum-details/programme-highlights/
         - title: eHandbook

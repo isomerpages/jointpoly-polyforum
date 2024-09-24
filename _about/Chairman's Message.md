@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
 </div>
 <p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,</p>
 <p></p>

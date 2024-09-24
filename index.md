@@ -41,8 +41,8 @@ sections:
         - title: eHandbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!
-          linktext: Coming Soon
-          url: ""
+          linktext: DOWNLOAD HERE >
+          url: /Files/2024/pf2024_e_handbook.pdf/
         - title: Gallery
           description: Capture your Total Defence journey, ideas, and friendships at PF
             2024!

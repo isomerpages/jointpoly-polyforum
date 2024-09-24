@@ -37,7 +37,7 @@ sections:
         - title: Programme Highlight
           description: Explore Quest, Learning Journey, Army camp experience, and more.
           linktext: READ MORE >
-          url: https://www.polyforum.edu.sg/programme-highlights/
+          url: /programme-highlights/
         - title: eHandbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!

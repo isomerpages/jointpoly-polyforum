@@ -5,27 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,</p>
 <p></p>
 <p><strong>Welcome to the Polytechnic Forum 2024, themed “Total Defence”!<br></strong>
@@ -33,15 +16,10 @@ description: ""
 <p>I’m excited to extend a warm welcome to all participants, facilitators,
 organisers, and partners. This year’s theme focuses on the importance of
 security and resilience addressing not only physical protection but also
-the strengthening of our society, economy, and institutions.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>To the student participants: I encourage you to dive into the discussions,
-challenge assumptions, and collaborate with your peers and mentors. This
-is your platform to explore and contribute to meaningful conversations
-around “Total Defence.”</p>
+the strengthening of our society, economy, and institutions.To the student
+participants: I encourage you to dive into the discussions, challenge assumptions,
+and collaborate with your peers and mentors. This is your platform to explore
+and contribute to meaningful conversations around “Total Defence.”</p>
 <p></p>
 <p>To our facilitators: I deeply appreciate your expertise and guidance,
 which are essential to creating a supportive and engaging environment for
@@ -63,8 +41,3 @@ secure and cohesive future.</p>
 <p>Warm regards,
 <br>Dr Lina Chong
 <br>Organising Chairman, Polytechnic Forum 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>

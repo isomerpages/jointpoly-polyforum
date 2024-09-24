@@ -38,7 +38,7 @@ sections:
           description: Explore Quest, Learning Journey, Army camp experience, and more.
           linktext: READ MORE >
           url: /programme-highlights/
-        - title: e_Handbook
+        - title: e-Handbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!
           linktext: DOWNLOAD HERE >

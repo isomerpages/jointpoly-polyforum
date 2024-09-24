@@ -42,7 +42,7 @@ sections:
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
             and more!
           linktext: DOWNLOAD HERE >
-          url: /pf2024_e_handbook.pdf/
+          url: /pf2024_e_handbook/
         - title: Gallery
           description: Capture your Total Defence journey, ideas, and friendships at PF
             2024!

@@ -2,7 +2,7 @@
 title: Locations
 permalink: /forum-details/locations/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">

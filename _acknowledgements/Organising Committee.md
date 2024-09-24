@@ -2,23 +2,17 @@
 title: Organising Committee
 permalink: /acknowledgements/organising-committee/
 description: ""
+variant: markdown
 ---
-#### **The Polytechnic Forum (PF) 2023 is organised as part of:**
+#### **PF 2024 is hosted by Nanyang Polytechnic.**
 
-<a href="https://www.moe.gov.sg/news/press-releases/20230530-lee-kuan-yew-centennial-fund-launched-to-support-about-2000-students-annually-through-scholarships-and-programmes"><img style="float: left; width: 22%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/SYLP_Colored-01.png?width=320&amp;height=320&amp;fit=bounds"></a>
-<br>
-<br>
-#### **PF 2023 is hosted by Temasek Polytechnic.**
+**Organising Chairman:** Dr Lina Chong<br>
+**Deputy Chairman:** Jon Tan, Amy Soon<br>
+**Secretariat:** Amelia Lee, Koh Yu Shan, Fervyn Kate Tan<br>
+**Chief Facilitator:** Tan Pang Wei<br>
+**Deputy Chief Facilitator:** Belinda Loh, Khoo Kiah Hong<br>
+**Lead Facilitator:** Koh Choon Lim, Sharon Faith Khoo, Sung Wei Xiu, Loh Hui Lee, Vincent Phua, Edwin Tan<br>
 
-**Chair:** Paul Yap<br>
-**Deputy Chair:** Desmond Lim<br>
-**Assistant Deputy Chair:** Pang Seng Hui<br>
-**Secretariat:** Simon Chew, Farhan Bin Kamis<br>
-**Chief Facilitator:** Lynn Ng<br>
-**Deputy Chief Facilitator:** Hernieyati Mamat, Eric Quek<br>
-**Lead Facilitators:** Alice Ling, Allen Roche, Viji Vijaykumarr, Laurinda Wee
-
-#### **We would like to express our appreciation to the following Polytechnic colleagues, who have contributed to the successful planning and organisation of PF 2023.**
 <br>
 <style>
 table, th, td {
@@ -31,28 +25,24 @@ table, th, td {
     <th>Member</th>
     <th>Polytechnic</th>
   </tr>
-  <tr>
-    <td>Lim Wee How</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
-  <tr>
-    <td>Sharan Tamilvaanan</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
 		<tr>
-    <td>Magalachmi Sellaperumal</td>
+    <td>Jan Lee</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
   <tr>
-		<td>Tan-Chen Hui Min</td>
+		<td>Magalachmi Sellaperumal</td>
     <td>Ngee Ann Polytechnic</td>
   </tr>
 		<tr>
-			<td>Alexander Sarsito Sia</td>
+			<td>Roy Wong</td>
 			<td>Republic Polytechnic</td>
   </tr>
 		<tr>
 			<td>Tan Kee Chin</td>
+    <td>Republic Polytechnic</td>
+  </tr>
+				<tr>
+			<td>Yap Peng Kee</td>
     <td>Republic Polytechnic</td>
   </tr>
   <tr>
@@ -62,4 +52,17 @@ table, th, td {
   <tr>
 			<td>Jelena Ong</td>
     <td>Singapore Polytechnic</td>
-</tr></tbody></table>
+</tr>
+		  <tr>
+			<td>Johnny Ong</td>
+    <td>Singapore Polytechnic</td>
+</tr>
+	  <tr>
+    <td>Farhan Bin Kamis</td>
+    <td>Temasek Polytechnic</td>
+  </tr>
+  <tr>
+    <td>Zara Choo</td>
+    <td>Temasek Polytechnic</td>
+  </tr>
+	</tbody></table>

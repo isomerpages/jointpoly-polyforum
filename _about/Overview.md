@@ -1,37 +1,46 @@
 ---
 title: Overview
-permalink: /about/overview/
+permalink: /overview/
+variant: tiptap
 description: ""
 ---
-The **Polytechnic Forum (PF)**, an initiative which started in 1996, aims to provide a platform for polytechnic students to gain a deeper understanding of pertinent national issues through peer discussions, learning journeys, talks, and engagement with government and industry leaders. Organised annually, PF is a time where students gather to discuss, ideate, glean meaningful insights, and design action plans on important national issues, to help shape a better future for Singapore.
-
-### **Polytechnic Forum 2023: Our Green SG**
-
-![](/images/PF%202023/About%20PF%202023/overview.jpg)
-<font size="-1">(Image by tawatchai07 on Freepik)</font>
-
-Sustainability is a vital part of our future! Singapore is facing several sustainability challenges today and these issues will continue to be a concern for young Singaporeans in the coming years. Companies and individuals are realising that the sustainability agenda cannot be mutually exclusive. In fact, they should work together to create a more sustainable world for all of us. It is therefore important for us to tackle problems together with stakeholders such as businesses, government agencies and community groups.<br>
-<br>
-<blockquote cite="https://www.huxley.net/bnw/four.html">
-  <p><b><i>“We will strive to become a zero waste nation, consuming less materials and giving them a second lease of life. We will build a green economy, nudging our businesses into doing good while also doing well… It is our duty and responsibility to make Singapore even greener and more liveable, and to work with others to build better cities and a healthier planet, for ourselves and future generations.”</i></b></p>
-	<footer>— <b>Prime Minister Lee Hsien Loong (Sustainable Singapore Blueprint)</b></footer>
-</blockquote>
-<br>
-The theme of the Polytechnic Forum (PF) 2023 is **“Our Green SG”**. The programme has been specially created for you to explore possibilities towards a more sustainable future. With the knowledge and rich discussions that PF 2023 will provide, we hope it raises your consciousness to take daily steps towards sustainability and make a difference in the world around Singapore and you.
-
-![](/images/PF%202023/About%20PF%202023/sub-themes.jpg)
-<font size="-1">(Image by Freepik)</font>
-
-In PF 2023, you will be exposed to both safe facilitation skills and mediation skills. These sessions will equip you with various collaboration skills, such as identifying and managing conflicts; handling difficult conversations; steps to accurate ground sensing; mediation techniques; agreeing to disagree; dealing with prejudice; and fostering collaborations, integration and inclusion, all within a safe space.
-
-You will examine the sub-themes in PF 2023 from our local perspective as a city state, while being able to contrast the differences amidst our connections with ASEAN and global nations. These topics will be explored through an eclectic host of experiential activities, constructive discussions and self-reflection, including the following:
-
-##### <font size="+3.5"><font color="red"><b>14 </b></font></font><b>Local Learning Journeys to interesting sustainability sites around Singapore, which promise to ignite your environmental spark!</b>
-
-##### <font size="+3.5"><font color="red"><b>2 </b></font></font><b>Overseas Learning Journeys during the Residential Programme in Desaru (Johor, Malaysia), to expand your vistas beyond our Little Red Dot!</b>
-
-##### <font size="+3.5"><font color="red"><b>2 </b></font></font><b>Panel Discussions, featuring <font size="+3.5"><font color="red">7 </font></font>Speakers from sustainability-related industries, who will share multi-faceted insights to enhance your learning!</b>
-
-We hope you will look forward to all the above, together with the friendships, camaraderie, and fun that you will get to experience at PF 2023. Enjoy the journey!
-
-(PF 2023 takes inspiration from the [Singapore Green Plan 2030](https://www.greenplan.gov.sg/) and [Sustainable Singapore Blueprint](https://www.nccs.gov.sg/media/publications/sustainable-singapore-blueprint).)
+<h4><strong>BACKGROUND&nbsp;</strong>&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/cover_03.jpg">
+</div>
+<p>Originated in 1996, the annual Polytechnic Forum provides a platform for
+polytechnic students to gain a deeper understanding of national issues
+through the facilitation of activities and discussions with&nbsp;government
+and industry leaders. It is hoped that the participants would embrace their
+role as young Singaporeans as they glean meaningful insights from the discussions
+and propose ideas on how youths can help shape the Singapore of the future.</p>
+<p>Nanyang Polytechnic is hosting the Polytechnic Forum 2024, themed 'Total
+Defence,' to mark the 40th anniversary of Total Defence (TD40) in Singapore.
+A total of 500 polytechnic students will converge over six days, with the
+pre-forum happening from 25 -27 Sep and a residential component at D’Resort
+Singapore from 30 Sep to 2 Oct.</p>
+<p></p>
+<h4><strong>Main Theme</strong>&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/TD40.jpg">
+</div>
+<p>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
+first introduced in 1984. The theme for this year’s Total Defence campaign
+- “Together We Keep Singapore Strong” - focuses on the many ways we can
+put Total Defence into action in our everyday lives.&nbsp;</p>
+<p>Total Defence remains relevant to deal with the ever-evolving hybrid threats
+and challenges to Singapore. These include misinformation, supply chain
+disruptions and food security that affect communities and Singaporeans'
+way of life. Every Singaporean has a part to play in our daily lives to
+ensure that Singapore is prepared for crises or disruptions, and that we
+remain resilient and united.</p>
+<p>The forum activities are curated to offer students meaningful engagement
+opportunities that will help them to relate whole-of-government efforts
+towards evolving threats and challenges to Singapore and understand the
+relevance of Total Defence in today’s context. Horizontally, all participants
+will be exposed to the importance of Military Defence through a visit to
+an Army Camp. Vertically, the students will explore the following pillars
+of Total Defence in their sub-theme groups - Civil Defence, Economic Defence,
+Social Defence, Digital Defence, and Psychological Defence.</p>

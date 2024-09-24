@@ -2,10 +2,12 @@ collections:
   about:
     output: true
     order:
-      - Chairman's Address.md
+      - Chairman's Message.md
       - Overview.md
       - Sub Themes/.keep
-      - Sub Themes/Green Economy.md
-      - Sub Themes/Green Resources.md
-      - Sub Themes/Sustainable Living.md
-      - Sub Themes/Resilient Future.md
+      - Sub Themes/Military Defence.md
+      - Sub Themes/Civil Defence.md
+      - Sub Themes/Economic Defence.md
+      - Sub Themes/Social Defence.md
+      - Sub Themes/Digital Defence.md
+      - Sub Themes/Psychological Defence.md

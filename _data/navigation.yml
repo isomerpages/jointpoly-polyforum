@@ -1,14 +1,14 @@
-logo: /images/PF 2023/Homepage/pf-colour (transparent background).png
+logo: /images/PF 2024/About PF 2024/PF_2024_Logo_Horizontal_Final__Revised___1_.png
 links:
-  - title: ABOUT
+  - title: About
     collection: about
   - title: FORUM DETAILS
     collection: forum-details
   - title: RESOURCES
     collection: resources
-  - title: Gallery
-    collection: gallery
   - title: ACKNOWLEDGEMENTS
     collection: acknowledgements
   - title: CONTACT US
     url: /contactus
+  - title: Past Polytechnic Forums
+    collection: past-polytechnic-forums

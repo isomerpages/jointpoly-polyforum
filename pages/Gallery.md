@@ -1,7 +1,8 @@
 ---
 title: Gallery
-permalink: /gallery/
+permalink: /gallery-test/
 description: ""
+variant: tiptap
 ---
 ![](/images/PF%202023/Gallery/gallery.png)
 

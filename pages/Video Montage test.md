@@ -1,6 +1,7 @@
 ---
-title: Video Montage
-permalink: /gallery/video-montage/
+title: Video Montage test
+permalink: /video-montage-test/
+variant: markdown
 description: ""
 ---
 Temasek Polytechnic was proud to host the **Polytechnic Forum (PF) 2023** with the support of our poly counterparts - **Nanyang Polytechnic**, **Ngee Ann Polytechnic**, **Republic Polytechnic** and **Singapore Polytechnic**!&nbsp;

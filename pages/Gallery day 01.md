@@ -1,9 +1,8 @@
 ---
-title: Welcome, Ice Breaker & Team Bonding Activities
-permalink: /gallery/day-1/welcome/
-description: ""
-third_nav_title: Day 1 (25 Sep 2024)
+title: Gallery day 01
+permalink: /gallery-day-01/
 variant: markdown
+description: ""
 ---
 Capture your exciting journey at the Polytechnic Forum (PF) 2024 through your very own lens!
 

@@ -47,6 +47,6 @@ sections:
           description: Capture your Total Defence journey, ideas, and friendships at PF
             2024!
           linktext: VIEW PHOTO HERE >
-          url: /gallery/
+          url: /day-1-25-sep-2024/
       description: For Delegates
 ---

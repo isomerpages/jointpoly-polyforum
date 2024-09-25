@@ -2,4 +2,5 @@ collections:
   gallery:
     output: true
     order:
+      - Day 02.md
       - Day 1 (25 Sep 2024).md

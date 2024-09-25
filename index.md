@@ -46,7 +46,7 @@ sections:
         - title: Gallery
           description: Capture your Total Defence journey, ideas, and friendships at PF
             2024!
-          linktext: Coming Soon
-          url: ""
+          linktext: VIEW PHOTO HERE >
+          url: /gallery/
       description: For Delegates
 ---

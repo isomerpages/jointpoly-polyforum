@@ -399,8 +399,14 @@ Capture the essence of the event and share your unique perspective.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_06_008.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_06_009.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_06_010.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_06_011.jpg">
 </div>
 <p></p>

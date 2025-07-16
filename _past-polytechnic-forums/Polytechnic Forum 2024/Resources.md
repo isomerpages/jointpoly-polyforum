@@ -24,5 +24,5 @@ fellow attendees.</p>
 </p>
 <p>Learn, explore and boost your knowledge in your respective sub-themes
 with these useful reading/viewing resources.</p>
-<p>Visit the Total Defence Resources <a href="https://www.sg101.gov.sg/resources/resource-packages/tdresources/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
 <p>Visit the Total Defence Resources <a href="https://www.sg101.gov.sg/resources/resource-packages/tdresources/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>

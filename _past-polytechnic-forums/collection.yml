@@ -2,7 +2,6 @@ collections:
   past-polytechnic-forums:
     output: true
     order:
-      - Polytechnic Forum 2024.md
       - Polytechnic Forum 2023/.keep
       - Polytechnic Forum 2023/Overview.md
       - Polytechnic Forum 2023/Sub Themes.md

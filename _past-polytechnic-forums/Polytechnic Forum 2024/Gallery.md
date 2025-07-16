@@ -262,4 +262,7 @@ Capture the essence of the event and share your unique perspective.</p>
 </div>
 <p><strong>Day 5 (1 Oct 2024)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_05_001.jpg">
+</div>
 <p></p>

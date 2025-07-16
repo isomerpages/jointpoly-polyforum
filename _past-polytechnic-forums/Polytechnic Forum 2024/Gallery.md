@@ -191,6 +191,23 @@ Capture the essence of the event and share your unique perspective.</p>
 </div>
 <p><strong>Day 4 (30 Sep 2024)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_015.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_016.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_017.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_018.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_019.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Gallery/PF_Day_04_020.jpg">
+</div>
 <p></p>

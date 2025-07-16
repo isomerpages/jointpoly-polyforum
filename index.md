@@ -16,7 +16,7 @@ sections:
       subtitle: Polytechnic Forum 2024
       id: infobar
       description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We
-        Keep Singapore Strong," highlights how we can practice Total Defence in
+        Keep Singapore Strong", highlights how we can practice Total Defence in
         our daily lives.
       button: Find Out More
       url: /overview/

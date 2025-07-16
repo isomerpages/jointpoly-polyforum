@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chairman's Message.md
-      - Overview.md
       - Sub Themes/.keep
       - Sub Themes/Military Defence.md
       - Sub Themes/Civil Defence.md

@@ -16,3 +16,5 @@ and emergency contact details.</p>
 <p>By consulting this resource, participants can optimize their learning
 experience, gain valuable insights, and foster meaningful connections with
 fellow attendees.</p>
+<p></p>
+<p></p>

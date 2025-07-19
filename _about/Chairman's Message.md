@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/EK_Photo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/EK_Photo.png">
 </div>
 <p>Dear Student Participants, Staff Facilitators, Partners, and Organisers,</p>
 <p>Welcome to Polytechnic Forum 2025!</p>

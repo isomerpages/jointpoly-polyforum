@@ -12,20 +12,21 @@ sections:
   - hero:
       background: /images/PF 2024/About PF 2024/PF24_web_banner_v2_01.jpg
   - infobar:
-      title: TOTAL DEFENCE
-      subtitle: Polytechnic Forum 2024
+      title: OUR HOME OUR SINGAPORE
+      subtitle: Polytechnic Forum 2025
       id: infobar
-      description: 2024 marks 40 years of Total Defence. The TD40 theme, "Together We
-        Keep Singapore Strong", highlights how we can practice Total Defence in
-        our daily lives.
+      description: Empowering youths to reimagine and shape Singapore’s future as part
+        of SG60 celebrations into the ‘Next-Gen’ city that they will want to
+        call “my home”.
       button: Find Out More
       url: /overview/
   - infopic:
       title: SUBTHEMES
-      subtitle: TOTAL DEFENCE
+      subtitle: Our Home Our Singapore
       id: infopic
-      description: The event will provide students with opportunities to understand
-        the importance of Total Defence in Singapore's evolving context.
+      description: The curated activities offer students meaningful engagement
+        opportunities to help them relate to current issues to reimagine, remix
+        and rebuild our city.
       button: Find Out more
       url: /about/sub-themes/military-defence/
       alt: Image alt text

@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PF 2024/About PF 2024/PF24_web_banner_v2_01.jpg
+      background: /images/PF 2025/About PF 2025/Our_Home_Our_Singapore.png
   - infobar:
       title: OUR HOME OUR SINGAPORE
       subtitle: Polytechnic Forum 2025
@@ -36,7 +36,7 @@ sections:
       id: textcards
       cards:
         - title: Programme Highlight
-          description: Explore Quest, Learning Journey, Army camp experience, and more.
+          description: Learning Journey, and more.
           linktext: READ MORE >
           url: /programme-highlights/
         - title: e-Handbook
@@ -45,8 +45,7 @@ sections:
           linktext: GRAB A COPY HERE >
           url: /resources/e-handbook/
         - title: Gallery
-          description: Capture your Total Defence journey, ideas, and friendships at PF
-            2024!
+          description: Capture your Learning Journey, ideas and friendships at PF 2025!
           linktext: VIEW PHOTO HERE >
           url: /day-1-25-sep-2024/
       description: For Delegates

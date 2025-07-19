@@ -2,67 +2,115 @@
 title: Organising Committee
 permalink: /acknowledgements/organising-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### **PF 2024 is hosted by Nanyang Polytechnic.**
-
-**Organising Chairman:** Dr Lina Chong<br>
-**Deputy Chairman:** Jon Tan, Amy Soon<br>
-**Secretariat:** Amelia Lee, Koh Yu Shan, Fervyn Kate Tan<br>
-**Chief Facilitator:** Tan Pang Wei<br>
-**Deputy Chief Facilitator:** Belinda Loh, Khoo Kiah Hong<br>
-**Lead Facilitator:** Koh Choon Lim, Sharon Faith Khoo, Sung Wei Xiu, Loh Hui Lee, Vincent Phua, Edwin Tan<br>
-
+<h4><strong>PF 2025 is hosted by Singapore Polytechnic.</strong></h4>
+<p><strong>Organising Chairman:</strong> Evelynn Koh
+<br><strong>Deputy Chairman:</strong> Johnny Ong
+<br><strong>Secretariat:</strong> Jelena Ong
+<br><strong>Chief Facilitator:</strong> Doris Nga
+<br><strong>Deputy Chief Facilitator:</strong> Jacqueline Tan
+<br><strong>Lead Facilitator:</strong> Farah Nadine Seth, Doreen Mak, Harveen
+Kaur Singh, Nellie Tan, Yip Ching Yee&nbsp;
 <br>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th>Member</th>
-    <th>Polytechnic</th>
-  </tr>
-		<tr>
-    <td>Jan Lee</td>
-    <td>Ngee Ann Polytechnic</td>
-  </tr>
-  <tr>
-		<td>Magalachmi Sellaperumal</td>
-    <td>Ngee Ann Polytechnic</td>
-  </tr>
-		<tr>
-			<td>Roy Wong</td>
-			<td>Republic Polytechnic</td>
-  </tr>
-		<tr>
-			<td>Tan Kee Chin</td>
-    <td>Republic Polytechnic</td>
-  </tr>
-				<tr>
-			<td>Yap Peng Kee</td>
-    <td>Republic Polytechnic</td>
-  </tr>
-  <tr>
-		<td>Hope Lee</td>
-    <td>Singapore Polytechnic</td>
-  </tr>
-  <tr>
-			<td>Jelena Ong</td>
-    <td>Singapore Polytechnic</td>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Member</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
 </tr>
-		  <tr>
-			<td>Johnny Ong</td>
-    <td>Singapore Polytechnic</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
 </tr>
-	  <tr>
-    <td>Farhan Bin Kamis</td>
-    <td>Temasek Polytechnic</td>
-  </tr>
-  <tr>
-    <td>Zara Choo</td>
-    <td>Temasek Polytechnic</td>
-  </tr>
-	</tbody></table>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Magalachmi Sellaperumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roy Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kee Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Peng Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hope Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jelena Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Johnny Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farhan Bin Kamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zara Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

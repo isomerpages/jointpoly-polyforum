@@ -28,7 +28,7 @@ sections:
         opportunities to help them relate to current issues to reimagine, remix
         and rebuild our city.
       button: Find Out more
-      url: /about/sub-themes/military-defence/
+      url: /about/sub-themes/
       alt: Image alt text
       image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_sub1.jpg
   - textcards:

@@ -4,8 +4,6 @@ permalink: /chairman-message/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/EK_Photo.png">
 </div>

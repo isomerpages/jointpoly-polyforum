@@ -8,24 +8,13 @@ image: /images/PF 2025/About PF 2025/Families_Matter.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/civil_defence_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/Families_Matter.png">
 </div>
-<p><em>(Image by Total Defence)</em>
-</p>
+<p>Building a Singapore that supports families, balancing work and caregiving
+needs across life stages.</p>
+<p>In this sub-theme, students would have a better understanding of the diverse
+challenges faced by different types of families in Singapore, and through
+the dialogue with the speakers be able to reflect and create a more inclusive
+and supportive environment for all families, ultimately contributing to
+the goal of building a Singapore that is truly made for families.</p>
 <p></p>
-<p>Civil Defence is about being alert to signs of threats and being effective
-first responders when a crisis occurs, helping one another regardless of
-race, religion or background, so that Singapore can bounce back quickly
-as one people.</p>
-<p></p>
-<p>When we are faced with a threat, or when a crisis hits us, the government
-agencies' top priority will be to spare no effort in dealing with the threat
-and responding to the crisis. However, their resources will be strained,
-and they cannot be everywhere all the time. Singaporeans – whether at the
-individual, organisation or community level – must pitch in to help and
-be able to take care of themselves. We can be alert to signs of threats
-and, when a crisis occurs, we can be effective first responders, helping
-one another regardless of race, religion, or self-interest. It also helps
-when we know whom to call, where to go, and what to do in an emergency.
-All this helps us bounce back quickly as one people, confident and strong.
-This is what a strong Civil Defence means.</p>

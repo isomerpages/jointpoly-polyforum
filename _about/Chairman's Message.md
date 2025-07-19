@@ -5,39 +5,35 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/chairman_lina.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/EK_Photo.png">
 </div>
-<p>Dear Student Participants, Staff Facilitators, Organisers, and Partners,</p>
 <p></p>
-<p><strong>Welcome to the Polytechnic Forum 2024, themed “Total Defence”!<br></strong>
-</p>
-<p>I’m excited to extend a warm welcome to all participants, facilitators,
-organisers, and partners. This year’s theme focuses on the importance of
-security and resilience addressing not only physical protection but also
-the strengthening of our society, economy, and institutions. To the student
-participants: I encourage you to dive into the discussions, challenge assumptions,
-and collaborate with your peers and mentors. This is your platform to explore
-and contribute to meaningful conversations around “Total Defence.”</p>
-<p></p>
-<p>To our facilitators: I deeply appreciate your expertise and guidance,
-which are essential to creating a supportive and engaging environment for
-the students.</p>
-<p></p>
-<p>To the organisers: Your dedication and attention to detail have been invaluable
-in making this event possible. Thank you for all your hard work.</p>
-<p></p>
-<p>To our partners: Your support and collaboration are crucial, and I’m grateful
-for the resources and expertise you bring to the forum.</p>
-<p></p>
-<p>As we embark on this journey together, I encourage you all to actively
-share your insights and collaborate to develop actionable plans for a more
-secure and cohesive future.</p>
-<p></p>
-<p>Wishing you a productive and inspiring experience at the Polytechnic Forum
-2024!</p>
-<p></p>
+<p>Dear Student Participants, Staff Facilitators, Partners, and Organisers,</p>
+<p>Welcome to Polytechnic Forum 2025!</p>
+<p>It gives me great pleasure to extend a warm welcome to all of you to this
+year’s Polytechnic Forum.</p>
+<p>This year’s Forum, themed <strong>“Our Home Our Singapore,”</strong> marks
+a significant milestone as we commemorate SG60, celebrating six decades
+of Singapore’s nation-building journey. Since its inception in 1996, the
+Forum has served as an important platform for young leaders to engage in
+critical dialogues, broaden their perspectives, and contribute innovative
+ideas for the future of our nation.</p>
+<p>As we gather over the coming days, I encourage all student leaders to
+approach this opportunity with curiosity, openness, and a strong sense
+of responsibility. Through collaborative learning, meaningful discussions,
+and reflective exploration, may this Forum inspire a deepened commitment
+to shaping a Singapore that is inclusive, resilient, sustainable, and united.</p>
+<p>To our facilitators, your guidance and mentorship play a vital role in
+promoting insightful conversations and supporting our students’ development
+and ideation.</p>
+<p>To our partners for bringing their expertise to enrich our students' learning
+experience and for affirming the importance of collaboration in shaping
+Singapore’s future.</p>
+<p>To our organising team, your meticulous preparation, unwavering commitment,
+and behind-the-scenes efforts are crucial to the success of this Forum.</p>
+<p>Wishing everyone a rewarding and impactful Polytechnic Forum 2025.</p>
 <p>Warm regards,
-<br>Dr Lina Chong
-<br>Organising Chairman, Polytechnic Forum 2024</p>
+<br><strong>Evelynn Koh</strong>
+<br>Organising Chairperson
+<br>Polytechnic Forum 2025</p>

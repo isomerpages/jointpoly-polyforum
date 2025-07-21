@@ -6,9 +6,6 @@ description: ""
 ---
 <h4><strong>BACKGROUND&nbsp;</strong>&nbsp;</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/cover_03.jpg">
-</div>
 <p>Originated in 1996, the annual Polytechnic Forum has served as a valuable
 platform for polytechnic students to deepen their understanding of national
 issues through meaningful discussions, learning journeys and activities

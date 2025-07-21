@@ -20,17 +20,6 @@ sections:
         call “my home”.
       button: Find Out More
       url: /overview/
-  - infopic:
-      title: SUBTHEMES
-      subtitle: Our Home Our Singapore
-      id: infopic
-      description: The curated activities offer students meaningful engagement
-        opportunities to help them relate to current issues to reimagine, remix
-        and rebuild our city.
-      button: Find Out more
-      url: /about/sub-themes/kampung2/
-      alt: Image alt text
-      image: /images/PF 2024/About PF 2024/PF24_web_banner_v2_sub1.jpg
   - infobar:
       title: SUBTHEMES
       subtitle: Our Home Our Singapore

@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6870 8254
-      - email: ""
+      - email: SD_LifeAtSP@sp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""

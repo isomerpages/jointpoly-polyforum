@@ -23,7 +23,7 @@ celebrations in 2023. The programme aims to deepen student leaders' understandin
 of Singapore’s governance and instil a sense of active citizenship and
 leadership in society.</p>
 <p>Singapore Polytechnic is hosting the Polytechnic Forum 2025. A total of
-500 polytechnic students will converge over six days, with the pre-forum
+500 polytechnic students will converge over 6 days, with the pre-forum
 happening on 12 Sep 2025 and a 5 day programme from 15 to 19 Sep 2025.</p>
 <p>Polytechnic Forum 2025 serves as a platform for students to generate fresh
 ideas, grounded in reflection and collaboration. Through this process,

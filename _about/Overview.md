@@ -13,9 +13,8 @@ description: ""
 platform for polytechnic students to deepen their understanding of national
 issues through meaningful discussions, learning journeys and activities
 with government and industry leaders. The forum inspires 500 student leaders
-across the five polytechnics, encouraging them to embrace their roles as
-young Singaporeans and contribute innovative ideas to shape Singapore’s
-future.</p>
+across the 5 polytechnics, encouraging them to embrace their roles as young
+Singaporeans and contribute innovative ideas to shape Singapore’s future.</p>
 <p>Since 2023, the Polytechnic Forum is part of the Singapore Young Leaders’
 Programme, a Ministry of Education (MOE) leadership programme for Institutes
 of Higher Learning student leaders, initiated from MOE’s Lee Kuan Yew memorial
@@ -37,7 +36,7 @@ meaningfully to building a more united, resilient, and inclusive nation.</p>
 </div>
 <p>Singapore Polytechnic is hosting the Polytechnic Forum 2025, themed <strong>‘Our Home Our Singapore’</strong>.
 Our theme is rooted in the spirit of SG60’s narrative and key message,
-Building Our Singapore Together as we celebrate SG60, marking six decades
+Building Our Singapore Together as we celebrate SG60, marking 6 decades
 of nation-building. In addition, Polytechnic Forum 2025 will be branded
 as a key event within the SG Youth Plan, which in turn is a fundamental
 pillar of SG60. &nbsp;</p>

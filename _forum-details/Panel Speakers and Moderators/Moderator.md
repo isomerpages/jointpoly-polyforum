@@ -15,9 +15,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/Facilitators_Doris_Nga.jpg">
-</div>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Doris Nga, Senior Specialist at the School of Life Skills &amp; Communication, Singapore Polytechnic</strong>
@@ -26,7 +23,6 @@ variant: tiptap
 <p>With a post-graduate degree in mass communication, Doris spent over a
 decade in the creative industry as a creative director and an account director
 before joining Singapore Polytechnic as a lecturer in 1991.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p>These days, when she is not teaching, she designs and delivers training
 for corporate executives, educators, and student leaders. With over 15
 years of facilitation experience, she developed the <em>Learning Facilitation Framework</em> –

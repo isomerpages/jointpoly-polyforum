@@ -20,12 +20,8 @@ variant: tiptap
 </div>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jasmine Melody</strong>
-<br><strong>Lecturer, Centre for Innovation &amp; Life Skills</strong>
-<br><strong>Nanyang Polytechnic</strong>
+<p><strong>Ms Doris Nga, Senior Specialist at the School of Life Skills &amp; Communication, Singapore Polytechnic</strong>
 </p>
-<p>Doris Nga, Senior Specialist at the School of Life Skills &amp; Communication,
-Singapore Polytechnic</p>
 <p></p>
 <p>With a post-graduate degree in mass communication, Doris spent over a
 decade in the creative industry as a creative director and an account director

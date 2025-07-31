@@ -12,36 +12,28 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Total Defence Quest</strong></h4>
+<h4><strong>Unconference</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/td_quest.jpg">
-</div>
-<p>Kick off Day 1 of the forum with an exciting activity in an “Amazing Race”
-format, where teams of will travel on foot to landmarks and historical
-points of interest in Singapore to learn about the Total Defence (TD) pillars
-and take part in activities that help them better understand the role each
-citizen must play to maintain our nation’s peace and sovereignty. Participants
-will also get to taste and consume field rations as part of the activities!&nbsp;</p>
+<p>Take part in meaningful, student-led discussions where you'll share your
+thoughts and ideas to shape Singapore’s future together. You’ll join breakout
+groups based on topics you’re most interested in and explore how we can
+take collective action to build a better, thriving nation. These sessions
+will be guided by trained student facilitators to help keep the conversations
+engaging and focused.&nbsp;</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<h4><strong>Army Camp Experience</strong></h4>
+<h4><strong>Red Dot City: Crossroads</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/35SCE_Logo.png">
-</div>
-<p>In partnership with MINDEF, participants will get an exclusive visit to
-Seletar Camp and will have the opportunity to go through interactive activities
-to have a more tangible and hands-on experience in the domain of Military
-Defence. The programme hopes to foster better understanding of the importance
-of Military Defence in maintaining Singapore's strength, security, and
-peace, and the role communities can play in supporting this pillar. Activities
-include equipment demonstrations, army vehicle experiences and equipment
-try-outs!</p>
+<p>Step into the shoes of a policymaker in a scenario-based game that challenges
+you to think critically and see things from different perspectives. You’ll
+make decisions based on what you believe is best for each situation and
+earn resources along the way to shape your version of Singapore island.
+Through this activity, you’ll gain a deeper understanding of complex national
+issues and the trade-offs involved in solving them.&nbsp;</p>
 <p></p>
 </td>
 </tr>

@@ -15,6 +15,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/Facilitators_Doris_Nga.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Doris Nga, Senior Specialist at the School of Life Skills &amp; Communication, Singapore Polytechnic</strong>

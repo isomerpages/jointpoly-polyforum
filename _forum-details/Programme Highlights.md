@@ -104,6 +104,9 @@ the organisations and activities that make Singapore unique.</p>
 <p><strong>Harmony in Diversity Gallery&nbsp;</strong>&nbsp;<strong>&nbsp;</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/HDG_full.jpg">
+</div>
 <p>As part of your learning journey, you’ll go on a guided tour organised
 by the Ministry of Home Affairs (MHA) together with community partners.
 This tour will help you better understand and appreciate Singapore’s diverse
@@ -139,6 +142,9 @@ diverse family backgrounds that make up our society.&nbsp;</p>
 </ol>
 <p></p>
 <p><strong>JuraSEEK Park</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/JuraSEEK_game.png">
+</div>
 <p>Take part in a fun and interactive strategy game facilitated by Bold At
 Work, where you’ll explore big ideas like what it means to be human in
 a world of AI, how we can become a learning society, and why learning goes
@@ -156,6 +162,10 @@ in teams, and share your thoughts on these important topics.</p>
 </ol>
 <p></p>
 <p><strong>Terra SG</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/TzuChi.jpg">
+</div>
 <p>Enjoy a hands-on and meaningful experience at the Tzu Chi Humanistic Youth
 Centre, where you’ll take part in an upcycling workshop, explore the Glow
 On Gallery, and go on a guided tour of the centre. It’s a great way to
@@ -174,6 +184,10 @@ make a big difference.&nbsp;</p>
 <p></p>
 <p><strong>Singapore Discovery Centre</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/discovery.jpg">
+</div>
 <p>Join us for a fun and meaningful guided tour and SG60-themed NE-Mazing
 Race, where you’ll explore Singapore’s past, take a closer look at our
 present, and think about how we can shape the future together. Through

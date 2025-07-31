@@ -74,7 +74,7 @@ issues and the trade-offs involved in solving them.&nbsp;</p>
 </li>
 <li>
 <p>🗓️ Deadline: <strong>18 September 2025 6PM sharp</strong> ⏳&nbsp;
-<br> <em>(Late submissions will not be accepted)</em>&nbsp;</p>
+<br><em>(Late submissions will not be accepted)</em>&nbsp;</p>
 </li>
 </ul>
 <p></p>
@@ -114,301 +114,54 @@ beliefs in our multicultural society.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Economic Defence</strong>
-</p>
-</li>
-</ol>
-<p></p>
-<p><strong>Maritime &amp; Port Authority of Singapore</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/maritime_01.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/maritime_02.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will have the opportunity to get an exclusive look into Singapore’s
-cutting-edge maritime industry and explore its potential, possibilities
-and how it impacts Singapore’s economy.&nbsp;&nbsp;</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to Singapore Maritime Gallery to explore Singapore’s rich maritime
-heritage and how Singapore maintains her position as a global hub port
-and leading international maritime centre&nbsp;</p>
-</li>
-<li>
-<p>Visit to Port Operations Control Centre (POCC) to observe in real life
-how the port is run smoothly and safely around the clock&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Nippon Koi Farm</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/uncle_william_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/uncle_william_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>The learning journey will focus on sustainability and “30 by 30” narratives,
-with the farm diversifying into aquaponics and food fish. Participants
-will get to see first-hand the challenges of running a farm and how it
-impacts food security in Singapore.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tour of farm and presentations by domain experts</p>
-</li>
-<li>
-<p>Dialogue session with farm owner</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Social Defence</strong>
+<p><strong>School of Tomorrow</strong>
 </p>
 </li>
 </ol>
 <p></p>
-<p><strong>Harmony in Diversity Gallery</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/hdg_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/hdg_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will get to understand more about religious harmony issues
-in Singapore, experience actual historical sites where incidents happened
-and obtain better perspective though dialogue on how these impact Singapore’s
-Social Defence.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to the Harmony in Diversity Gallery&nbsp;</p>
-</li>
-<li>
-<p>Guided walking tour to historical sites of interest</p>
-</li>
-<li>
-<p>Dialogue session with representatives from Inter-Religious Organisation
-Singapore</p>
-</li>
-</ul>
+<p><strong>JuraSEEK Park</strong>&nbsp;</p>
+<p>Take part in a fun and interactive strategy game facilitated by Bold At
+Work, where you’ll explore big ideas like what it means to be human in
+a world of AI, how we can become a learning society, and why learning goes
+beyond just getting good grades. It’s a chance to think differently, work
+in teams, and share your thoughts on these important topics.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Digital Defence</strong>
+<p><strong>Liveable City</strong>
 </p>
 </li>
 </ol>
 <p></p>
-<p><strong>Centre for Strategic InfoComm Technologies (CSIT)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/csit_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/csit_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will get to understand how CSIT, a technical agency in the
-Ministry of Defence, harnesses cutting-edge&nbsp;digital technologies to
-meet Singapore’s security needs and how it contributes to the nation’s
-Digital Defence.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guided tour of premises</p>
-</li>
-<li>
-<p>Dialogue session with experts</p>
-</li>
-</ul>
+<p><strong>Terra SG</strong>&nbsp;</p>
+<p>Enjoy a hands-on and meaningful experience at the Tzu Chi Humanistic Youth
+Centre, where you’ll take part in an upcycling workshop, explore the Glow
+On Gallery, and go on a guided tour of the centre. It’s a great way to
+learn more about sustainability, creativity, and how small actions can
+make a big difference.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong>Psychological Defence</strong>
+<p><strong>Uniquely Singapore</strong>
 </p>
 </li>
 </ol>
 <p></p>
-<p><strong>Internal Security Department (ISD) Heritage Centre</strong>
+<p><strong>Singapore Discovery Centre</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/isd_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/isd_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>Through understanding Singapore’s historical crises and real case studies,
-participants will develop clarity on the importance of the resolve to stand
-up for Singapore when pressured by forces that undermine our national interests,
-and the fighting spirit to press on and overcome crises together.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tour of the JI/ISIS, Hijacks and Communalism galleries&nbsp;</p>
-</li>
-<li>
-<p>Talk on Online Radicalisation by Security Outreach Unit&nbsp;&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Battlebox</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/battlebox_01.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/battlebox_02.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>The participants will have the opportunity to experience the actual World
-War II bunker where the British made key decisions resulting in the surrender
-of Singapore to the Japanese. Through this historical context, participants
-can learn what is at stake and what we must do to ensure our continued
-security, survival, and success.</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tour of Battlebox, a WWII bunker and historical site</p>
-</li>
-<li>
-<p>Dialogue session with historian and curator of Battlebox</p>
-</li>
-</ul>
+<p>Join us for a fun and meaningful guided tour and SG60-themed NE-Mazing
+Race, where you’ll explore Singapore’s past, take a closer look at our
+present, and think about how we can shape the future together. Through
+exciting activities and challenges, you’ll learn more about our nation’s
+journey and what it means to be part of Singapore’s story.&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>

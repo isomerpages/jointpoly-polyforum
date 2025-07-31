@@ -114,6 +114,23 @@ beliefs in our multicultural society.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Families Matter</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Human Library</strong>&nbsp;</p>
+<p>In this learning journey, you’ll get to “experience” living books from
+real people who will share their personal stories and experiences from
+different types of families in Singapore.&nbsp;</p>
+<p>Through these conversations, you’ll gain a deeper understanding of the
+diverse family backgrounds that make up our society.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>School of Tomorrow</strong>

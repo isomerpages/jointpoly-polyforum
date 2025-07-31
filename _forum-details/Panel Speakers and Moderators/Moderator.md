@@ -16,6 +16,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/Facilitators_Doris_Nga.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/Facilitators_Doris_Nga.jpg">
 </div>
 </td>
@@ -31,9 +42,7 @@ before joining Singapore Polytechnic as a lecturer in 1991.</p>
 for corporate executives, educators, and student leaders. With over 15
 years of facilitation experience, she developed the <em>Learning Facilitation Framework</em> –
 a codified facilitation process that helps educators engage students and
-facilitate their lessons more effectively. Her action research paper, <em>Igniting Student Engagement in the Classroom with the Learning Facilitation Framework</em>,
-co-authored with her team, will be featured at the Excellence in Education
-&amp; Teaching Convention 2025 in October this year.&nbsp;</p>
+facilitate their lessons more effectively.</p>
 </td>
 </tr>
 </tbody>

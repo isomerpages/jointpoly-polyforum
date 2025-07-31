@@ -40,75 +40,45 @@ issues and the trade-offs involved in solving them.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<h4><strong>Total Defence Table-Top-Exercise (TTX) and Sandbox with NEXUS</strong></h4>
+<h4><strong>Best Ideas Challenge</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2024/About PF 2024/td40_landscape.jpg">
-</div>
-<p>Go through a Total Defence TTX led by our partners from Nexus and our
-Polytechnic Forum facilitators and engage in discussions on how you and
-your community can be ready and prepared for crises and disruptions.&nbsp;</p>
-<p></p>
-<p>Other Interactive activities:</p>
-<p></p>
+<p><u>Specifications &amp; Submission Format of Best Ideas Challenge&nbsp;</u>&nbsp;</p>
+<p>📌 <strong>Format &amp; Specs</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Guardians of the City! Total Defence Card Game – Challenge a partner in
-this strategy card game designed to allow participants develop a deeper
-understanding of Singapore’s security threats and the part we play in keeping
-Singapore safe and secure</p>
+<p>🎞️ Video format&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>TD@Singverse – demo/showcase of TD@Singverse by Finute where participants
-can try out the Roblox metaverse and engage its TD-related activities on
-their phones&nbsp;</p>
+<p>⏱️ Length: Not more than 1 minute&nbsp;</p>
 </li>
 <li>
-<p>TD ScamGuard – demo/showcase of TD ScamGuard Discord platform by SudoX
-where participants can try out/join the platform on their phones and engage
-in SudoX’s quiz on scam detection&nbsp;</p>
-</li>
-<li>
-<p>TD Foam Blasters Challenge – demo/showcase of TD Foam Blasters Challenge
-by Urban Tactical SG</p>
-<p></p>
+<p>📐 Dimensions: 1008px by 672px&nbsp;</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<h4><strong>Community Action Project</strong></h4>
-<p></p>
-<p>Forum participants will head out to community spaces to engage residents
-on the ground to spread awareness of Total Defence and get them to pledge
-towards Total Defence via SAFRA’s I Pledge Total Defence campaign website
-<a href="https://ipledgetd.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ipledgetd.sg/</u>
-</a>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/pledge_chart.png">
-</div>
-<p><u>Locations:</u>
-</p>
-<ul>
+<p>🎯 <strong>Content Must-Haves</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Our Tampines Hub&nbsp;– Civil Defence</p>
+<p>👥 Show student faces (at least a few)&nbsp;</p>
 </li>
 <li>
-<p>Wisma Geylang Serai&nbsp;– Economic Defence</p>
+<p>💬 Include subtitles&nbsp;</p>
 </li>
 <li>
-<p>Pasir Ris Elias CC&nbsp;– Social Defence</p>
-</li>
-<li>
-<p>Heartbeat@Bedok&nbsp;– Digital Defence</p>
-</li>
-<li>
-<p>Pasir Ris East CC&nbsp;– Psychological Defence</p>
+<p>🎵 Use royalty-free music only&nbsp;</p>
 </li>
 </ul>
+<p>📤 <strong>Submission Details</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>📁 Upload via<strong> </strong>Google Drive (link: )&nbsp;</p>
+</li>
+<li>
+<p>🗓️ Deadline: <strong>18 September 2025 6PM sharp</strong> ⏳&nbsp;
+<br> <em>(Late submissions will not be accepted)</em>&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -119,59 +89,27 @@ towards Total Defence via SAFRA’s I Pledge Total Defence campaign website
 <p></p>
 <p>Participants will have the opportunity to go on learning journeys to places
 relevant to their respective sub-themes to allow them to experience first-hand
-how organisations and activities on the ground contribute to Singapore’s
-Total Defence.&nbsp;</p>
+the organisations and activities that make Singapore unique.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Civil Defence</strong>
+<p><strong>Kampung 2.0</strong>
 </p>
 </li>
 </ol>
 <p></p>
-<p><strong>Singapore Civil Defence Force (SCDF) Fire Stations&nbsp;</strong>
+<p><strong>Harmony in Diversity Gallery&nbsp;</strong>&nbsp;<strong>&nbsp;</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/scdf_01.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<p>As part of your learning journey, you’ll go on a guided tour organised
+by the Ministry of Home Affairs (MHA) together with community partners.
+This tour will help you better understand and appreciate Singapore’s diverse
+religious landscape, and why it’s important to respect and celebrate different
+beliefs in our multicultural society.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/scdf_02.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><u>Rationale:</u>
-</p>
-<p>Participants will have the opportunity to explore the part SCDF plays
-in Singapore’s emergency preparedness and recovery from emergencies.&nbsp;</p>
-<p></p>
-<p><u>Experiences:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to Punggol Fire Station and Tampines Fire Station to learn about
-Responder Plus Programme&nbsp;</p>
-</li>
-<li>
-<p>Dialogue session with Officers&nbsp;</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>

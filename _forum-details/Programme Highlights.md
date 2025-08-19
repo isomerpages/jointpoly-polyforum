@@ -127,7 +127,7 @@ beliefs in our multicultural society.&nbsp;</p>
 <p><strong>Human Library</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/about_sp_hero_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/Human_Library.jpg">
 </div>
 <p>In this learning journey, you’ll get to “experience” living books from
 real people who will share their personal stories and experiences from

@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Sub-Theme: Kampong 2.0</strong>
+<p><strong>Sub-Theme: Kampung 2.0</strong>
 <br>
 </p>
 <table style="minWidth: 75px">

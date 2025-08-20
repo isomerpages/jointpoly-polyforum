@@ -139,6 +139,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Dione Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joshua Desmond Chan Jit Han</p>
 </td>
 <td rowspan="1" colspan="1">

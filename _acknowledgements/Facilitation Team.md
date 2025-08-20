@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Doreen Mak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -184,18 +184,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr. Arati Mali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Polytechnic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Facilitator</p>
+<p>Facilitator</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Huang Yuqin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ngee Ann Polytechnic</p>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Wan Wen Merrilyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yongfeng Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sng Wei Yuan Carrie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>

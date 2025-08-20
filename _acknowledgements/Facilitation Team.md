@@ -262,7 +262,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Harveen Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -273,7 +273,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mohamed Redha Bin Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Viktor Wahadaniah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ngee Ann Polytechnic</p>
@@ -284,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pang Jie Liang Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>
@@ -295,7 +306,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chew Boon Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -306,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mohamad Zulqarnain Bin Mohamad Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>
@@ -340,7 +351,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nellie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -351,7 +362,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr. Veronica Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Eng Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ngee Ann Polytechnic</p>
@@ -362,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dutta Nikhil Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>
@@ -373,10 +395,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Yen Ling Charmaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Republic Polytechnic</p>
+<p>Singapore Polytechnic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Facilitator</p>
@@ -384,7 +406,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pauline Lau Sok Hia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>
@@ -418,7 +440,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yip Ching Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -429,7 +451,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tio Choon Fook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharon Tan Li Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ngee Ann Polytechnic</p>
@@ -440,7 +473,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chiang Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>
@@ -451,10 +484,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Azahari Mohamad Yusuf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Republic Polytechnic</p>
+<p>Singapore Polytechnic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Facilitator</p>
@@ -462,7 +495,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chea Le Ting Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>

@@ -1,5 +1,5 @@
 ---
-title: Kampung 2 0
+title: "Kampung 2.0"
 permalink: /about/sub-themes/kampung2/
 variant: tiptap
 description: ""

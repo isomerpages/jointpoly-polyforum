@@ -24,7 +24,7 @@ variant: tiptap
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/Partners.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/Partners.png">
 </div>
 <p></p>
 <p></p>

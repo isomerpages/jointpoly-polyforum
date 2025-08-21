@@ -14,16 +14,17 @@ variant: tiptap
 <p><strong>Organisers:</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/poly_logos___line.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/ALL_Poly_Logos.png">
 </div>
+<h4></h4>
 <p></p>
-<h4><strong>We want to express our deepest gratitude to our partner for the generous contribution and support of the Polytechnic Forum 2025.</strong></h4>
-<p></p>
-<p><strong>Partner:</strong>
+<p><strong>In Support of:</strong>
+<br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/New_NYC_logo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/Partners.png">
 </div>
+<p></p>
 <p></p>

@@ -46,13 +46,14 @@ issues and the trade-offs involved in solving them.&nbsp;</p>
 <p>📌 <strong>Format &amp; Specs</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>🎞️ Video format&nbsp;&nbsp;</p>
+<p>🎞️ Preferred format: mp4&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>⏱️ Length: Not more than 1 minute&nbsp;</p>
 </li>
 <li>
-<p>📐 Dimensions: 1008px by 672px&nbsp;</p>
+<p>📐 Pixel size: 1008px by 672px (If the software doesn’t support custom
+pixel size, use 1920px by 1080px – standard full HD)&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p>🎯 <strong>Content Must-Haves</strong>&nbsp;</p>
@@ -61,7 +62,7 @@ issues and the trade-offs involved in solving them.&nbsp;</p>
 <p>👥 Show student faces (at least a few)&nbsp;</p>
 </li>
 <li>
-<p>💬 Include subtitles&nbsp;</p>
+<p>💬 Must include subtitles&nbsp;</p>
 </li>
 <li>
 <p>🎵 Use royalty-free music only&nbsp;</p>

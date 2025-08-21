@@ -7,7 +7,8 @@ variant: tiptap
 <h4><strong>PF 2025 is hosted by Singapore Polytechnic.</strong></h4>
 <p><strong>Organising Chairman:</strong> Evelynn Koh
 <br><strong>Deputy Chairman:</strong> Johnny Ong
-<br><strong>Secretariat:</strong> Jelena Ong
+<br><strong>Secretariat:</strong> Jelena Ong, Christina Sho, Hong Xin Ni, Jeremy
+Ng
 <br><strong>Chief Facilitator:</strong> Doris Nga
 <br><strong>Deputy Chief Facilitator:</strong> Jacqueline Tan
 <br><strong>Lead Facilitator:</strong> Farah Nadine Seth, Doreen Mak, Harveen

@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joshua Desmond Chan Jit Han</p>
+<p>Dr. Joshua Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic</p>
@@ -317,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chew Boon Seng</p>
+<p>Dr. Chew Boon Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -406,7 +406,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Ling Charmaine</p>
+<p>Dr. Charmaine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>
@@ -484,7 +484,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chiang Feng</p>
+<p>Nicholas Chiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>

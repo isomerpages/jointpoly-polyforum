@@ -15,9 +15,7 @@ Ng
 Kaur Singh, Nellie Tan, Yip Ching Yee&nbsp;
 <br>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,84 +32,94 @@ Kaur Singh, Nellie Tan, Yip Ching Yee&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ronnie Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Nanyang Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Soo Zhi Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Nanyang Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Alaska Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ngee Ann Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Joel Gwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ngee Ann Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Leong Yihui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Republic Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Kee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wan Mei Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hope Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clemens Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farhan Kamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhd Haffiz Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>

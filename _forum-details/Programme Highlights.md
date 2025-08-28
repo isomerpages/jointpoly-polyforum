@@ -71,7 +71,7 @@ pixel size, use 1920px by 1080px – standard full HD)&nbsp;&nbsp;</p>
 <p>📤 <strong>Submission Details</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>📁 Upload via<strong> </strong>Google Drive (link: )&nbsp;</p>
+<p>📁 Upload via<strong> </strong>link provided in the e-Handbook&nbsp;</p>
 </li>
 <li>
 <p>🗓️ Deadline: <strong>18 September 2025 6PM sharp</strong> ⏳&nbsp;

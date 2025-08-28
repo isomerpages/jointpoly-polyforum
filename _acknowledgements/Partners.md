@@ -15,10 +15,10 @@ variant: tiptap
 <p><strong>Organisers:</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/ALL_Poly_Logos.png">
 </div>
-<p></p>
 <h4></h4>
 <p></p>
 <p><strong>In Support of:</strong>

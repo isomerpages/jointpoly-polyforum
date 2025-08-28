@@ -18,7 +18,7 @@ variant: tiptap
 </div>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Walid Jumblatt bin Abdullah</strong>
+<p><strong>Prof Walid Jumblatt bin Abdullah</strong>
 <br>Asst Chair (Students), School of Social Sciences &amp; Assoc Prof, School
 of Social Sciences&nbsp;
 <br>
@@ -96,7 +96,7 @@ equitable workforce development.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Fun Siew Leng</strong>&nbsp;<strong>&nbsp;</strong>&nbsp;
+<p><strong>Ms Fun Siew Leng</strong>&nbsp;<strong>&nbsp;</strong>&nbsp;
 <br>Chief Urban Designer, Urban Redevelopment Authority&nbsp;</p>
 <p>Ms Fun Siew Leng is currently the Chief Urban Designer at the Urban Redevelopment
 Authority (URA).&nbsp; She graduated from National University of Singapore

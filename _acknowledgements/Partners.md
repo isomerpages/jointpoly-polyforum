@@ -24,6 +24,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/SGYP_NYC_SG60_lock_up_CMYK_NYC_2025_Full_Colour.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/SGYP_NYC_SG60_lock_up_CMYK_NYC_2025_Full_Colour.png">
 </div>
 <p></p>

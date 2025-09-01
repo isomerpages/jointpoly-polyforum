@@ -44,7 +44,7 @@ sections:
           url: /resources/e-handbook/
         - title: Gallery
           description: Capture your Learning Journey, ideas and friendships at PF 2025!
-          linktext: VIEW PHOTO HERE >
+          linktext: VIEW PHOTOS HERE >
           url: /day-1-25-sep-2024/
       description: For Delegates
 ---

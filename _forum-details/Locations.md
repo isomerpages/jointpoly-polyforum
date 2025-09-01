@@ -11,8 +11,8 @@ variant: tiptap
 <p>Welcome to Singapore Polytechnic (SP)! This guide will provide you with
 step-by-step instructions on how to reach SP using public transportation
 or by car.</p>
-<p>For locations of the various onsite/offsite activities, please download
-the <strong><a href="/files/2024/pf24_e_handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">PF 2024 e-Handbook</a></strong>.</p>
+<p>For locations of the various onsite/offsite activities, please refer to
+the e-Handbook.</p>
 <h4><strong>By Public Transportation:</strong></h4>
 <p><strong>1. MRT:</strong>
 </p>
@@ -36,7 +36,7 @@ Line (EW).</p>
 <p><strong>14</strong>: Clementi ↔ Bedok</p>
 </li>
 <li>
-<p><strong>74</strong>: Bouna Vista ↔ Hougang</p>
+<p><strong>74</strong>: Buona Vista ↔ Hougang</p>
 </li>
 <li>
 <p><strong>105</strong>: Jurong East ↔ Serangoon</p>
@@ -51,7 +51,7 @@ Line (EW).</p>
 <p><strong>166</strong>: Clementi ↔ Ang Mo Kio</p>
 </li>
 <li>
-<p><strong>185</strong>: Bouna Vista ↔ Soon Lee</p>
+<p><strong>185</strong>: Buona Vista ↔ Soon Lee</p>
 </li>
 </ul>
 </li>

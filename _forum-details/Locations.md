@@ -12,7 +12,7 @@ variant: tiptap
 step-by-step instructions on how to reach SP using public transportation
 or by car.</p>
 <p>For locations of the various onsite/offsite activities, please refer to
-the e-Handbook.</p>
+the <a href="/resources/e-handbook/" rel="noopener nofollow" target="_blank">e-Handbook</a>.</p>
 <h4><strong>By Public Transportation:</strong></h4>
 <p><strong>1. MRT:</strong>
 </p>

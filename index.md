@@ -45,6 +45,6 @@ sections:
         - title: Gallery
           description: Capture your Learning Journey, ideas and friendships at PF 2025!
           linktext: VIEW PHOTOS HERE >
-          url: /day-1-25-sep-2024/
+          url: /day-0-12-sep-2025/
       description: For Delegates
 ---

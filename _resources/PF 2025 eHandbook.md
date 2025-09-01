@@ -2,9 +2,9 @@
 title: PF 2025 eHandbook
 permalink: /resources/e-handbook/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p>Download the <strong><a href="/files/2024/pf24_e_handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Forum (PF) 2024 e-Handbook</a></strong>!</p>
+<p>Download the <a href="https://drive.google.com/file/d/1x9ijGlaXj6I8lUy05-yjPZCKoLq9K2MX/view?usp=sharing" rel="noopener nofollow" target="_blank">Polytechnic Forum 2025 e-Handbook</a>!</p>
 <p>The PF 2025 e-Handbook serves as a comprehensive guide to the event. It
 outlines the program, experiential activities, and panel discussions that
 will be offered throughout the six-day forum.</p>

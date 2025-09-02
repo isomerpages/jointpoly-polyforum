@@ -11,8 +11,8 @@ image: /images/PF 2025/About PF 2025/Uniquely_Singapore.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/Uniquely_Singapore.png">
 </div>
-<p>Appreciating our past and continuing what Singapore has achieved to strengthen
-our shared values as one united people.</p>
+<p><strong>Appreciating our past and continuing what Singapore has achieved to strengthen our shared values as one united people.</strong>
+</p>
 <p>In this sub-theme, students would understand how Singapore's past and
 present achievements inspire Singapore’s commitment to strengthening our
 shared values as one united people and nation.</p>

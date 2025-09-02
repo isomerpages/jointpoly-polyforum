@@ -10,8 +10,8 @@ image: /images/PF 2025/About PF 2025/Families_Matter.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/About PF 2025/Families_Matter.png">
 </div>
-<p>Building a Singapore that supports families, balancing work and caregiving
-needs across life stages.</p>
+<p><strong>Building a Singapore that supports families, balancing work and caregiving needs across life stages.</strong>
+</p>
 <p>In this sub-theme, students would have a better understanding of the diverse
 challenges faced by different types of families in Singapore, and through
 the dialogue with the speakers be able to reflect and create a more inclusive

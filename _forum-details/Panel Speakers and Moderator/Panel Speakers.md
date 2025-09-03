@@ -133,14 +133,15 @@ Library, National Archives and the public libraries in Singapore. He is
 the currently the Executive Creative Director of the SG60 Flagship Event:
 The Heart &amp; Soul Experience.&nbsp;</p>
 <p>Previously, as the Executive Director of the Singapore Bicentennial Office
-at the Prime Minister’s Office, Gene helmed the Singapore Bicentennial
+at the Prime Minister’s Office, Mr Gene helmed the Singapore Bicentennial
 which commemorated the 200th anniversary of Raffles’ arrival in Singapore
 in 1819. The commemoration included The Bicentennial Experience at Fort
 Canning which broke attendance records for exhibitions. He was also the
 Creative Director of the SG50 capstone event, The Future of Us Exhibition
-that captured the hopes and dreams of Singaporeans. Gene was formerly the
-Director of the National Library, where he developed the Singapore Memory
-Project, and the former President of the Library Association of Singapore.&nbsp;&nbsp;&nbsp;</p>
+that captured the hopes and dreams of Singaporeans. Mr Gene was formerly
+the Director of the National Library, where he developed the Singapore
+Memory Project, and the former President of the Library Association of
+Singapore.&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>

@@ -24,9 +24,9 @@ variant: tiptap
 <br>Senior Specialist at the School of Life Skills &amp; Communication, Singapore
 Polytechnic</p>
 <p></p>
-<p>With a post-graduate degree in mass communication, Doris spent over a
-decade in the creative industry as a creative director and an account director
-before joining Singapore Polytechnic as a lecturer in 1991.</p>
+<p>With a post-graduate degree in mass communication, Ms Doris spent over
+a decade in the creative industry as a creative director and an account
+director before joining Singapore Polytechnic as a lecturer in 1991.</p>
 <p>These days, when she is not teaching, she designs and delivers training
 for corporate executives, educators, and student leaders. With over 15
 years of facilitation experience, she developed the <em>Learning Facilitation Framework</em> –

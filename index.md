@@ -21,7 +21,7 @@ sections:
       button: Find Out More
       url: /overview/
   - infobar:
-      title: SUBTHEMES
+      title: SUB-THEMES
       subtitle: Our Home Our Singapore
       id: infobar
       description: The curated activities offer students meaningful engagement

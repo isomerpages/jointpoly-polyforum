@@ -45,18 +45,18 @@ and elections, political Islam, and Southeast Asian politics.</p>
 <p><strong>Mr Ishak Ismail&nbsp;</strong>&nbsp;
 <br>Council Chairman for Families for Life Council&nbsp;</p>
 <p></p>
-<p>Mr Ishak Bin Ismail is Singapore’s High Commissioner (Non-Resident) for
-the Islamic Republic of Pakistan. He is also Chairman for the Families
-for Life Council, and Chairman of the National Maritime Safety at Sea Council,
-and a member of the Board of Directors of National University Health System.&nbsp;&nbsp;&nbsp;</p>
-<p>Ishak is currently Principal Consultant at i-Grow Partners Pte Ltd. Ishak’s
-previous work experiences from 2011 to 2022 were with BAE Systems Hägglunds
-as Regional Director (Asia), with CWT Limited as CEO Defence Services and
-with ST Electronics (e-Services) Pte Ltd as Senior Vice-President/General
+<p>Mr Ishak is Singapore’s High Commissioner (Non-Resident) for the Islamic
+Republic of Pakistan. He is also Chairman for the Families for Life Council,
+and Chairman of the National Maritime Safety at Sea Council, and a member
+of the Board of Directors of National University Health System.&nbsp;&nbsp;&nbsp;</p>
+<p>Mr Ishak is currently Principal Consultant at i-Grow Partners Pte Ltd.
+Ishak’s previous work experiences from 2011 to 2022 were with BAE Systems
+Hägglunds as Regional Director (Asia), with CWT Limited as CEO Defence
+Services and with ST Electronics (e-Services) Pte Ltd as Senior Vice-President/General
 Manager.&nbsp;</p>
 <p></p>
-<p>In 2011, Ishak retired from the Singapore Armed Forces (SAF) in the rank
-of Brigadier-General after serving more than 29 years. He held various
+<p>In 2011, Mr Ishak retired from the Singapore Armed Forces (SAF) in the
+rank of Brigadier-General after serving more than 29 years. He held various
 senior appointments with the SAF, including Commander 6th Division / Combined
 Arms Training Centre (CATC) and as the Army’s head of training. He contributed
 significantly to training transformation for the SAF and in developing
@@ -76,17 +76,17 @@ and Master of Business Administration from the National University of Singapore.
 <p><strong>Mr Eugene Ho</strong>&nbsp;<strong>&nbsp;</strong>&nbsp;
 <br>Global CSR Director for future skills at SAP &amp; serves on the boards
 of Common Purpose APAC</p>
-<p>Mr Eugene Ho is a seasoned leader in corporate affairs and social sustainability,
+<p>Mr Eugene is a seasoned leader in corporate affairs and social sustainability,
 currently serving as Global CSR Director for Future Skills at SAP. With
 over two decades in the IT sector, he spearheads global initiatives to
 empower marginalized youth through digital skills and inclusive learning
 pathways, building strategic public-private partnerships internationally.
 Formerly SAP’s Regional CSR Head for East Asia &amp; Pacific, his leadership
 has earned honors for SAP including the ASEAN Business Award.</p>
-<p>Eugene serves on the World Economic Forum’s Global Future Council, the
-board of Common Purpose Asia Pacific, and the advisory committee of Ngee
-Ann Polytechnic. A dedicated youth advocate, he mentors actively and champions
-equitable workforce development.</p>
+<p>Mr Eugene serves on the World Economic Forum’s Global Future Council,
+the board of Common Purpose Asia Pacific, and the advisory committee of
+Ngee Ann Polytechnic. A dedicated youth advocate, he mentors actively and
+champions equitable workforce development.</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ equitable workforce development.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Fun Siew Leng</strong>&nbsp;<strong>&nbsp;</strong>&nbsp;
 <br>Chief Urban Designer, Urban Redevelopment Authority&nbsp;</p>
-<p>Ms Fun Siew Leng is currently the Chief Urban Designer at the Urban Redevelopment
+<p>Ms Fun is currently the Chief Urban Designer at the Urban Redevelopment
 Authority (URA).&nbsp; She graduated from National University of Singapore
 with a Bachelor of Architecture (Hons) and subsequently obtained a Master
 of Architecture in Urban Design from the Graduate School of Design, Harvard
@@ -125,13 +125,13 @@ as Singapore Institute of Planners Planning Awards.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Gene Tan</strong>&nbsp;<strong>&nbsp;</strong>&nbsp;
 <br>Chief Librarian and Chief Innovation Officer, National Library Board</p>
-<p>Gene is the Chief Librarian of the National Library Board (NLB) and watches
-over the professional development of all librarians in NLB. As Chief Innovation
-Officer, he is spearheading the development of LAB25 (Libraries and Archives
-Blueprint 2025), a new transformative vision for the National Library,
-National Archives and the public libraries in Singapore. He is the currently
-the Executive Creative Director of the SG60 Flagship Event: The Heart &amp;
-Soul Experience.&nbsp;</p>
+<p>Mr Gene is the Chief Librarian of the National Library Board (NLB) and
+watches over the professional development of all librarians in NLB. As
+Chief Innovation Officer, he is spearheading the development of LAB25 (Libraries
+and Archives Blueprint 2025), a new transformative vision for the National
+Library, National Archives and the public libraries in Singapore. He is
+the currently the Executive Creative Director of the SG60 Flagship Event:
+The Heart &amp; Soul Experience.&nbsp;</p>
 <p>Previously, as the Executive Director of the Singapore Bicentennial Office
 at the Prime Minister’s Office, Gene helmed the Singapore Bicentennial
 which commemorated the 200th anniversary of Raffles’ arrival in Singapore

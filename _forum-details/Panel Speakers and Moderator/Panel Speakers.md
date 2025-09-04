@@ -109,7 +109,7 @@ North Coast and Punggol Digital District. Her work involves working in
 collaboration with partner agencies, built environment sector professionals
 and the community to make Singapore a liveable city that is distinctive,
 dynamic and delightful.&nbsp;&nbsp;&nbsp;</p>
-<p>She sits on the Board of Architects, Land Transport Authority Architectural
+<p>Ms Fun sits on the Board of Architects, Land Transport Authority Architectural
 Design Review Panel and NEST Design Review Panel for Workers’ Dormitories.&nbsp;
 She served on the juries for Founders’ Memorial Design Competition, URA’s
 20Under45 programme, Greater Bay Urban Design Awards (HK-China) as well

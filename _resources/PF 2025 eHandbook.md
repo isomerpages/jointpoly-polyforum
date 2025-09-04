@@ -11,6 +11,6 @@ will be offered throughout the 6-day forum.</p>
 <p>Additionally, the e-Handbook provides essential information regarding
 sub-group assignments, forum etiquette, administrative procedures (including
 dress code and packing lists) and IT support (such as WiFi connectivity).</p>
-<p>By consulting this resource, participants can optimize their learning
+<p>By consulting this resource, participants can optimise their learning
 experience, gain valuable insights, and foster meaningful connections with
 fellow attendees.</p>

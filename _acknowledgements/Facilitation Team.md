@@ -451,7 +451,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tio Choon Fook</p>
+<p>Flex Tio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Polytechnic</p>

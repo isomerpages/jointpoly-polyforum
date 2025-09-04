@@ -4,11 +4,8 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<h4><strong>BACKGROUND&nbsp;</strong>&nbsp;</h4>
+<h4><strong>OVERVIEW&nbsp;</strong>&nbsp;</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PF 2025/Forum Details/DSC03127_jpg.jpg">
-</div>
 <p>Originated in 1996, the annual Polytechnic Forum has served as a valuable
 platform for polytechnic students to deepen their understanding of national
 issues through meaningful discussions, learning journeys and activities
@@ -45,4 +42,4 @@ pillar of SG60. &nbsp;</p>
 opportunities that will help them to relate to issues pertinent to Singapore
 currently, and how they can use Poly Forum 2025 as their sandbox to reimagine,
 remix and rebuild our city state into the ‘Next-Gen’ city that they will
-want to call “my home”.</p>
+want to call 'my home'.</p>

@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yongfeng Teo</p>
+<p>Andy Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic</p>

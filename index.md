@@ -33,17 +33,17 @@ sections:
       title: EXPLORE
       id: textcards
       cards:
-        - title: Programme Highlight
+        - title: Programme Highlights
           description: Learning Journey, and more.
           linktext: READ MORE >
           url: /programme-highlights/
         - title: e-Handbook
           description: Check your sub-groups, forum etiquette, dress code, packing lists,
-            and more!
+            and more.
           linktext: GRAB A COPY HERE >
           url: /resources/e-handbook/
         - title: Gallery
-          description: Capture your Learning Journey, ideas and friendships at PF 2025!
+          description: Capture your Learning Journey, ideas and friendships at PF 2025.
           linktext: VIEW PHOTOS HERE >
           url: /day-0-12-sep-2025/
       description: For Delegates

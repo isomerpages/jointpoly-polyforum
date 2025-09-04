@@ -17,7 +17,7 @@ sections:
       id: infobar
       description: Empowering youths to reimagine and shape Singapore’s future as part
         of SG60 celebrations into the ‘Next-Gen’ city that they will want to
-        call “my home”.
+        call 'my home'.
       button: Find Out More
       url: /overview/
   - infobar:

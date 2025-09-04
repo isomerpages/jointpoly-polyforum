@@ -50,39 +50,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jelena Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Polytechnic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretariat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Christina Sho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Polytechnic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretariat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hong Xin Ni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Polytechnic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretariat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Jeremy Ng</p>
 </td>
 <td rowspan="1" colspan="1">

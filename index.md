@@ -43,7 +43,7 @@ sections:
           linktext: GRAB A COPY HERE >
           url: /resources/e-handbook/
         - title: Gallery
-          description: Capture your Learning Journey, ideas and friendships at PF 2025.
+          description: Capture your PF 2025 moments here.
           linktext: VIEW PHOTOS HERE >
           url: /day-0-12-sep-2025/
       description: For Delegates

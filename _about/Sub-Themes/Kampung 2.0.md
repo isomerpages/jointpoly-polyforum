@@ -3,7 +3,7 @@ title: Kampung 2.0
 permalink: /about/sub-themes/kampung2/
 variant: tiptap
 description: ""
-third_nav_title: Sub Themes
+third_nav_title: Sub-Themes
 ---
 <p></p>
 <p></p>

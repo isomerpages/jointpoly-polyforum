@@ -2,7 +2,7 @@
 title: Liveable City
 permalink: /about/sub-themes/liveablecity/
 description: ""
-third_nav_title: Sub Themes
+third_nav_title: Sub-Themes
 variant: tiptap
 image: /images/PF 2025/About PF 2025/Livable_City.png
 ---

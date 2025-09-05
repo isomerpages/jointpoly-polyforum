@@ -2,7 +2,7 @@
 title: School of Tomorrow
 permalink: /about/sub-themes/schooloftomorrow/
 description: ""
-third_nav_title: Sub Themes
+third_nav_title: Sub-Themes
 variant: tiptap
 image: /images/PF 2025/About PF 2025/School_of_Tomorrow.png
 ---

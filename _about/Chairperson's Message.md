@@ -11,7 +11,7 @@ description: ""
 <p>Welcome to Polytechnic Forum 2025!</p>
 <p>It gives me great pleasure to extend a warm welcome to all of you to this
 year’s Polytechnic Forum.</p>
-<p>This year’s Forum, themed <strong>“Our Home Our Singapore,”</strong> marks
+<p>This year’s Forum, themed <strong>'Our Home Our Singapore',</strong> marks
 a significant milestone as we commemorate SG60, celebrating six decades
 of Singapore’s nation-building journey. Since its inception in 1996, the
 Forum has served as an important platform for young leaders to engage in

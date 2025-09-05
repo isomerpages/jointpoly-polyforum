@@ -1,0 +1,16 @@
+logo: /images/PF 2025/About PF 2025/PF2025__Final_Approved_Logo.png
+links:
+  - title: About
+    collection: about
+  - title: Forum Details
+    collection: forum-details
+  - title: Resources
+    collection: resources
+  - title: Gallery
+    collection: gallery
+  - title: Acknowledgements
+    collection: acknowledgements
+  - title: Contact Us
+    url: /contactus
+  - title: Past Polytechnic Forums
+    collection: past-polytechnic-forums

@@ -1,0 +1,9 @@
+collections:
+  forum-details:
+    output: true
+    order:
+      - Programme Highlights.md
+      - Locations.md
+      - Panel Speakers and Moderator/.keep
+      - Panel Speakers and Moderator/Panel Speakers.md
+      - Panel Speakers and Moderator/Moderator.md

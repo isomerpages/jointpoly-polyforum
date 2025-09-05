@@ -1,0 +1,509 @@
+---
+title: Facilitation Team
+permalink: /acknowledgements/facilitation-team/
+description: ""
+variant: tiptap
+---
+<h4><strong>We would like to extend our appreciation to the following polytechnic colleagues who have contributed to the facilitation of the programmes and activities.</strong></h4>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Doris Nga</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jacqueline Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Chief Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jeremy Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretariat</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Theme: Kampung 2.0</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farah Nadine Binte Mohamad Seth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Fahn Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chow Shi Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Biswajit Fahroun Guha Thakurta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dione Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Joshua Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Theme: Families Matter</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Doreen Mak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Arati Mali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Yuqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Wan Wen Merrilyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Andy Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sng Wei Yuan Carrie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Theme: School of Tomorrow</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harveen Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Redha Bin Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Viktor Wahadaniah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pang Jie Liang Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Chew Boon Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Zulqarnain Bin Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Theme: Liveable City</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nellie Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Veronica Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Eng Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dutta Nikhil Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Charmaine Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pauline Lau Sok Hia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Theme: Uniquely Singapore</strong>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Facilitator</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Polytechnic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yip Ching Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flex Tio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharon Tan Li Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nicholas Chiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Azahari Mohamad Yusuf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chea Le Ting Jolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

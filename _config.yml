@@ -1,0 +1,62 @@
+title: Polytechnic Forum 2025
+url: https://www.polyforum.edu.sg
+favicon: /images/PF 2025/About PF 2025/PF2025__Final_Approved_Logo.png
+colors:
+  primary-color: "#b51f2b"
+  secondary-color: "#b51f2b"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: The Polytechnic Forum (PF), an initiative which started in 1996,
+  aims to provide a platform for polytechnic students to gain a deeper
+  understanding of pertinent national issues through peer discussions, learning
+  journeys, talks, and engagement with government and industry leaders.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d1i7qegjhanjq0.amplifyapp.com/
+prod: https://master.d1i7qegjhanjq0.amplifyapp.com/
+shareicon: /images/PF 2025/About PF 2025/PF2025__Final_Approved_Logo.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""

@@ -1,6 +1,6 @@
-title: Polytechnic Forum 2024
+title: Polytechnic Forum 2025
 url: https://www.polyforum.edu.sg
-favicon: /images/PF 2024/About PF 2024/PF_2024_Favicon_Final_02__Revised_.jpg
+favicon: /images/PF 2025/About PF 2025/PF2025__Final_Approved_Logo.png
 colors:
   primary-color: "#b51f2b"
   secondary-color: "#b51f2b"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1i7qegjhanjq0.amplifyapp.com/
 prod: https://master.d1i7qegjhanjq0.amplifyapp.com/
-shareicon: /images/PF 2024/About PF 2024/PF_2024_Logo_Horizontal_Final__Revised___1_.png
+shareicon: /images/PF 2025/About PF 2025/PF2025__Final_Approved_Logo.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""

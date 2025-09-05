@@ -4,7 +4,8 @@ permalink: /acknowledgements/partners/
 description: ""
 variant: tiptap
 ---
-<p>This event is organised as part of:</p>
+<p><strong>This event is organised as part of:</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/SYLP_3x.png">
@@ -14,16 +15,16 @@ variant: tiptap
 <p><strong>Organisers:</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/poly_logos___line.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/ALL_Poly_Logos.png">
 </div>
+<h4></h4>
 <p></p>
-<h4><strong>We want to express our deepest gratitude to our sponsors and partners for their generous contributions and support of the Polytechnic Forum 2024.</strong></h4>
-<p></p>
-<p><strong>Partners:</strong>
+<p><strong>In Support of:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Acknowledgements/partner_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PF 2025/Acknowledgements/SGYP_NYC_SG60_lock_up_CMYK_NYC_2025_Full_Colour.png">
 </div>
 <p></p>

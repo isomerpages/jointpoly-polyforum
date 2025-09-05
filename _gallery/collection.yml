@@ -2,9 +2,9 @@ collections:
   gallery:
     output: true
     order:
-      - Day 1 (25 Sep 2024).md
-      - Day 2 (26 Sep 2024).md
-      - Day 3 (27 Sep 2024).md
-      - Day 4 (30 Sep 2024).md
-      - Day 5 (1 Oct 2024).md
-      - Day 6 (2 Oct 2024).md
+      - Day 0 (12 Sep 2025).md
+      - Day 1 (15 Sep 2025).md
+      - Day 2 (16 Sep 2025).md
+      - Day 3 (17 Sep 2025).md
+      - Day 4 (18 Sep 2025).md
+      - Day 5 (19 Sep 2025).md

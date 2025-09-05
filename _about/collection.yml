@@ -2,12 +2,11 @@ collections:
   about:
     output: true
     order:
-      - Chairman's Message.md
+      - Chairperson's Message.md
       - Overview.md
       - Sub Themes/.keep
-      - Sub Themes/Military Defence.md
-      - Sub Themes/Civil Defence.md
-      - Sub Themes/Economic Defence.md
-      - Sub Themes/Social Defence.md
-      - Sub Themes/Digital Defence.md
-      - Sub Themes/Psychological Defence.md
+      - Sub Themes/Kampung 2.0.md
+      - Sub Themes/Families Matter.md
+      - Sub Themes/School of Tomorrow.md
+      - Sub Themes/Liveable City.md
+      - Sub Themes/Uniquely Singapore.md

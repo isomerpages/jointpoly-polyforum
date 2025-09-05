@@ -5,25 +5,21 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/nyp_facade.jpg">
-</div>
-<p>Welcome to Nanyang Polytechnic (NYP)! This guide will provide you with
-step-by-step instructions on how to reach NYP using public transportation
-or by car.</p>
-<p>For locations of the various onsite/offsite activities, please download
-the <strong><a href="/files/2024/pf24_e_handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">PF 2024 e-Handbook</a></strong>.</p>
+<p>Welcome to Singapore Polytechnic (SP)! This guide will provide you with
+step-by-step instructions on how to reach SP using public transportation
+or by private vehicle.</p>
+<p>For locations of the various onsite/offsite activities, please refer to
+the <a href="/resources/e-handbook/" rel="noopener nofollow" target="_blank">e-Handbook</a>.</p>
 <h4><strong>By Public Transportation:</strong></h4>
 <p><strong>1. MRT:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The nearest MRT station to NYP is <strong>Yio Chu Kang</strong> on the North-South
-Line (NS).</p>
+<p>The nearest MRT station to SP is <strong>Dover</strong> on the East-West
+Line (EW).</p>
 </li>
 <li>
-<p>From Yio Chu Kang station, take Exit B and walk for approximately 5 minutes
-towards Ang Mo Kio Avenue 5.</p>
+<p>From Dover station, take Exit A.</p>
 </li>
 </ul>
 <p></p>
@@ -31,49 +27,31 @@ towards Ang Mo Kio Avenue 5.</p>
 </p>
 <ul>
 <li>
-<p>Several bus services stop near NYP. Some popular routes include:</p>
+<p>SP is accessible by these bus services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>45</strong>: Upp East Coast Ter ↔ Ang Mo Kio Depot</p>
-</li>
-<li>
-<p><strong>70</strong>: Yio Chu Kang Int ↔ Shenton Way Ter</p>
-</li>
-<li>
-<p><strong>72</strong>: Yio Chu Kang Int ↔ Hougang Ctrl (Opp Hougang Ctrl
-Int)</p>
-</li>
-<li>
-<p><strong>265</strong>: Ang Mo Kio Depot ↺ Ang Mo Kio Ave 10</p>
+<p><strong>14</strong>, <strong>74, 105, 106</strong>, <strong>147, 166, 185</strong>
+</p>
 </li>
 </ul>
 </li>
 </ul>
 <p></p>
-<h4><strong>By Car:</strong></h4>
+<h4><strong>By Private Vehicle:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>NYP has ample parking facilities available on campus.</p>
+<p>SP has ample parking facilities available on campus.</p>
 </li>
 <li>
-<p>To reach NYP by car, follow the directions in <a href="https://www.google.com/maps/place/Nanyang+Polytechnic/@1.3799554,103.8463738,17z/data=!3m2!4b1!5s0x31da16ec8b58ef89:0x8d89d3f163cdd254!4m6!3m5!1s0x31da16eb64b0249d:0xe5f10ff680eed942!8m2!3d1.37995!4d103.8489487!16zL20vMDN4Njkz?entry=ttu&amp;g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D" rel="noopener nofollow" target="_blank">Google Maps</a>
+<p>To reach SP by private vehicle, follow the directions in <a href="https://www.google.com/maps/place/Singapore+Polytechnic+Convention+Centre/@1.311267,103.7769365,18.5z/data=!4m14!1m7!3m6!1s0x31da1a602ff17c15:0xa9545dd23993859e!2sSingapore+Polytechnic!8m2!3d1.3097757!4d103.7775495!16zL20vMDZ2dmxf!3m5!1s0x31da1a61b280c03f:0xfaa789dd7be67eab!8m2!3d1.311146!4d103.7777985!16s%2Fg%2F1tj47_sr?entry=ttu&amp;g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D" rel="noopener nofollow" target="_blank">Google Maps</a>
 </p>
 </li>
 <li>
-<p>Simply input "Nanyang Polytechnic" as your destination and follow the
+<p>Simply input "Singapore Polytechnic" as your destination and follow the
 suggested routes.</p>
 </li>
 </ul>
 <p></p>
-<p>Need help finding your way to Nanyang Polytechnic? Click <a href="https://youtu.be/ChEsFtuMLKA" rel="noopener nofollow" target="_blank">here</a> to
-watch a quick video guide.</p>
-<p></p>
-<p>For detailed information on visiting NYP, including accessibility options,
-campus tours, and visitor parking guidelines, please visit this <a href="https://www.nyp.edu.sg/visit" rel="noopener nofollow" target="_blank">link</a>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PF 2024/Forum Details/nyp_campus_map.jpg">
-</div>
 <h4><strong>Additional Tips:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,16 +63,16 @@ updates or disruptions before your journey.</p>
 is often more convenient and environmentally friendly.</p>
 </li>
 <li>
-<p><strong>Campus Map:</strong> Once you arrive at NYP, refer to the campus
+<p><strong>Campus Map:</strong> Once you arrive at SP, refer to the campus
 map to navigate your way around.</p>
 </li>
 <li>
-<p><strong>Accessibility:</strong> NYP is committed to accessibility. If you
+<p><strong>Accessibility:</strong> SP is committed to accessibility. If you
 require any special assistance, please contact the campus security or visitor
 services office.</p>
 </li>
 </ul>
 <p></p>
-<p>For details of the general facilities/amenities available in NYP, please
-visit this <a href="https://www.nyp.edu.sg/visit/campus-map" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p>For details of the general facilities/amenities available in SP, please
+visit this <a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p></p>

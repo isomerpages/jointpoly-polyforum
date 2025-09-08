@@ -2,7 +2,7 @@
 title: Families Matter
 permalink: /about/sub-themes/familiesmatter/
 description: ""
-third_nav_title: Sub Themes
+third_nav_title: Sub-Themes
 variant: tiptap
 image: /images/PF 2025/About PF 2025/Families_Matter.png
 ---

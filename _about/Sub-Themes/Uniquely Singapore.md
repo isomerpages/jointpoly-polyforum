@@ -2,7 +2,7 @@
 title: Uniquely Singapore
 permalink: /about/sub-themes/uniquelysingapore/
 description: ""
-third_nav_title: Sub Themes
+third_nav_title: Sub-Themes
 variant: tiptap
 image: /images/PF 2025/About PF 2025/Uniquely_Singapore.png
 ---

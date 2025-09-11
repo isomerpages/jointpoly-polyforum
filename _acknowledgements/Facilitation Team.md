@@ -195,6 +195,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Hari Shoran Silvarajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Huang Yuqin</p>
 </td>
 <td rowspan="1" colspan="1">
